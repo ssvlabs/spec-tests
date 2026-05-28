@@ -10,20 +10,16 @@ spec-tests/
   qbft/
     tests/
     state_comparison/
-    tests.json
   ssv/
     tests/
     state_comparison/
-    tests.json
   types/
     tests/
     state_comparison/
-    tests.json
 ```
 
 - `tests/` — individual test JSON files.
 - `state_comparison/` — post‑state comparison JSONs used by spec tests.
-- `tests.json` — a single, aggregated JSON file for each module.
 
 ## How JSONs are generated
 
@@ -62,8 +58,8 @@ In `ssv-spec` GitHub Actions:
 
 Consumers should treat this repo as a **read‑only artifact**:
 
-- Pin to a tag/commit for reproducible test runs.
-- Pull latest JSONs to keep in sync with `ssv-spec`.
+- For test running in production, it is recommended to generate the test vectors JSONs from `ssv-spec` with `make generate-jsons` to avoid any CI mishap that may bring this repo out of sync.
+- This repository is helpful for test development, since it helps track changes in the test vectors across commits.
 
 ## Troubleshooting
 
