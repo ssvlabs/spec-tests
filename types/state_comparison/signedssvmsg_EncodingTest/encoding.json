@@ -1,0 +1,6 @@
+{
+  "Name": "encoding",
+  "Type": "Signed SSV message encoding: validation of signed SSV message encoding",
+  "Documentation": "Test encoding of a signed SSV message to bytes",
+  "Data": "EAAAABQBAAAcAQAABAIAAAQAAACVHBTt5lpebiGlrMahh91v+T5Wx2BwEKToKKuZnczG8gUBJkbE77nhaMMJ55ZMxLjtozwpBs/48yG0pLfZvKby7cX9/f0Ob/eBXMhUkaZBX9XSWwMyJMKrDBDck2Shw1/hUjMJo5qlwVq7cldKmXyf1pCvTXt1M7u9ewgmsq4gldSWZ5+idk1V8ufR0Oj36yPxx+4eHUgYczI2HK71TDkj5Ec6zZHYTe/QZ9dUyJ4rf4t46iku7ze90qIOIBGyNJj+mg1FgMuZ4BCHNNzibt0nVhKNJqR27aAhuhzCoRZVE08ZibYjqMczMdcbSFuGAg6PGYlCFsvtfpVteXrjtCVAAQAAAAAAAAABAAAAAAAAAAAAAwEAAAAAAAAAAAAAAAAAAAAAAAAAAM+Xre7bWeBb/XOitMKoiFcIxPT3DITGSycSDnKrcztyRAAAAAYAAAAAAAAADAAAAAAAAAAUAAAApHmwI9nyjrnM3TW7lg+1wmVTDf8Xiufkqbd/AX91nKWiEl5ya94M2SozMAlUlMjAB4Kif6iQfowarePazbjgYUaGxn4fYoMEYF14YeDtmAPGriFrSq5VqP+0nu0ZPL6nRiYR0sWSvfUhTxJP56Ummrc9RO/J5s4avjL4GWrlJt4BAAAAAAAAAAEAAAAAAAAA"
+}
