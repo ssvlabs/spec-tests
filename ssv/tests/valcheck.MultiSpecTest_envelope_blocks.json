@@ -1,0 +1,147 @@
+{
+  "Name": "envelope blocks",
+  "Type": "Multi value check: multiple value check tests",
+  "Documentation": "Tests Gloas envelope value check (SIP #94 §6): decodes the blinded envelope, requires the self-build builder index, and pins its beacon block root to the recorded §4-decided block root",
+  "Tests": [
+    {
+      "Name": "valid envelope",
+      "Type": "",
+      "Documentation": "",
+      "Network": "now_test_network",
+      "RunnerRole": 9,
+      "DutySlot": "0",
+      "Input": "EAAAAAgAAAAAAAAAfAAAAAkAAAAAAAAAjoAGZVGoGzGCWHCe2vfdH2PNaGoOTbiym7t6z+ZWCGd69aUn2USO5Hg1SF4CtQvADBJ6AAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbAAAAJoQCtAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbAAAAP//////////uye8IZG8eRe3nwCoLp1fXABwZJhtJRKGEH39AjvF1IgBAgMEBQYHCAkKAQIDBAUGBwgJCgECAwQFBgcICQoBAhQAAAAUAAAAFAAAABQAAAAUAAAA",
+      "ExpectedSource": {
+        "epoch": "0",
+        "root": "0x0000000000000000000000000000000000000000000000000000000000000000"
+      },
+      "ExpectedTarget": {
+        "epoch": "0",
+        "root": "0x0000000000000000000000000000000000000000000000000000000000000000"
+      },
+      "SlashableSlots": null,
+      "ExpectedErrorCode": 0,
+      "AnyError": false
+    },
+    {
+      "Name": "undecodable consensus data",
+      "Type": "",
+      "Documentation": "",
+      "Network": "now_test_network",
+      "RunnerRole": 9,
+      "DutySlot": "0",
+      "Input": "Z2FyYmFnZQ==",
+      "ExpectedSource": {
+        "epoch": "0",
+        "root": "0x0000000000000000000000000000000000000000000000000000000000000000"
+      },
+      "ExpectedTarget": {
+        "epoch": "0",
+        "root": "0x0000000000000000000000000000000000000000000000000000000000000000"
+      },
+      "SlashableSlots": null,
+      "ExpectedErrorCode": 105,
+      "AnyError": false
+    },
+    {
+      "Name": "undecodable envelope",
+      "Type": "",
+      "Documentation": "",
+      "Network": "now_test_network",
+      "RunnerRole": 9,
+      "DutySlot": "0",
+      "Input": "EAAAAAgAAAAAAAAAfAAAAAkAAAAAAAAAjoAGZVGoGzGCWHCe2vfdH2PNaGoOTbiym7t6z+ZWCGd69aUn2USO5Hg1SF4CtQvADBJ6AAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbAAAAGdhcmJhZ2U=",
+      "ExpectedSource": {
+        "epoch": "0",
+        "root": "0x0000000000000000000000000000000000000000000000000000000000000000"
+      },
+      "ExpectedTarget": {
+        "epoch": "0",
+        "root": "0x0000000000000000000000000000000000000000000000000000000000000000"
+      },
+      "SlashableSlots": null,
+      "ExpectedErrorCode": 1,
+      "AnyError": false
+    },
+    {
+      "Name": "wrong duty role",
+      "Type": "",
+      "Documentation": "",
+      "Network": "now_test_network",
+      "RunnerRole": 9,
+      "DutySlot": "0",
+      "Input": "EAAAAAgAAAAAAAAAfAAAAAIAAAAAAAAAjoAGZVGoGzGCWHCe2vfdH2PNaGoOTbiym7t6z+ZWCGd69aUn2USO5Hg1SF4CtQvADBJ6AAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbAAAAJoQCtAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbAAAAP//////////uye8IZG8eRe3nwCoLp1fXABwZJhtJRKGEH39AjvF1IgBAgMEBQYHCAkKAQIDBAUGBwgJCgECAwQFBgcICQoBAhQAAAAUAAAAFAAAABQAAAAUAAAA",
+      "ExpectedSource": {
+        "epoch": "0",
+        "root": "0x0000000000000000000000000000000000000000000000000000000000000000"
+      },
+      "ExpectedTarget": {
+        "epoch": "0",
+        "root": "0x0000000000000000000000000000000000000000000000000000000000000000"
+      },
+      "SlashableSlots": null,
+      "ExpectedErrorCode": 51,
+      "AnyError": false
+    },
+    {
+      "Name": "wrong builder index",
+      "Type": "",
+      "Documentation": "",
+      "Network": "now_test_network",
+      "RunnerRole": 9,
+      "DutySlot": "0",
+      "Input": "EAAAAAgAAAAAAAAAfAAAAAkAAAAAAAAAjoAGZVGoGzGCWHCe2vfdH2PNaGoOTbiym7t6z+ZWCGd69aUn2USO5Hg1SF4CtQvADBJ6AAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbAAAAJoQCtAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbAAAAP7/////////uye8IZG8eRe3nwCoLp1fXABwZJhtJRKGEH39AjvF1IgBAgMEBQYHCAkKAQIDBAUGBwgJCgECAwQFBgcICQoBAhQAAAAUAAAAFAAAABQAAAAUAAAA",
+      "ExpectedSource": {
+        "epoch": "0",
+        "root": "0x0000000000000000000000000000000000000000000000000000000000000000"
+      },
+      "ExpectedTarget": {
+        "epoch": "0",
+        "root": "0x0000000000000000000000000000000000000000000000000000000000000000"
+      },
+      "SlashableSlots": null,
+      "ExpectedErrorCode": 106,
+      "AnyError": false
+    },
+    {
+      "Name": "beacon block root does not match the decided block",
+      "Type": "",
+      "Documentation": "",
+      "Network": "now_test_network",
+      "RunnerRole": 9,
+      "DutySlot": "0",
+      "Input": "EAAAAAgAAAAAAAAAfAAAAAkAAAAAAAAAjoAGZVGoGzGCWHCe2vfdH2PNaGoOTbiym7t6z+ZWCGd69aUn2USO5Hg1SF4CtQvADBJ6AAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbAAAAJoQCtAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbAAAAP//////////AQIDBAUGBwgJCgECAwQFBgcICQoBAgMEBQYHCAkKAQIBAgMEBQYHCAkKAQIDBAUGBwgJCgECAwQFBgcICQoBAhQAAAAUAAAAFAAAABQAAAAUAAAA",
+      "ExpectedSource": {
+        "epoch": "0",
+        "root": "0x0000000000000000000000000000000000000000000000000000000000000000"
+      },
+      "ExpectedTarget": {
+        "epoch": "0",
+        "root": "0x0000000000000000000000000000000000000000000000000000000000000000"
+      },
+      "SlashableSlots": null,
+      "ExpectedErrorCode": 107,
+      "AnyError": false
+    },
+    {
+      "Name": "no decided block root for the slot",
+      "Type": "",
+      "Documentation": "",
+      "Network": "now_test_network",
+      "RunnerRole": 9,
+      "DutySlot": "0",
+      "Input": "EAAAAAgAAAAAAAAAfAAAAAkAAAAAAAAAjoAGZVGoGzGCWHCe2vfdH2PNaGoOTbiym7t6z+ZWCGd69aUn2USO5Hg1SF4CtQvALBJ6AAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbAAAAJoQCtAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbAAAAP//////////kgOhP++/aEWPI9xbjK+1COzKuBMh20Gv7/rpoFLR8Q0BAgMEBQYHCAkKAQIDBAUGBwgJCgECAwQFBgcICQoBAhQAAAAUAAAAFAAAABQAAAAUAAAA",
+      "ExpectedSource": {
+        "epoch": "0",
+        "root": "0x0000000000000000000000000000000000000000000000000000000000000000"
+      },
+      "ExpectedTarget": {
+        "epoch": "0",
+        "root": "0x0000000000000000000000000000000000000000000000000000000000000000"
+      },
+      "SlashableSlots": null,
+      "ExpectedErrorCode": 108,
+      "AnyError": false
+    }
+  ]
+}
