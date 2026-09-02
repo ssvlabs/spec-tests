@@ -1212,7 +1212,7 @@
       }
     },
     {
-      "Name": "normal proposer accepts blinded block proposal (unknown)",
+      "Name": "normal proposer accepts blinded block proposal (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": null,
@@ -1427,7 +1427,7 @@
         },
         {
           "Signatures": [
-            "AioWG5+2kuqZIf+HbHUHkli2MDUgLIjQAsoGgszyyNabcGW/JUY1xx2240+NWZZe0GiHS6YrGYmSc8QwF9Q1AUzxBwxSlKoh62kfCNF+l0x/VNk8bSu13eOBkuE4f6fLfnZ4YZfuiDmmywD6jdQVrCUdryRnmcnwn+Baj6Xo1FtExBmNEL5R6zI0qLxa5iUGD2NwkQw11pYbz+XSD6+/281W5iB/4K/gTeHhwtwzXCKH3EBZ+q/Rsc5ZaJoow7LI3/edvOI1zuHGSKvc4a0cg9IZF+lskmuhlFvfqWLA2APDlc7JHiPlNskO6kHex5HGFFGJznRhyYNB7hfq9cmZhA=="
+            "BXhLyigRBfOLl7kS/GLrk9CDr+60aDOoTN+70Trc3movoBFGBQch7SR/SQamm1GFE08EzMyZ2U486RJzU73sDeY7hyGk86ETr/RRJGnaFEUviVDGKEW32XK8tfoVRQfnrBwy6ovPcdEdh0XM+szldOfZK03QXqUv22Erny4cLxj3GnZQ4kYCfRS2dubcQoDAwrDZs0qpLmlgC7WPJ5ffLKObt2pwa7ikS3/dFfR7ESoYxh+3H7rYJWDAs8ZaxUupazWNU80FInnIDwIZ6DNJyZFdbfmWMAhdAfCgfuOBi/3k87ZTT54scMd7P+uHDmFT2cg4Ibl60E6cAeaCaNujMA=="
           ],
           "OperatorIDs": [
             1
@@ -1435,13 +1435,13 @@
           "SSVMessage": {
             "MsgType": 1,
             "MsgID": "00000301020000008e80066551a81b318258709edaf7dd1f63cd686a0e4db8b29bbb7acfe65608677af5a527d9448ee47835485e02b50bc0",
-            "Data": "AAAAAAAAAAAMEnoAAAAAABQAAACvLNrFUrPeSnY7jaJCrur1QK518jb25/0Sl9pm0eN9Oqk0D0DrwRbgzVxOOgWp4JIP3T/vty5htdbclpWBp5s04w77KHtwQbPEEXiscbW93CLTdwMS3lUCe0nMei+yJlUFDi9s+JIPfmhLosdzPijcfJWa6dij2WJ8NFiet96pRAEAAAAAAAAAAQAAAAAAAAA="
+            "Data": "AAAAAAAAAAAMEnoAAAAAABQAAACRRA78C9UXXli2h9/jt8cpcpoaR5vLo47CZ0jI9H5QxOCDKFjxD47sgIHspz8D2FcHKgwlJOMfNQO03pLH1C7IZn25ZAqnaD8UwosVph2dDDn1chdO7kWHCwWmbF8/TYhlHorLl0MJ4YwbLF6ZGQeaFeC2Hp7DW0bsq9D4q1R+9AEAAAAAAAAAAQAAAAAAAAA="
           },
           "FullData": null
         },
         {
           "Signatures": [
-            "gVaTqM3lO3My+71zMQ82BPPnAV9umQK5yuW8BiLt0PcW2BXXoyjli0a2xuUhaD3dpL1VmvJP6NXmqNpLWTCsTvwnxg6tkIe2ROYz/7AvqaV/EcGb7m+8F3AUjQVLQetD+LmP/hZAyqgOSp4H3bqNj0I3RnfEOPlKrJeiD07/QoD6s5LslcmSdZRNelrsCbjJ1MQinqdt+/LRIqJvK7Y9WNSRppeYQy4z7fDYtE0o/tUWlC/n1jfIi0kRkDkYuHfyTmibdL53qIp6i6abwH6tJFV1jWCBKAV+/yCfFHN3VDRzUVD3grRn/UFsrDBsBFEo4K0qwZ3aXDf7DOILuw15Eg=="
+            "HmeD1C+EVIjmRC7wrhkO/h8m2J7pAK9mF6vHG0FMpEUSnfL44OvQadxpadhv5itrkVTzJcz6I0freRbOEQdLZdvApBLp804k6NmJ+cmVHy9wllLEJ9w8ik3Zr7s9QgXO/N//aVPCZ2Gj5J4k2Esb0tsvktI17EcFBq62LCXIpoQdGyEd7PA4XavqC0jXcuHzgmQS7blN570BHW4RTfloRiXC3fVj3KyRtYixNtbzlyI0EgAOG1aKxz7Xnz/yi8VlUZVy1DfESSg+mWTkzfzeYFWiQ3metpgzVZWxlmsPJ6b0bAF0NUWzDEzsn7PGS1lnW9LnM3tM81zVR/dy0+/5Yw=="
           ],
           "OperatorIDs": [
             2
@@ -1449,13 +1449,13 @@
           "SSVMessage": {
             "MsgType": 1,
             "MsgID": "00000301020000008e80066551a81b318258709edaf7dd1f63cd686a0e4db8b29bbb7acfe65608677af5a527d9448ee47835485e02b50bc0",
-            "Data": "AAAAAAAAAAAMEnoAAAAAABQAAACssI0tPqch4I5THcmFFp3wANJcn1xT1ZAxN3UxT1O9JnpNzDgO7DCEWXwQbMPxYHgSBZpUkwucam3at8HFERBOLY2zGCP5Oj+Cjbbm4bl0IgC8azlKdhgIpiHXLzMcCboFDi9s+JIPfmhLosdzPijcfJWa6dij2WJ8NFiet96pRAIAAAAAAAAAAQAAAAAAAAA="
+            "Data": "AAAAAAAAAAAMEnoAAAAAABQAAACsUg+VpXc4+DXsvQ0KGF61iiLjQsqX6TdeMYWXxrtfvSafK8LFicmODKgpAihWHjoJlZpAiNsPpAs9W3uJldtCXpc1u6r7+5s5Zn29IU0sVHBXcgrkMjJL0PlmOOdo1cxlHorLl0MJ4YwbLF6ZGQeaFeC2Hp7DW0bsq9D4q1R+9AIAAAAAAAAAAQAAAAAAAAA="
           },
           "FullData": null
         },
         {
           "Signatures": [
-            "MXdsvp3JsDJQVuCPVXinxMO88JzhWjlXZg5xULItnwaBKKFwI5mzzdGd168Cs4e0eFvTZGlymRLNboteBlPfqKngWh/h1V6TsbHb45RwbiF7C+vWL1Bh40Py33smgvs1loPpx70DMirMilv9+X9iCIuIsqMDmkPuW5/5tEkxK1ysbF5/5hhC80zdQaPpB5qY322c/u6Fotpu++qxogBHGD1nzaQ+Wk0i51vptyhOJyKg1sqW6HqeGk64ZyEOMmsEqszGP/jH0YDUnlrn13zzsmPU+FA9kSlSgRFNsJmqbrZUk56eqTmjmcJB/XqEFyJNwF39RjXqDMfuVq3gJCVcKg=="
+            "eBb6FD+lL22+2tuouaG9wR378mvEJD4yRp43MZFAFCRrhz527IYPe4gXMekQCK8LBIfNl63K5MBOjQCSmzEA4XsBtHB6GVPqaibv+HM473TjuL8KEe/8ZDwhVpc53j2UGpf7wZfBP77BL6/3jE2Sycroi1dt0T7T7b4E8ewHJFTJnywcM8kvurpschYnBG+FgJuaNLGyZbXSMWypr4IefIAxNN3aaLL6rhgHAnmk94TV4knnF3nlsONmZvadINUs+mZqh/HSITr/fG9JdFO7YUn9LgG6uCag7ZuZ6WeaGQoe9p8HOv0Rd/ZZIJ2JsmNkZBNFmAP9kDTeIpy3DXg1OA=="
           ],
           "OperatorIDs": [
             3
@@ -1463,13 +1463,13 @@
           "SSVMessage": {
             "MsgType": 1,
             "MsgID": "00000301020000008e80066551a81b318258709edaf7dd1f63cd686a0e4db8b29bbb7acfe65608677af5a527d9448ee47835485e02b50bc0",
-            "Data": "AAAAAAAAAAAMEnoAAAAAABQAAACXNJjlujStDLeBnfEoeh/Ib0RwKKIGrvCXpzmi5pgstiDsgv0e7CeASZFQOynr2VQHRgopEgPibw3RfkxFtbBYPXrV4EOKw37cKNr9ZseJecKtKLG2gZ2yZfUAXzHoMrYFDi9s+JIPfmhLosdzPijcfJWa6dij2WJ8NFiet96pRAMAAAAAAAAAAQAAAAAAAAA="
+            "Data": "AAAAAAAAAAAMEnoAAAAAABQAAACEEUasmQQ4gycsJHMqqK1sfz2Y9YUE+CS9ZknqqcPAS7dSxJg4Iac+OBhQS3IbJbAPqTFR7vclOhVWrx9SSOeYSoYd/KRn0UicXj8xCVkIvmkVE0Pe1riF6PkXdNPHaxllHorLl0MJ4YwbLF6ZGQeaFeC2Hp7DW0bsq9D4q1R+9AMAAAAAAAAAAQAAAAAAAAA="
           },
           "FullData": null
         }
       ],
       "DecidedSlashable": false,
-      "PostDutyRunnerStateRoot": "451a3a98ac4e70b94ffcbed254457eeca07a28ffd34c549199e97e0c50c976e9",
+      "PostDutyRunnerStateRoot": "7893b8c1c82faeb420079a71f0cf8f2cbe89768e0993414d15bfe9d603b7f60c",
       "OutputMessages": [
         {
           "Type": 1,
@@ -1488,16 +1488,16 @@
           "Slot": "8000012",
           "Messages": [
             {
-              "PartialSignature": "af2cdac552b3de4a763b8da242aeeaf540ae75f236f6e7fd1297da66d1e37d3aa9340f40ebc116e0cd5c4e3a05a9e0920fdd3fefb72e61b5d6dc969581a79b34e30efb287b7041b3c41178ac71b5bddc22d3770312de55027b49cc7a2fb22655",
+              "PartialSignature": "91440efc0bd5175e58b687dfe3b7c729729a1a479bcba38ec26748c8f47e50c4e0832858f10f8eec8081eca73f03d857072a0c2524e31f3503b4de92c7d42ec8667db9640aa7683f14c28b15a61d9d0c39f572174eee45870b05a66c5f3f4d88",
               "Signer": 1,
-              "SigningRoot": "050e2f6cf8920f7e684ba2c7733e28dc7c959ae9d8a3d9627c34589eb7dea944",
+              "SigningRoot": "651e8acb974309e18c1b2c5e9919079a15e0b61e9ec35b46ecabd0f8ab547ef4",
               "ValidatorIndex": "1"
             }
           ]
         }
       ],
       "BeaconBroadcastedRoots": [
-        "0301d3a52286b12c4baab2f8aa070865a2ad2dadbbe985a224b8441f1a98a24b"
+        "ee74fe45fc73a86b307c783d358a20df513cc8e092c2cc3e287f00ad865b51ed"
       ],
       "DontStartDuty": false,
       "ExpectedErrorCode": 0,

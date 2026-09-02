@@ -4382,7 +4382,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "1 aggregator (unknown)",
+      "Name": "1 aggregator (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -4679,7 +4679,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "30 aggregator (unknown)",
+      "Name": "30 aggregator (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -14386,7 +14386,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "1 aggregator and sync committee contribution (unknown)",
+      "Name": "1 aggregator and sync committee contribution (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -14737,7 +14737,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "20 aggregator and sync committee contribution (unknown)",
+      "Name": "20 aggregator and sync committee contribution (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},

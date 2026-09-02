@@ -1900,7 +1900,7 @@
       ]
     },
     {
-      "Name": "terminates when all signers seen (unknown)",
+      "Name": "terminates when all signers seen (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": null,

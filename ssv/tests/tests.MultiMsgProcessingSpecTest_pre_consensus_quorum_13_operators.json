@@ -3196,7 +3196,7 @@
       }
     },
     {
-      "Name": "aggregator selection proof (unknown)",
+      "Name": "aggregator selection proof (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": null,
@@ -3504,7 +3504,7 @@
       }
     },
     {
-      "Name": "aggregator committee duty (unknown)",
+      "Name": "aggregator committee duty (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": null,

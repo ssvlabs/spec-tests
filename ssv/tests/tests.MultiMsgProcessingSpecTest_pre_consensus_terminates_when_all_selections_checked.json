@@ -1248,7 +1248,7 @@
       ]
     },
     {
-      "Name": "terminates when all selections checked (unknown)",
+      "Name": "terminates when all selections checked (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": null,

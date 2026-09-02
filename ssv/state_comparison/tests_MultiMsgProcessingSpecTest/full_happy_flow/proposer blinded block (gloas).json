@@ -16,10 +16,10 @@
       "PostConsensusContainer": {
         "Signatures": {
           "1": {
-            "050e2f6cf8920f7e684ba2c7733e28dc7c959ae9d8a3d9627c34589eb7dea944": {
-              "1": "ryzaxVKz3kp2O42iQq7q9UCudfI29uf9EpfaZtHjfTqpNA9A68EW4M1cTjoFqeCSD90/77cuYbXW3JaVgaebNOMO+yh7cEGzxBF4rHG1vdwi03cDEt5VAntJzHovsiZV",
-              "2": "rLCNLT6nIeCOUx3JhRad8ADSXJ9cU9WQMTd1MU9TvSZ6Tcw4DuwwhFl8EGzD8WB4EgWaVJMLnGpt2rfBxREQTi2Nsxgj+To/go225uG5dCIAvGs5SnYYCKYh1y8zHAm6",
-              "3": "lzSY5bo0rQy3gZ3xKHofyG9EcCiiBq7wl6c5ouaYLLYg7IL9HuwngEmRUDsp69lUB0YKKRID4m8N0X5MRbWwWD161eBDisN+3Cja/WbHiXnCrSixtoGdsmX1AF8x6DK2"
+            "651e8acb974309e18c1b2c5e9919079a15e0b61e9ec35b46ecabd0f8ab547ef4": {
+              "1": "kUQO/AvVF15Ytoff47fHKXKaGkeby6OOwmdIyPR+UMTggyhY8Q+O7ICB7Kc/A9hXByoMJSTjHzUDtN6Sx9QuyGZ9uWQKp2g/FMKLFaYdnQw59XIXTu5FhwsFpmxfP02I",
+              "2": "rFIPlaV3OPg17L0NChhetYoi40LKl+k3XjGFl8a7X70mnyvCxYnJjgyoKQIoVh46CZWaQIjbD6QLPVt7iZXbQl6XNbuq+/ubOWZ9vSFNLFRwV3IK5DIyS9D5ZjjnaNXM",
+              "3": "hBFGrJkEOIMnLCRzKqitbH89mPWFBPgkvWZJ6qnDwEu3UsSYOCGnPjgYUEtyGyWwD6kxUe73JToVVq8fUkjnmEqGHfykZ9FInF4/MQlZCL5pFRND3ta4hej5F3TTx2sZ"
             }
           }
         },
@@ -639,6 +639,6 @@
     "RunnerRoleType": 2
   },
   "ProposedBlockRoots": {
-    "8000012": "0xbb27bc2191bc7917b79f00a82e9d5f5c007064986d251286107dfd023bc5d488"
+    "8000012": "0xa371306aa0ef44cea786d0390d7cb358a1f518704af41b1ca8cdfea60ff72bc5"
   }
 }
