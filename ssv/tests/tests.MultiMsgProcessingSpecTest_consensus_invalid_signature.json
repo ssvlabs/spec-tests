@@ -1110,7 +1110,7 @@
       }
     },
     {
-      "Name": "aggregator (unknown)",
+      "Name": "aggregator (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": null,
@@ -1980,7 +1980,7 @@
       }
     },
     {
-      "Name": "attester (unknown)",
+      "Name": "attester (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": null,
@@ -2091,7 +2091,7 @@
       }
     },
     {
-      "Name": "sync committee (unknown)",
+      "Name": "sync committee (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": null,
@@ -2206,7 +2206,7 @@
       }
     },
     {
-      "Name": "attester and sync committee (unknown)",
+      "Name": "attester and sync committee (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": null,
@@ -2403,15 +2403,15 @@
           "RunnerRoleType": 9
         },
         "ProposedBlockRoots": {
-          "8000012": "0xbb27bc2191bc7917b79f00a82e9d5f5c007064986d251286107dfd023bc5d488",
-          "8000044": "0x9203a13fefbf68458f23dc5b8cafb508eccab81321db41afeffae9a052d1f10d"
+          "8000012": "0xa371306aa0ef44cea786d0390d7cb358a1f518704af41b1ca8cdfea60ff72bc5",
+          "8000044": "0xfe3bef0a1d4926cdb500090d1adddcba311e523382e2274e4bfce419f2f3976f"
         },
         "ProducedEnvelope": null
       },
       "Messages": [
         {
           "Signatures": [
-            "XEnqw8LzquXvYwiybrRRzjZjjxWvWP4xf64tdvonqs699yVbe5QKjd4d/+SqR4Mc2YkLoETOO8PhSZNrYAuw56ySOJwTWBJG4eeK4ry1UHF4/2n3aythnOK09DSplKZ08XWRqzEXqLZS43sy5keVRqR9w0gvx/GnMUILVy9Gs5pH6pacK46VhbOfsAsZecmSUbk2ugn9HY0l+TFq1tUnZG428j/NuWNjZehKz3yMMBclLa5Y9q/tD602j4fRboG9aTYhv+4h1rf6Q+Gjfw/3H9tJW+W/2o+UXbn24+swdRqgt1yPSBnAGL7xPpplOx2E2IHSqp4gpm5IbPryMlwQKA=="
+            "cecFIa2ZTYTvO+B5ln70gd430Aqvx+SsyKbzG7+0h5p0RShz4QRoJ/1qLmM6WjDtzJyaJ0z7gt/rUOCaYvr8nAQx4nXy8+fp/8ZTDrjmpD4b2w5Fo6+WMFyUKISuwNWGgcRsyQIr3VBH4j/OXcsOuC1myC3uJr1C0c9N1SJdGxezjAZ+NXUssdB06tn5w0aec7JqcwOYSANo2aRd6hojP8q+q5E6CDHrUmcF6kHbdPHSoMb0URZl9FIMH8mlVJilNjW6gwy1OT0X0asAdNnO2APsPjxSM5XYb4RRFPJ35hxR943liQWN+HIgz9RTei6g0G6XRcDZ85lCKGG+ZWOVgQ=="
           ],
           "OperatorIDs": [
             1
@@ -2419,7 +2419,7 @@
           "SSVMessage": {
             "MsgType": 0,
             "MsgID": "00000301090000008e80066551a81b318258709edaf7dd1f63cd686a0e4db8b29bbb7acfe65608677af5a527d9448ee47835485e02b50bc0",
-            "Data": "AAAAAAAAAAAMEnoAAAAAAAEAAAAAAAAATAAAALyCUCD+beuMeC+5Mc7jYfute46xfZ1C+jlq9Dmtz/ttAAAAAAAAAACEAAAAhAAAAAAAAwEJAAAAjoAGZVGoGzGCWHCe2vfdH2PNaGoOTbiym7t6z+ZWCGd69aUn2USO5Hg1SF4CtQvA"
+            "Data": "AAAAAAAAAAAMEnoAAAAAAAEAAAAAAAAATAAAAJrkWex+yJmvQE2xQiSA2SYw9YYGs8IQGZOdrmTm30x+AAAAAAAAAACEAAAAhAAAAAAAAwEJAAAAjoAGZVGoGzGCWHCe2vfdH2PNaGoOTbiym7t6z+ZWCGd69aUn2USO5Hg1SF4CtQvA"
           },
           "FullData": null
         }

@@ -1212,7 +1212,7 @@
       }
     },
     {
-      "Name": "aggregator selection proof (unknown)",
+      "Name": "aggregator selection proof (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": {
@@ -1351,7 +1351,7 @@
       }
     },
     {
-      "Name": "aggregator committee duty (unknown)",
+      "Name": "aggregator committee duty (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": {
@@ -2560,7 +2560,7 @@
       }
     },
     {
-      "Name": "randao (unknown)",
+      "Name": "randao (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": {
@@ -2690,7 +2690,7 @@
       }
     },
     {
-      "Name": "randao blinded block (unknown)",
+      "Name": "randao blinded block (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": {

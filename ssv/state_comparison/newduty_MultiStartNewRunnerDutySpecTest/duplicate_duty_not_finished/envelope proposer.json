@@ -191,8 +191,8 @@
     "RunnerRoleType": 9
   },
   "ProposedBlockRoots": {
-    "8000012": "0xbb27bc2191bc7917b79f00a82e9d5f5c007064986d251286107dfd023bc5d488",
-    "8000044": "0x9203a13fefbf68458f23dc5b8cafb508eccab81321db41afeffae9a052d1f10d"
+    "8000012": "0xa371306aa0ef44cea786d0390d7cb358a1f518704af41b1ca8cdfea60ff72bc5",
+    "8000044": "0xfe3bef0a1d4926cdb500090d1adddcba311e523382e2274e4bfce419f2f3976f"
   },
   "ProducedEnvelope": null
 }

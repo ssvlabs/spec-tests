@@ -990,7 +990,7 @@
       }
     },
     {
-      "Name": "aggregator (unknown)",
+      "Name": "aggregator (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": null,
@@ -2162,7 +2162,7 @@
       }
     },
     {
-      "Name": "attester (unknown)",
+      "Name": "attester (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": null,
@@ -2324,7 +2324,7 @@
       }
     },
     {
-      "Name": "sync committee (unknown)",
+      "Name": "sync committee (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": null,
@@ -2490,7 +2490,7 @@
       }
     },
     {
-      "Name": "attester and sync committee (unknown)",
+      "Name": "attester and sync committee (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": null,
@@ -2789,15 +2789,15 @@
           "RunnerRoleType": 9
         },
         "ProposedBlockRoots": {
-          "8000012": "0xbb27bc2191bc7917b79f00a82e9d5f5c007064986d251286107dfd023bc5d488",
-          "8000044": "0x9203a13fefbf68458f23dc5b8cafb508eccab81321db41afeffae9a052d1f10d"
+          "8000012": "0xa371306aa0ef44cea786d0390d7cb358a1f518704af41b1ca8cdfea60ff72bc5",
+          "8000044": "0xfe3bef0a1d4926cdb500090d1adddcba311e523382e2274e4bfce419f2f3976f"
         },
         "ProducedEnvelope": null
       },
       "Messages": [
         {
           "Signatures": [
-            "VQ8LTGymkh4ao2PM0REENeHpVcHLVgz6C3MSoCMHtjC++PTj+M4gCKUNgPpOcLjD5Qrg08YxqvKVqNH84semUc8NBwtD72RxBu5ArLgPL0UTKWyw2HcXERuluwuv7ao+S5CaxVgy0sur8TdMGE5tV9VAd5X1A5o+FDAKj5OVQb5zP2gruE6DOk1NK2W+weiVWW+YUTvTaC8Mmbr5c036PMw6QeCcEYXbZ+Zsyy13emnh8mDJaeygqlpkoOojmP7RWRGPjytvUQxlfR7hQEwqnTL+O2WvL6hTx/NX1UwenJWMnfbiiFBu6/narH+/AyT3Br8lE/M5GjpFgvXixDJ4Vw=="
+            "ohVFWhCpjcC01bXs1806FDCNiBAiu8uw0+bNsxF+rwsz8OS96Zv6U2rHxRsC3x+oOmkgNrIk0bSJ3Kczkgiew5FI1zv2B2D/Z1l4eWD+ccF1/+cMTi0TjyLsg+AobHggfOowYlmFLAbbwHxW4XUxEoo+zC9BhJMeGJzXWnhXF+WQ29NJKyhivCTz6m51RGpSM5Cr+862G8v6yHPSrdw/iPC0bO8rzBp06aLDeOno790KzSbDysVVOtZzN5bWQ+WLfJ47o+JvZ7uelCW3yhp+z/mwtOGsw4yjl5GHzXy8wz7DeaBwBlWPWspAxqLNa1+JdOdy6EM82PjHtzhxYv3JsQ=="
           ],
           "OperatorIDs": [
             1
@@ -2805,9 +2805,9 @@
           "SSVMessage": {
             "MsgType": 0,
             "MsgID": "00000301090000008e80066551a81b318258709edaf7dd1f63cd686a0e4db8b29bbb7acfe65608677af5a527d9448ee47835485e02b50bc0",
-            "Data": "AAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAATAAAALyCUCD+beuMeC+5Mc7jYfute46xfZ1C+jlq9Dmtz/ttAAAAAAAAAACEAAAAhAAAAAAAAwEJAAAAjoAGZVGoGzGCWHCe2vfdH2PNaGoOTbiym7t6z+ZWCGd69aUn2USO5Hg1SF4CtQvA"
+            "Data": "AAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAATAAAAJrkWex+yJmvQE2xQiSA2SYw9YYGs8IQGZOdrmTm30x+AAAAAAAAAACEAAAAhAAAAAAAAwEJAAAAjoAGZVGoGzGCWHCe2vfdH2PNaGoOTbiym7t6z+ZWCGd69aUn2USO5Hg1SF4CtQvA"
           },
-          "FullData": "EAAAAAgAAAAAAAAAfAAAAAkAAAAAAAAAjoAGZVGoGzGCWHCe2vfdH2PNaGoOTbiym7t6z+ZWCGd69aUn2USO5Hg1SF4CtQvADBJ6AAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbAAAAJoQCtAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbAAAAP//////////uye8IZG8eRe3nwCoLp1fXABwZJhtJRKGEH39AjvF1IgBAgMEBQYHCAkKAQIDBAUGBwgJCgECAwQFBgcICQoBAhQAAAAUAAAAFAAAABQAAAAUAAAA"
+          "FullData": "EAAAAAgAAAAAAAAAfAAAAAkAAAAAAAAAjoAGZVGoGzGCWHCe2vfdH2PNaGoOTbiym7t6z+ZWCGd69aUn2USO5Hg1SF4CtQvADBJ6AAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbAAAAJoQCtAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbAAAAP//////////o3EwaqDvRM6nhtA5DXyzWKH1GHBK9BscqM3+pg/3K8UBAgMEBQYHCAkKAQIDBAUGBwgJCgECAwQFBgcICQoBAhQAAAAUAAAAFAAAABQAAAAUAAAA"
         }
       ],
       "DecidedSlashable": false,

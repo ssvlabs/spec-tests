@@ -1514,7 +1514,7 @@
       }
     },
     {
-      "Name": "aggregator selection proof (unknown)",
+      "Name": "aggregator selection proof (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": null,
@@ -1761,9 +1761,9 @@
           "Slot": "8000012",
           "Messages": [
             {
-              "PartialSignature": "b0aad0c5746efc7376e6b95d28fb1d2ecc2a9fde0d884ebf60f20eccc8e42cb0ce8191251ef1d11b9a0c2c2b2fac5b4f04140ba24001bf38162091cba59b7459277b88e1eee39f74b9f3c6cf1804660b33a23ffeb9c9a185a69043f38a280a38",
+              "PartialSignature": "9840f0287e5df0d778cc0cdb92df53da2d95bcfe2bb8b9b16ffb9fa4ddac18c48ac825fc098bcf250316b62bf653260f102524105ab8b6b857b57d4d2485a3e3377cb7ea98ae24e71d6801b7dd343e302aca19c960db1a0387ff01adb65a841c",
               "Signer": 1,
-              "SigningRoot": "5d7c69982dc3dd3df8c723c0a0a3c59c5adf50ece99e03d8eeca5879fca24963",
+              "SigningRoot": "ec50b7ad12059dc5713c26881b3cbd499b6fe18885094f8ff711acf461af1256",
               "ValidatorIndex": "1"
             }
           ]
@@ -1790,7 +1790,7 @@
       }
     },
     {
-      "Name": "aggregator committee duty (unknown)",
+      "Name": "aggregator committee duty (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": null,
@@ -2055,9 +2055,9 @@
           "Slot": "8000012",
           "Messages": [
             {
-              "PartialSignature": "b0aad0c5746efc7376e6b95d28fb1d2ecc2a9fde0d884ebf60f20eccc8e42cb0ce8191251ef1d11b9a0c2c2b2fac5b4f04140ba24001bf38162091cba59b7459277b88e1eee39f74b9f3c6cf1804660b33a23ffeb9c9a185a69043f38a280a38",
+              "PartialSignature": "9840f0287e5df0d778cc0cdb92df53da2d95bcfe2bb8b9b16ffb9fa4ddac18c48ac825fc098bcf250316b62bf653260f102524105ab8b6b857b57d4d2485a3e3377cb7ea98ae24e71d6801b7dd343e302aca19c960db1a0387ff01adb65a841c",
               "Signer": 1,
-              "SigningRoot": "5d7c69982dc3dd3df8c723c0a0a3c59c5adf50ece99e03d8eeca5879fca24963",
+              "SigningRoot": "ec50b7ad12059dc5713c26881b3cbd499b6fe18885094f8ff711acf461af1256",
               "ValidatorIndex": "1"
             },
             {
@@ -4021,7 +4021,7 @@
       }
     },
     {
-      "Name": "randao (unknown)",
+      "Name": "randao (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": {
@@ -4259,7 +4259,7 @@
       }
     },
     {
-      "Name": "randao blinded block (unknown)",
+      "Name": "randao blinded block (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": {
