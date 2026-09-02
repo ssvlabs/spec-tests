@@ -1483,9 +1483,9 @@
           "Slot": "8000012",
           "Messages": [
             {
-              "PartialSignature": "b4dbdcd92b93dc7e9ca7015f9c640c58b7d7e38326b380bfa0af5ed84e2dfcb889e696ea3e4e85036291112e9813d6c7038e08bac2ea6cf33f64b6d5185ebcc7706e3997386a8b82c8d01dc4506350c8cc551c37bfc7d7a1647f1c0291fa9e2e",
+              "PartialSignature": "a021af0f3449ddadecb5ab8dd544896fa1456d27ca44beaef2ed2f260984c7514615463d76afe57f5bc4dacdfdd5c97c0bf6f692e4b7a93682dde86562c1c0accd27a231417daa919c02141d697024c72db09af742b7fcd09562c37f71000270",
               "Signer": 1,
-              "SigningRoot": "5d7c69982dc3dd3df8c723c0a0a3c59c5adf50ece99e03d8eeca5879fca24963",
+              "SigningRoot": "ec50b7ad12059dc5713c26881b3cbd499b6fe18885094f8ff711acf461af1256",
               "ValidatorIndex": "1"
             }
           ]
