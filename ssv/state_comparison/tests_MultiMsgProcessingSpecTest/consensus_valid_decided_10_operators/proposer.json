@@ -1145,5 +1145,6 @@
     },
     "BeaconNetwork": "now_test_network",
     "RunnerRoleType": 2
-  }
+  },
+  "ProposedBlocks": {}
 }

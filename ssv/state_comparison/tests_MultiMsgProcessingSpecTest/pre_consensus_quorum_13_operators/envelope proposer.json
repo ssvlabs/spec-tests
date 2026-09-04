@@ -1,0 +1,157 @@
+{
+  "BaseRunner": {
+    "State": {
+      "PreConsensusContainer": {
+        "Signatures": {
+          "1": {
+            "9e212bdd90f17287f2deb5c8b162faefefd1a56c112e9d3baa391980ab86afe5": {
+              "1": "oTxoOzavZXvDzpMAnnbclMZpPPhC72nQq16amRP0j3YIZ/fJ85kd5qu+/8pCwnPLDcbbqQTdK17jo8lYXdA/sCpFjtDuBAzIWW5iBVyLA6LISaIp3TJdTW0Hsr2EQSSt",
+              "2": "ubU7wywZHyr1PoKtJiCA8uioSS4mBUcQByU1aypenFGCytjX82ED7QeYaiw4pBSFCIdga+tFFU8N0TfjUjh5DGrvDtmb3hcNkjNb+sBEvSMHxJ9JLto5HSK9dKlqIUME",
+              "3": "hZgXU6N5QnQl9C9fN/H4C1Z63DSEMbZlti4XEKh7851LtVpoKl2Ej9mc6qmkJTEwGVykajhymkQYIrNRlXAWtOrRZzDqb2tUQyA7IL4lnfjKhUKUb+45L2NvmSXu1lIB",
+              "4": "tZjh4bKzISjOCaq5jL9wXA1ExRV0VHLkcJGAS/23KVFnawwH57A3wNbkv/w7uW+nGdI/tjhXEaP/0asIlz7xwhGk/wdtYQxZcmcKi+f22iZGl78drA+ChQ4E60VQDKId",
+              "5": "rHHeXD+mepUyKZcqmYKVrZ3/CHTnCeC241TdkVBn7NzfnYjMr/HfzFgRkgGyIzibF3sEyUylSOBmRLr2IZpkmretqh1LwUgQiH2sOezthyCUEYMflKy+/ttXhcehIjyL",
+              "6": "tKb6QZECA3jFKKdAkTr8zqaXppaiCey8iF1btIo2JGnKGN2AWp7WWcTJg/I7rtdDC6Sb8m7KSJWAIjnhk8+Rf7f27Rq7jbD2wm9tsA74T7u6ymnXPqcxC4G8YrJ3wYik",
+              "7": "qJOaCFhX12Bt1ldkUPMbC8iOicw4R3lyWoFGe4rznjnVLCB4vh+VudjVLVqpfMNBAuKvnn2G3GNcX88UFVoJ4JZ0X0i/QYILtQG+ID5gic9FKOEv29y3l8MwQru5lSmC",
+              "8": "t1APBxdk02l06JnpV+8i8JsQCF9MFdwxiT+ChsN2SNFzNqpiuPOGRf6oDyx0GK8gAcAaNv5LGtQcdufDRsgqpuLpjxaYX0EwRXW7TOQG1q68LbfoZsEf5HKCUH6UePGx",
+              "9": "oI2O2WPytIUgsPmTowI2SschgiUGYFJGmY2khV/gbpM8IKVgKabB1m0JpTtvfD3lEbSII2hSj96anUzEhQWIebhlDZeLsme0QcCR384LYKL6fYeFSTiLPxfaedU+LHCk"
+            }
+          }
+        },
+        "Quorum": 9
+      },
+      "PostConsensusContainer": {
+        "Signatures": {},
+        "Quorum": 9
+      },
+      "RunningInstance": null,
+      "DecidedValue": null,
+      "Finished": true,
+      "ValidatorDuty": {
+        "Type": 9,
+        "PubKey": "0x8e80066551a81b318258709edaf7dd1f63cd686a0e4db8b29bbb7acfe65608677af5a527d9448ee47835485e02b50bc0",
+        "Slot": "8000012",
+        "ValidatorIndex": "1",
+        "CommitteeIndex": 0,
+        "CommitteeLength": 0,
+        "CommitteesAtSlot": 0,
+        "ValidatorCommitteeIndex": 0,
+        "ValidatorSyncCommitteeIndices": null
+      }
+    },
+    "Share": {
+      "1": {
+        "Committee": [
+          {
+            "SharePubKey": "hI5zYqHx/eeuUNu47igpgY80yHA2Te2lJxNAy4TZZWIGVNVENfV4msUv+lRUKazt",
+            "Signer": 1
+          },
+          {
+            "SharePubKey": "gLOhjAC9gn7p3Anu5jV1qhZHsjpE2kaCKlufbGqWLkGk2d8Zud87XprQaPd6yx9Z",
+            "Signer": 2
+          },
+          {
+            "SharePubKey": "hdGTJS5FHnymzBPtOa2J8NFZgkuTSNL6bRlcnMQ+3Yc42m0YCfUMme7pVRZqbpTZ",
+            "Signer": 3
+          },
+          {
+            "SharePubKey": "segmLvr3PGJeNMUmR3/KgSXx5ghNACzwU8EdOrcJWMrHC18g2aLLFE+g8ewHyNnz",
+            "Signer": 4
+          },
+          {
+            "SharePubKey": "kNPPyMK8POfloYXlgcsmadBB2meJ6JyL0juCIYFy0JhMDzrcrLz/hrlm044VfnNb",
+            "Signer": 5
+          },
+          {
+            "SharePubKey": "inPM4U47OFEcVAewYzVFUKPrWUBbtZAyURSQ61zC1XxKMXU3d95zPfyY5vAyqIa3",
+            "Signer": 6
+          },
+          {
+            "SharePubKey": "jp+9nrZ8sYqDz0AxKKBxD6HXkQc6wAC4Lg8mq7+LNJr7C9v/fcohAk468TIL0o3j",
+            "Signer": 7
+          },
+          {
+            "SharePubKey": "kdu3pEx4bR4kiUa7++Zq9MgbC6iLzVjSwOj6Aui8FYCtxKndIaKlJ6kZo9/Y2Ddo",
+            "Signer": 8
+          },
+          {
+            "SharePubKey": "mHjlwu4h7wD7ddCACZHbzNzeNV5gE6q0m26NM0c10+ZKnfe1nPvrAaWNat1/L0WP",
+            "Signer": 9
+          },
+          {
+            "SharePubKey": "kF19qpdOmicblY+rPEzD8J6ONES2rkdid7enfjhYI5fmqVtOPOrBDfUSyuPfOfoj",
+            "Signer": 10
+          },
+          {
+            "SharePubKey": "tnj/6m3UVXaCBWL7SQ7Wqjrdhv/VtD2DxC0YHujmalndSaGwm8sv7VZK0L8xaowq",
+            "Signer": 11
+          },
+          {
+            "SharePubKey": "lsQeEx+FxRb2yCq9hgTcgaNUVhSxBJg9H7zW4qADv76cPGPBBQKD/Z/v34MPglL3",
+            "Signer": 12
+          },
+          {
+            "SharePubKey": "p0Ku0QA3sia0RoXTDFjemn3CYyR7hYmehxQc0991MyNVwj3Kh8y6G5mq8H8HiIim",
+            "Signer": 13
+          }
+        ],
+        "DomainType": [
+          0,
+          0,
+          3,
+          1
+        ],
+        "FeeRecipientAddress": "535953b5a6040074948cf185eaa7d2abbd66808f",
+        "Graffiti": "AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "SharePubKey": "hI5zYqHx/eeuUNu47igpgY80yHA2Te2lJxNAy4TZZWIGVNVENfV4msUv+lRUKazt",
+        "ValidatorIndex": "1",
+        "ValidatorPubKey": "8e80066551a81b318258709edaf7dd1f63cd686a0e4db8b29bbb7acfe65608677af5a527d9448ee47835485e02b50bc0"
+      }
+    },
+    "QBFTController": null,
+    "BeaconNetwork": "now_test_network",
+    "RunnerRoleType": 9
+  },
+  "ProposedBlocks": {
+    "8000012": {
+      "BlockRoot": "0xfb51ba230508b8f8a3790fbc587503c302606895ce83a7e52e4ca4b460634ba5",
+      "ParentRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "ExecutionRequestsRoot": "0x3a02ed03ab3f2af7ef0e6ee1a44326479d2ab1d2f03613dd1ec0a11fcf37af96"
+    },
+    "8000015": {
+      "BlockRoot": "0x23b65eafa118cc876c41e69ce3d429ea16b0586520580da983e1d87c8a9ada6c",
+      "ParentRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "ExecutionRequestsRoot": "0x3a02ed03ab3f2af7ef0e6ee1a44326479d2ab1d2f03613dd1ec0a11fcf37af96"
+    },
+    "8000044": {
+      "BlockRoot": "0x4de58e1f323fe6498b2fbb48cc1559069ddfad496c2d001b9d855c274c84f8e1",
+      "ParentRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "ExecutionRequestsRoot": "0x3a02ed03ab3f2af7ef0e6ee1a44326479d2ab1d2f03613dd1ec0a11fcf37af96"
+    }
+  },
+  "ProducedEnvelope": {
+    "PayloadRoot": "0x9a100ad000000000000000000000000000000000000000000000000000000000",
+    "ExecutionRequests": {
+      "Deposits": null,
+      "Withdrawals": null,
+      "Consolidations": null,
+      "BuilderDeposits": null,
+      "BuilderExits": null
+    },
+    "BuilderIndex": "18446744073709551615",
+    "BeaconBlockRoot": "0xfb51ba230508b8f8a3790fbc587503c302606895ce83a7e52e4ca4b460634ba5",
+    "ParentBeaconBlockRoot": "0x0000000000000000000000000000000000000000000000000000000000000000"
+  },
+  "SelectedEnvelope": {
+    "PayloadRoot": "0x9a100ad000000000000000000000000000000000000000000000000000000000",
+    "ExecutionRequests": {
+      "Deposits": null,
+      "Withdrawals": null,
+      "Consolidations": null,
+      "BuilderDeposits": null,
+      "BuilderExits": null
+    },
+    "BuilderIndex": "18446744073709551615",
+    "BeaconBlockRoot": "0xfb51ba230508b8f8a3790fbc587503c302606895ce83a7e52e4ca4b460634ba5",
+    "ParentBeaconBlockRoot": "0x0000000000000000000000000000000000000000000000000000000000000000"
+  }
+}
