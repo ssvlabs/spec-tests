@@ -4,10 +4,10 @@
       "PreConsensusContainer": {
         "Signatures": {
           "1": {
-            "9e212bdd90f17287f2deb5c8b162faefefd1a56c112e9d3baa391980ab86afe5": {
-              "1": "sB3XkALzhjhl72siaLeCzRELoFjqFIwMjY1ZSirT2umWOwjAs4B8F/U+EFl+vyY+Esi6QcLK7ZvvLYPSijByXyLiw9hp/ZDlhqGPcRO0Wf246H5uglQKa5LVYgLJ2Oky",
-              "2": "rQnwua1r+CvjZfJgeGX+eyzYfpWc7BGhjCtF2gu8xDQjhF5IiXxhWz0y4YPpRIboEr+axJVfFHOEQVwZWFbYZ+LuFG1J+2MdyWmlWyg3S3U5ZK/ftAeFM2fzrZPj+cGF",
-              "3": "pmhXuvF+xGDMSte4qPUCwHnCzOZki6ekICWy4p++586xrbAJfgg9NecboNYK2rRdEL1t963MH/VrF6DESfPSWql169f9fBU0HUdE7Ey/y5wEWRpur5n1BtS88cxdss5T"
+            "82455abf8dce5f9929517ea182d8fd60c427afe74af17e7b953318d190d035ad": {
+              "1": "hq1HnGzDAuapw3tSK03nOz8fCgKrb1wstU0nbhDK5Yr6MV8COcFHZ2WBCzyKQzhOAXLLDOuXUwUT2vo3jgFdWJek1ATVtc/XbxXshk0vk6Jpf8mlbMled19etEMQB/+S",
+              "2": "jGoSjfGM1DUSx/wwYCsKnuFCPb65RJ047aZdlps29RxRRgPrLKojdM/u5n2T6qDHCN/qulwghTfeCz7YmZQgAtoog+gMJ3zpciL8hkLz4xluUIFj38C3hmvo3s04a2PL",
+              "3": "o43oRyq8wKQVDiup1tpc5SFJ64Isg3YfD4Jtdm2cRzWAPrz6VYGRLOzgi86En0WUGEER24FQlV/YcYJWwZs63vvVznJhUyTzf+yAWaxOmjnKlE+9nPRd4pTbKKbJDiKD"
             }
           }
         },
@@ -71,9 +71,9 @@
   },
   "ProposedBlocks": {
     "8000012": {
-      "BlockRoot": "0xfb51ba230508b8f8a3790fbc587503c302606895ce83a7e52e4ca4b460634ba5",
+      "BlockRoot": "0xde6a95127443ed139a6aab31e61105d266b0c29ae351900c4ce5b7c1b06777b7",
       "ParentRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
-      "ExecutionRequestsRoot": "0x3a02ed03ab3f2af7ef0e6ee1a44326479d2ab1d2f03613dd1ec0a11fcf37af96"
+      "ExecutionRequestsRoot": "0x87b69a306c8e430d0857f7c4ac5e27cecffa1108d43c2e5df7388056fea7a423"
     }
   },
   "ProducedEnvelope": {
@@ -86,7 +86,7 @@
       "BuilderExits": null
     },
     "BuilderIndex": "18446744073709551615",
-    "BeaconBlockRoot": "0xfb51ba230508b8f8a3790fbc587503c302606895ce83a7e52e4ca4b460634ba5",
+    "BeaconBlockRoot": "0xde6a95127443ed139a6aab31e61105d266b0c29ae351900c4ce5b7c1b06777b7",
     "ParentBeaconBlockRoot": "0x0000000000000000000000000000000000000000000000000000000000000000"
   },
   "SelectedEnvelope": {
@@ -99,7 +99,7 @@
       "BuilderExits": null
     },
     "BuilderIndex": "18446744073709551615",
-    "BeaconBlockRoot": "0xfb51ba230508b8f8a3790fbc587503c302606895ce83a7e52e4ca4b460634ba5",
+    "BeaconBlockRoot": "0xde6a95127443ed139a6aab31e61105d266b0c29ae351900c4ce5b7c1b06777b7",
     "ParentBeaconBlockRoot": "0x0000000000000000000000000000000000000000000000000000000000000000"
   }
 }

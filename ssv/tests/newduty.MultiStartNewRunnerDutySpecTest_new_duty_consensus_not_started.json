@@ -970,7 +970,7 @@
       }
     },
     {
-      "Name": "aggregator (unknown)",
+      "Name": "aggregator (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": {
@@ -1899,7 +1899,7 @@
       }
     },
     {
-      "Name": "attester (unknown)",
+      "Name": "attester (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": {
@@ -2019,7 +2019,7 @@
       }
     },
     {
-      "Name": "sync committee (unknown)",
+      "Name": "sync committee (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": {
@@ -2147,7 +2147,7 @@
       }
     },
     {
-      "Name": "attester and sync committee (unknown)",
+      "Name": "attester and sync committee (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": {
@@ -2363,19 +2363,19 @@
         },
         "ProposedBlocks": {
           "8000012": {
-            "BlockRoot": "0xfb51ba230508b8f8a3790fbc587503c302606895ce83a7e52e4ca4b460634ba5",
+            "BlockRoot": "0xde6a95127443ed139a6aab31e61105d266b0c29ae351900c4ce5b7c1b06777b7",
             "ParentRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
-            "ExecutionRequestsRoot": "0x3a02ed03ab3f2af7ef0e6ee1a44326479d2ab1d2f03613dd1ec0a11fcf37af96"
+            "ExecutionRequestsRoot": "0x87b69a306c8e430d0857f7c4ac5e27cecffa1108d43c2e5df7388056fea7a423"
           },
           "8000015": {
-            "BlockRoot": "0x23b65eafa118cc876c41e69ce3d429ea16b0586520580da983e1d87c8a9ada6c",
+            "BlockRoot": "0x5381b4c2ee289208d3bf4295f9619993a6b78b5ac6f6f9528dcb7d12831e3255",
             "ParentRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
-            "ExecutionRequestsRoot": "0x3a02ed03ab3f2af7ef0e6ee1a44326479d2ab1d2f03613dd1ec0a11fcf37af96"
+            "ExecutionRequestsRoot": "0x87b69a306c8e430d0857f7c4ac5e27cecffa1108d43c2e5df7388056fea7a423"
           },
           "8000044": {
-            "BlockRoot": "0x4de58e1f323fe6498b2fbb48cc1559069ddfad496c2d001b9d855c274c84f8e1",
+            "BlockRoot": "0x51417d2b808f6d7b704d78e259a5004d89e20edf22c4321b22392b35905b28cb",
             "ParentRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
-            "ExecutionRequestsRoot": "0x3a02ed03ab3f2af7ef0e6ee1a44326479d2ab1d2f03613dd1ec0a11fcf37af96"
+            "ExecutionRequestsRoot": "0x87b69a306c8e430d0857f7c4ac5e27cecffa1108d43c2e5df7388056fea7a423"
           }
         },
         "ProducedEnvelope": null,
@@ -2388,9 +2388,9 @@
           "Slot": "8000044",
           "Messages": [
             {
-              "PartialSignature": "b2e7ffa5f73b22559306a6f8dbbf2db8322953932d2abebb2208e285436968fa5a750fcc22b38b7a8a7dbb6a6bf6805314b76528fe05f270f9ed85e37af5c950f794f2c43b29ebd1a9a835a664cde20e4d46926b7d258888e546e56e856e6234",
+              "PartialSignature": "849e1c2b42acd7936ab795b238f6ef402166070380338fe71824595823c477e406ceca574e4993871e8d57c32157b8f602c017cb8480798aba221c983d701ac1ac92cac538149f2490c7e1a3b6a3c0b9387bdcc1c86178a03561ad7a932a4ece",
               "Signer": 1,
-              "SigningRoot": "fc3d2cb7e67f5983cdd92aa1b21bf0c86a74c19b44c2754a311a46b8d94292d4",
+              "SigningRoot": "4f8ca46143960e8d05a54adacc1073992a22405ffeafd99dfcd796b82148f874",
               "ValidatorIndex": "1"
             }
           ]
