@@ -1,0 +1,20 @@
+{
+  "Name": "gloas attestation value check source higher than target",
+  "Type": "Value check: validations for input of different runner roles",
+  "Documentation": "Tests Gloas attestation value check (SIP #94 §2) with source epoch higher than target epoch",
+  "Network": "now_test_network",
+  "RunnerRole": 0,
+  "DutySlot": "8000012",
+  "Input": "AQIDBAUGBwgJCgECAwQFBgcICQoBAgMEBQYHCAkKAQICAAAAAAAAAAECAwQFBgcICQoBAgMEBQYHCAkKAQIDBAUGBwgJCgECAQAAAAAAAAABAgMEBQYHCAkKAQIDBAUGBwgJCgECAwQFBgcICQoBAgEAAAAAAAAA",
+  "ExpectedSource": {
+    "epoch": "2",
+    "root": "0x0102030405060708090a0102030405060708090a0102030405060708090a0102"
+  },
+  "ExpectedTarget": {
+    "epoch": "1",
+    "root": "0x0102030405060708090a0102030405060708090a0102030405060708090a0102"
+  },
+  "SlashableSlots": {},
+  "ExpectedErrorCode": 26,
+  "AnyError": false
+}
