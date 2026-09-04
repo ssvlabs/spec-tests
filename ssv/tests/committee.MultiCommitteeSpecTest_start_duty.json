@@ -9546,7 +9546,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "1 attestation (unknown)",
+      "Name": "1 attestation (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -9634,7 +9634,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "1 sync committee (unknown)",
+      "Name": "1 sync committee (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -9726,7 +9726,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "1 attestation 1 sync committee (unknown)",
+      "Name": "1 attestation 1 sync committee (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -9829,7 +9829,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "30 attestation (unknown)",
+      "Name": "30 attestation (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -11135,7 +11135,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "30 sync committee (unknown)",
+      "Name": "30 sync committee (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -12561,7 +12561,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "30 attestation 30 sync committee (unknown)",
+      "Name": "30 attestation 30 sync committee (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},

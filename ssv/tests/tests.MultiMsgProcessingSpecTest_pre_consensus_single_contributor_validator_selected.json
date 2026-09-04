@@ -1492,7 +1492,7 @@
       }
     },
     {
-      "Name": "single contributor validator quorum starts consensus (unknown)",
+      "Name": "single contributor validator quorum starts consensus (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": null,

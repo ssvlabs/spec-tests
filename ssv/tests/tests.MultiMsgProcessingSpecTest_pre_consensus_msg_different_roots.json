@@ -628,19 +628,19 @@
         },
         "ProposedBlocks": {
           "8000012": {
-            "BlockRoot": "0xfb51ba230508b8f8a3790fbc587503c302606895ce83a7e52e4ca4b460634ba5",
+            "BlockRoot": "0xde6a95127443ed139a6aab31e61105d266b0c29ae351900c4ce5b7c1b06777b7",
             "ParentRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
-            "ExecutionRequestsRoot": "0x3a02ed03ab3f2af7ef0e6ee1a44326479d2ab1d2f03613dd1ec0a11fcf37af96"
+            "ExecutionRequestsRoot": "0x87b69a306c8e430d0857f7c4ac5e27cecffa1108d43c2e5df7388056fea7a423"
           },
           "8000015": {
-            "BlockRoot": "0x23b65eafa118cc876c41e69ce3d429ea16b0586520580da983e1d87c8a9ada6c",
+            "BlockRoot": "0x5381b4c2ee289208d3bf4295f9619993a6b78b5ac6f6f9528dcb7d12831e3255",
             "ParentRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
-            "ExecutionRequestsRoot": "0x3a02ed03ab3f2af7ef0e6ee1a44326479d2ab1d2f03613dd1ec0a11fcf37af96"
+            "ExecutionRequestsRoot": "0x87b69a306c8e430d0857f7c4ac5e27cecffa1108d43c2e5df7388056fea7a423"
           },
           "8000044": {
-            "BlockRoot": "0x4de58e1f323fe6498b2fbb48cc1559069ddfad496c2d001b9d855c274c84f8e1",
+            "BlockRoot": "0x51417d2b808f6d7b704d78e259a5004d89e20edf22c4321b22392b35905b28cb",
             "ParentRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
-            "ExecutionRequestsRoot": "0x3a02ed03ab3f2af7ef0e6ee1a44326479d2ab1d2f03613dd1ec0a11fcf37af96"
+            "ExecutionRequestsRoot": "0x87b69a306c8e430d0857f7c4ac5e27cecffa1108d43c2e5df7388056fea7a423"
           }
         },
         "ProducedEnvelope": null,
@@ -649,7 +649,7 @@
       "Messages": [
         {
           "Signatures": [
-            "YEuvjdfAG10/p1cra0ZA1v3p+DAmupV/qeues/LZP80zRKGLVGkHIiCy3entAMI5mkGo16aXgu1chtB1ZfCDqoTsSc/6VN9tkQWr/1RSpP/Vp4QhfIXWuDfC3IHWiFHgA9AwRPcmonvRhHRa1o3Uoe+GlD2jwjkIw30am+adBU6GXnom/mxAsIhMJXmB1fqWHpfrdhHHN8FhCf2Dugg03djqFlCWp6DhkF+nNKSPex0izb5ApwMLAMuAAUt/wWOYhgaM1FypzM8n3VWn0qCjfDLh3RMSxoGbI326o0xctxwFG++w3haaAaybthVA5gsWCUN1mtSP8Mc6UPXKHCHP4Q=="
+            "sqTBCkqw6CALOPZk9/AIGTQaAp2k423KaIw3Kp77ePmjNfK7DJIdFOH1lw5RNTQ4sJil5ZyZFQWv9Q/eIQmOGc+AC56pRlVohmtGP245XJjRnoNkO8B93TlQCYO99R153OndT34rlFw6b8KEI/kG8RPIwDgBRZOeVNDqwxPqxVBA7Ow+JAhp3A+wZvKkvfJfGuLFjX4RqJikGs1OIpPUt7QqI2rYsyxHb3xw30ynUtXTDmFr7Pw+xWaocON0abQQV0VMg8yKXQSYbvScU8chGa553XktDiukKOHZ3CIcqjYiZQlxd8Q5TP8QEiR6jvhvGZmhVyXQMYKmQrW57oeCAg=="
           ],
           "OperatorIDs": [
             1
@@ -657,13 +657,13 @@
           "SSVMessage": {
             "MsgType": 1,
             "MsgID": "00000301090000008e80066551a81b318258709edaf7dd1f63cd686a0e4db8b29bbb7acfe65608677af5a527d9448ee47835485e02b50bc0",
-            "Data": "CgAAAAAAAAAMEnoAAAAAABQAAACwHdeQAvOGOGXvayJot4LNEQugWOoUjAyNjVlKKtPa6ZY7CMCzgHwX9T4QWX6/Jj4SyLpBwsrtm+8tg9KKMHJfIuLD2Gn9kOWGoY9xE7RZ/bjofm6CVAprktViAsnY6TKeISvdkPFyh/LetcixYvrv79GlbBEunTuqORmAq4av5QEAAAAAAAAAAQAAAAAAAAA="
+            "Data": "CgAAAAAAAAAMEnoAAAAAABQAAACGrUecbMMC5qnDe1IrTec7Px8KAqtvXCy1TSduEMrlivoxXwI5wUdnZYELPIpDOE4BcssM65dTBRPa+jeOAV1Yl6TUBNW1z9dvFeyGTS+Toml/yaVsyV53X160QxAH/5KCRVq/jc5fmSlRfqGC2P1gxCev50rxfnuVMxjRkNA1rQEAAAAAAAAAAQAAAAAAAAA="
           },
           "FullData": null
         },
         {
           "Signatures": [
-            "hNb1zdfWpMEGjuZL5s8QYvBZOoCc4EDb8ALC+er0YDBeBYrWia5zHvnDmzf3QU6/0O9nPjsOcQsXYI3//7p36ybUApTJRzwZWdXqVZ8pJLLBrjjlwYdpsuWBW3Kpb3VdF8DXBzO8RgcCbDTy7RcYZ0cgfCZII1eM5RThEwmariSBHVlPmfzCdVqN9pn3aQLUCTrjYZh88g0RH2EqkMuUs6u76DEoEEkbkts5pj/QnwbqaoJOi8SwpQCYgYg3dZhO9iI9Gb5Cb2MM54wTOrt60EfSqO8JKrGFDD2j7BKZL6wVc09OdQyxKImcMOCVN4qEe0w11ypuSHG/fq9GzrtN6A=="
+            "Q+F/coLHFzlr8v6z+rViOyi2SUDrIoHmpkQ1/SD08Dc2WTEzqzQ0RlbcapHrhx9VW4FdY+x0Q5gC2ZlgDy5pN6NPxWzXKJMnOVn0D40s1McX73F0Kzh81AmGsHwv4iMG9HdZob4ltpDfVte+bBRmwsoJKdPeewfjkETd/0f0lrt4Jz4eTobraFFLu+7oCdhk9SwzrnJaZyR5Cl+lzT/o/AvfHXlkUyRh/Rg2fgE/YkNERg5pAcJSR/TwwGsOLbUuPDZwBq4C76sPHCsBkQaxrENAk0TzBNE3VLIfR+rlsXu004BBT5ZcUwHJPhzGCwcyrku6mGvyhSRggdVriKjaeA=="
           ],
           "OperatorIDs": [
             1
@@ -671,7 +671,7 @@
           "SSVMessage": {
             "MsgType": 1,
             "MsgID": "00000301090000008e80066551a81b318258709edaf7dd1f63cd686a0e4db8b29bbb7acfe65608677af5a527d9448ee47835485e02b50bc0",
-            "Data": "CgAAAAAAAAAMEnoAAAAAABQAAACtQWrUSIOi/cEDGNpOvML1hXbsPeVjuEBiSt1QIUkZ2zQ3MBvVieE27qfvv/oLzHUMLc/Yn/WpV9tuBEVBLcNumGD2PMAp8dCUcOz6DPVSWOPi6vn3s1MdL1I/QLk/WCVJqxal405Mn/Yqnxp8f5SFbMiAWK375JFBHsrnDOU/XwEAAAAAAAAAAQAAAAAAAAA="
+            "Data": "CgAAAAAAAAAMEnoAAAAAABQAAACBWCMjWwkTwagB8tyR8Dh3XxDY+99fgjryoobZE/jcaurAE4jsxy8Owr/L9wIJQD4FqEoIphQYwg/uJcI9uySNtnxV53xPHHwU7DoUT/annpLDKh8PswzjZykCYjO5nipoI3TpglazWegwIsKP3y2LAAEGRFuvN5g9jVrfToC+owEAAAAAAAAAAQAAAAAAAAA="
           },
           "FullData": null
         }
@@ -684,9 +684,9 @@
           "Slot": "8000012",
           "Messages": [
             {
-              "PartialSignature": "b01dd79002f3863865ef6b2268b782cd110ba058ea148c0c8d8d594a2ad3dae9963b08c0b3807c17f53e10597ebf263e12c8ba41c2caed9bef2d83d28a30725f22e2c3d869fd90e586a18f7113b459fdb8e87e6e82540a6b92d56202c9d8e932",
+              "PartialSignature": "86ad479c6cc302e6a9c37b522b4de73b3f1f0a02ab6f5c2cb54d276e10cae58afa315f0239c1476765810b3c8a43384e0172cb0ceb97530513dafa378e015d5897a4d404d5b5cfd76f15ec864d2f93a2697fc9a56cc95e775f5eb4431007ff92",
               "Signer": 1,
-              "SigningRoot": "9e212bdd90f17287f2deb5c8b162faefefd1a56c112e9d3baa391980ab86afe5",
+              "SigningRoot": "82455abf8dce5f9929517ea182d8fd60c427afe74af17e7b953318d190d035ad",
               "ValidatorIndex": "1"
             }
           ]
@@ -1586,7 +1586,7 @@
       }
     },
     {
-      "Name": "aggregator selection proof (unknown)",
+      "Name": "aggregator selection proof (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": null,
@@ -1724,7 +1724,7 @@
       }
     },
     {
-      "Name": "aggregator committee mixed (unknown)",
+      "Name": "aggregator committee mixed (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": null,

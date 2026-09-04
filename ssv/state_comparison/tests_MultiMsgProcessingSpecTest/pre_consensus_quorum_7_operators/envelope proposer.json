@@ -4,12 +4,12 @@
       "PreConsensusContainer": {
         "Signatures": {
           "1": {
-            "9e212bdd90f17287f2deb5c8b162faefefd1a56c112e9d3baa391980ab86afe5": {
-              "1": "gutVXzcJOb667QCGJ4bel/bL+jXUXXLkjNHn9DMnHeiOdE7NNLV1tEF++WhW8RHSFR3Ot4rfD+WSLlaevEA6pWRPXlwSsX8O9MEJ3cAhJ0BabaH0Ug4772oYfgHmeORV",
-              "2": "raLSEwiTJKMC1XZtwPof05gnvrMMeISYdG4Jdvck88fcQA/yl/PrtxMundqdQN20GWH+nYcQ9i1RTmXjeJwIF/grDu188JprOvc33i8Srol5+mKZ7VAK82m54wL0FFpV",
-              "3": "sEGDWtaWklsgFB4GDRaF6cF3kVA6bXFZxb5LaMqkqfiAuIbIbQ0vX1PZNDXIH59HCW3zASiUqvNJgVhOGyBih360n/PeU/ZcBL+Y91uOcMpJuc1rgoc5zGJuIseuXMt2",
-              "4": "tL3sDwshW0c5LoubgiinEWQgcQGcbGlJwtxKklQOZp456zXHLt6Pba7JqEiwkzxxB5wMmyyJ2xWMDAKlp/oiZbkxk4cfM57m+2svQBcOjwzB5bMsmuITOmEEXQRb+u7P",
-              "5": "ledyiYx9VFfA1YhbcN0QAjT9kaPEwc600QLTu/VhcXl4gTuEP7Ab0U0Uf6f9caHqBsNpa1zNjQCPjJPs+pByvkPbSj0R4V+Aiqy6C4X7SiqYWHShyzbxwj0qYTPPRbgQ"
+            "82455abf8dce5f9929517ea182d8fd60c427afe74af17e7b953318d190d035ad": {
+              "1": "i8APXoLR7ONNe7zftl8gxW4UtQ79OXpVZRp2F35m94Y1tnYdkupGEN0ZTEfaTUTED1u6/aUhivdYrWOAuay7zix9PQkZOpG9BiFPlPCY7SFNeBaGAJwQKY6jYSJ3fGJZ",
+              "2": "geyGydmJszeGPIKSHDs0zntYW8c66IDX8x8ED0a0qcwBviMoBW3+/F1+EmOrCnxmFPrm6GI9FE3Jp55czpO+az71jU6cQQKDPuy0B0t1zUhr4qncVBqIhJUhlCZlh4Es",
+              "3": "iJb16YaiSRKOYNBmWH1m6MeYD61E5rvuyAVOpXLPsyrctHLA0sx+70ALt2TFDzZAEiaOrpttW7QevkAM6AQgrvilW9DF7E/VLR6J+J0kYJAiqNvwSAqjbSre0wSOJ+iY",
+              "4": "j87n+9EwXn3irrzP+PouRUAe45nMfElamT3V1CNHQ3svqzjDvXCf3DwsFt2OSqPEA4rsTT1IeeLSI6FUvZetegm/l5ym3TpE5hw0mjk9E9kvG+TTGnJE9ikmWGOUNEtD",
+              "5": "mS71j69rkVdVIh0Cdur3jABFvOm3wzitQvw6g87bTGogZmbIGoRaleihVfbcZiPaA7BvwV5402IamUcT9Dh+A9v7dJ5/Nj54blmBe58M/er3pnPDMcGEUBweGkBUSRli"
             }
           }
         },
@@ -85,19 +85,19 @@
   },
   "ProposedBlocks": {
     "8000012": {
-      "BlockRoot": "0xfb51ba230508b8f8a3790fbc587503c302606895ce83a7e52e4ca4b460634ba5",
+      "BlockRoot": "0xde6a95127443ed139a6aab31e61105d266b0c29ae351900c4ce5b7c1b06777b7",
       "ParentRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
-      "ExecutionRequestsRoot": "0x3a02ed03ab3f2af7ef0e6ee1a44326479d2ab1d2f03613dd1ec0a11fcf37af96"
+      "ExecutionRequestsRoot": "0x87b69a306c8e430d0857f7c4ac5e27cecffa1108d43c2e5df7388056fea7a423"
     },
     "8000015": {
-      "BlockRoot": "0x23b65eafa118cc876c41e69ce3d429ea16b0586520580da983e1d87c8a9ada6c",
+      "BlockRoot": "0x5381b4c2ee289208d3bf4295f9619993a6b78b5ac6f6f9528dcb7d12831e3255",
       "ParentRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
-      "ExecutionRequestsRoot": "0x3a02ed03ab3f2af7ef0e6ee1a44326479d2ab1d2f03613dd1ec0a11fcf37af96"
+      "ExecutionRequestsRoot": "0x87b69a306c8e430d0857f7c4ac5e27cecffa1108d43c2e5df7388056fea7a423"
     },
     "8000044": {
-      "BlockRoot": "0x4de58e1f323fe6498b2fbb48cc1559069ddfad496c2d001b9d855c274c84f8e1",
+      "BlockRoot": "0x51417d2b808f6d7b704d78e259a5004d89e20edf22c4321b22392b35905b28cb",
       "ParentRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
-      "ExecutionRequestsRoot": "0x3a02ed03ab3f2af7ef0e6ee1a44326479d2ab1d2f03613dd1ec0a11fcf37af96"
+      "ExecutionRequestsRoot": "0x87b69a306c8e430d0857f7c4ac5e27cecffa1108d43c2e5df7388056fea7a423"
     }
   },
   "ProducedEnvelope": {
@@ -110,7 +110,7 @@
       "BuilderExits": null
     },
     "BuilderIndex": "18446744073709551615",
-    "BeaconBlockRoot": "0xfb51ba230508b8f8a3790fbc587503c302606895ce83a7e52e4ca4b460634ba5",
+    "BeaconBlockRoot": "0xde6a95127443ed139a6aab31e61105d266b0c29ae351900c4ce5b7c1b06777b7",
     "ParentBeaconBlockRoot": "0x0000000000000000000000000000000000000000000000000000000000000000"
   },
   "SelectedEnvelope": {
@@ -123,7 +123,7 @@
       "BuilderExits": null
     },
     "BuilderIndex": "18446744073709551615",
-    "BeaconBlockRoot": "0xfb51ba230508b8f8a3790fbc587503c302606895ce83a7e52e4ca4b460634ba5",
+    "BeaconBlockRoot": "0xde6a95127443ed139a6aab31e61105d266b0c29ae351900c4ce5b7c1b06777b7",
     "ParentBeaconBlockRoot": "0x0000000000000000000000000000000000000000000000000000000000000000"
   }
 }

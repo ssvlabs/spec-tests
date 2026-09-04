@@ -4,14 +4,14 @@
       "PreConsensusContainer": {
         "Signatures": {
           "1": {
-            "9e212bdd90f17287f2deb5c8b162faefefd1a56c112e9d3baa391980ab86afe5": {
-              "1": "iud9bDMgnSd9+5GFrTfIiHmZab5rRtaVx9zR8EICs8DqWpOgmkwdMiND9+7S+1UWDRk/XZeO+2JUXa9+s9FgDZBMpvtR6mkLag0CnmBpvzBCwkwAeTNQlQLI8ufQTmGc",
-              "2": "k2utHkmyAC4v4cddqE6QoRxNtqM8gDfcohW4MLRHSsHi04T649xbN8Xe1+jGgtt6FY+8VA75kvXiAgt/aVdI92FPXnOrHVZyrmUq/uhVCBfLV59n5H5Xf+bmhhhig3F1",
-              "3": "icf0e3O6+3hZJt1I/8fp2jPOt/Z+cXFokpPakH3kEJHC89ZrEAqzmXSh12p3gJHrBAIOxitn/YZQsOlP8SnNJE2R3uwleuU/B/mxC1yxWkKpdF6KKnodJCD8uPTRUSqJ",
-              "4": "p6Tq4AKINJo3II6YgsIYPbvmwVdSYMJqnYVjn4gDZ4Oy3J4fvOfKW1Yfw87a5bARC2QtZHQFNyCv7blK8PpIKdjlg1V5objqsuUJmQhFLF/8RYNsX++aaQmbU9eV4mT4",
-              "5": "plM8DAuMjvE/d/0Nbvi1SOZ2YxMBfbaR6jsNB4xPKq9fkG6qn49zBSvSXQ//q2kuCC+yMZnBsoyTRpFJ7FYwQGsf4zBTZuvl/8S5SnQyISHXCy8qR8Y/Zl4aIWxhG+Qh",
-              "6": "j/rzJn/VBEN1vaGNufgYxo9UkBuY1dfv/HcekivG61Q3qgXRHpG6HaKL8pbJtNWmCZVOdknunq5JREHqyiJt6hQXOKj6KTKR9Wnk/sXkxMIlO4foonVHflpaMsLUJeLa",
-              "7": "mPuR9lXooLyhIkyHog2NLXTKzOyGjAsOXOWwGTw5ZTDuy+3+lglUbKq+pPJgMIb2GGvKU49fr/fxsdTNXUOzvlHTM0/LjPpXbCVN5zSkdVsWYagVzBFSeyazUJ5UByXF"
+            "82455abf8dce5f9929517ea182d8fd60c427afe74af17e7b953318d190d035ad": {
+              "1": "onzkz2E9I3m23cVQKIIS0MO6Djy2B9g1CHHN2OO/a5wJY0WQBpcyKXWpBIkdXxRXEmltIpSZXAM4Fpue4saQIXvvqj+/S0275El80/XV6n8AVJoUj8OnIkmqzG6ecVtE",
+              "2": "pQh4dovRns3FSTWIPGAuO0MiKaV3YOw0QkxTat9/HbeMjWXJyGShLXm46oqXkPygCEKhHFioqDsS4Xn1L0kQAhVvjXrO0KcaPWWpuVL2EFKszmtLTDOkNzWCGBSa0HwQ",
+              "3": "uP7AIqEERkVuGm5F08uqptVkD/3rUi9ugdFdAdd/BKQwMCkV3mXZHVhRspgPuIJCFTJBwA4VlBKLJI0dzEbrW/E3wSESQ4sNa+zf6rOVBRwINbIZsbbfTGjXYwW3dTnp",
+              "4": "pPTuV6pGd1WFGwoNbqijBD20Hu3xQdQtSFUHiJo187lOzqCCGs1OAxzy41I3tzyuAnN9ToONym15sxCCw/JWa2S+kFFbZ6d2dXAgqcxTJ/CUuVvj3nQC+dDlrsDSdSdu",
+              "5": "mSs0/SEXxPUZ0V2mYE2iW8odWGnAiuLQnE13+IWlpKKqPP33r+C+77dBAsVM/9OcEj9FGRWQJNzEV5r3d03NrYZ2QXM98U2gEFFoeNWcWrxSLEtTKtijo8sqE6bxN+W+",
+              "6": "s345V5TAsFHMJIanCkw8HaPSwGGGlc58RPXdwX1w6yohzefOBNowDuRISmcAcqUSAroWJ+lbDE8RHdFNttDdLNjyy18Bf7IfgPujda027npBAIiC2rZIl9qeDvp6cweH",
+              "7": "tI60zoDSf4QdIDO7baNY4Qzw3yW3vicupE/LJYNyyr1DWqqBA1r8qJRhj4u4wabcBuxNQpDDaw+Ws8Eusc0S2L3m73frl0lH92nR1/zEXalb08PtnTxExBxjkNeiAClr"
             }
           }
         },
@@ -99,19 +99,19 @@
   },
   "ProposedBlocks": {
     "8000012": {
-      "BlockRoot": "0xfb51ba230508b8f8a3790fbc587503c302606895ce83a7e52e4ca4b460634ba5",
+      "BlockRoot": "0xde6a95127443ed139a6aab31e61105d266b0c29ae351900c4ce5b7c1b06777b7",
       "ParentRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
-      "ExecutionRequestsRoot": "0x3a02ed03ab3f2af7ef0e6ee1a44326479d2ab1d2f03613dd1ec0a11fcf37af96"
+      "ExecutionRequestsRoot": "0x87b69a306c8e430d0857f7c4ac5e27cecffa1108d43c2e5df7388056fea7a423"
     },
     "8000015": {
-      "BlockRoot": "0x23b65eafa118cc876c41e69ce3d429ea16b0586520580da983e1d87c8a9ada6c",
+      "BlockRoot": "0x5381b4c2ee289208d3bf4295f9619993a6b78b5ac6f6f9528dcb7d12831e3255",
       "ParentRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
-      "ExecutionRequestsRoot": "0x3a02ed03ab3f2af7ef0e6ee1a44326479d2ab1d2f03613dd1ec0a11fcf37af96"
+      "ExecutionRequestsRoot": "0x87b69a306c8e430d0857f7c4ac5e27cecffa1108d43c2e5df7388056fea7a423"
     },
     "8000044": {
-      "BlockRoot": "0x4de58e1f323fe6498b2fbb48cc1559069ddfad496c2d001b9d855c274c84f8e1",
+      "BlockRoot": "0x51417d2b808f6d7b704d78e259a5004d89e20edf22c4321b22392b35905b28cb",
       "ParentRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
-      "ExecutionRequestsRoot": "0x3a02ed03ab3f2af7ef0e6ee1a44326479d2ab1d2f03613dd1ec0a11fcf37af96"
+      "ExecutionRequestsRoot": "0x87b69a306c8e430d0857f7c4ac5e27cecffa1108d43c2e5df7388056fea7a423"
     }
   },
   "ProducedEnvelope": {
@@ -124,7 +124,7 @@
       "BuilderExits": null
     },
     "BuilderIndex": "18446744073709551615",
-    "BeaconBlockRoot": "0xfb51ba230508b8f8a3790fbc587503c302606895ce83a7e52e4ca4b460634ba5",
+    "BeaconBlockRoot": "0xde6a95127443ed139a6aab31e61105d266b0c29ae351900c4ce5b7c1b06777b7",
     "ParentBeaconBlockRoot": "0x0000000000000000000000000000000000000000000000000000000000000000"
   },
   "SelectedEnvelope": {
@@ -137,7 +137,7 @@
       "BuilderExits": null
     },
     "BuilderIndex": "18446744073709551615",
-    "BeaconBlockRoot": "0xfb51ba230508b8f8a3790fbc587503c302606895ce83a7e52e4ca4b460634ba5",
+    "BeaconBlockRoot": "0xde6a95127443ed139a6aab31e61105d266b0c29ae351900c4ce5b7c1b06777b7",
     "ParentBeaconBlockRoot": "0x0000000000000000000000000000000000000000000000000000000000000000"
   }
 }

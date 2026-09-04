@@ -2954,7 +2954,7 @@
       }
     },
     {
-      "Name": "aggregator (unknown)",
+      "Name": "aggregator (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": null,
@@ -3511,9 +3511,9 @@
           "Slot": "8000012",
           "Messages": [
             {
-              "PartialSignature": "9735207e8fbd96be51c7bcaabf8f2bdb3db0e99268889a01f1d4b31f3d17d24291ed313c287dede198fdbf7132666471025323f64ce5897148cc4495c7cad38753532aa300e45c60b9669393d6958f7ab6927eb92d4aaaeeb73b76fc8128bc69",
+              "PartialSignature": "a98f8389bce81ab4bdb4db2baa96f03395cc03ae6b3085beac9fdf4a478d3c586f9a26fb3a08dd6ce647a4a067cb0bde004aa23b1624a0fbee685185f84e362599484fc9ee119ef8c9d3b04c97978b0fd67169d88ae1281b3ee20726d718805e",
               "Signer": 1,
-              "SigningRoot": "5d7c69982dc3dd3df8c723c0a0a3c59c5adf50ece99e03d8eeca5879fca24963",
+              "SigningRoot": "ec50b7ad12059dc5713c26881b3cbd499b6fe18885094f8ff711acf461af1256",
               "ValidatorIndex": "1"
             }
           ]
@@ -6278,7 +6278,7 @@
       }
     },
     {
-      "Name": "attester (unknown)",
+      "Name": "attester (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": null,
@@ -6726,7 +6726,7 @@
       }
     },
     {
-      "Name": "sync committee (unknown)",
+      "Name": "sync committee (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": null,
@@ -7178,7 +7178,7 @@
       }
     },
     {
-      "Name": "attester and sync committee (unknown)",
+      "Name": "attester and sync committee (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": null,
