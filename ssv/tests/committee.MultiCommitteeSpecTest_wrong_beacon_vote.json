@@ -3544,7 +3544,7 @@
       "ExpectedErrorCode": 26
     },
     {
-      "Name": "30 attestations 30 sync committees (unknown)",
+      "Name": "30 attestations 30 sync committees (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},

@@ -1872,7 +1872,7 @@
       ]
     },
     {
-      "Name": "single validator quorum not selected does not start consensus (unknown)",
+      "Name": "single validator quorum not selected does not start consensus (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": null,
