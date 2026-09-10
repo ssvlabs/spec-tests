@@ -53360,7 +53360,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "1 duties 8 attestation (unknown)",
+      "Name": "1 duties 8 attestation (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -53946,7 +53946,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "1 duties 8 sync committee (unknown)",
+      "Name": "1 duties 8 sync committee (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -54564,7 +54564,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "1 duties 8 attestations 8 sync committees (unknown)",
+      "Name": "1 duties 8 attestations 8 sync committees (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -55326,7 +55326,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "1 duties 30 attestation (unknown)",
+      "Name": "1 duties 30 attestation (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -56990,7 +56990,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "1 duties 30 sync committee (unknown)",
+      "Name": "1 duties 30 sync committee (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -58774,7 +58774,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "1 duties 30 attestations 30 sync committees (unknown)",
+      "Name": "1 duties 30 attestations 30 sync committees (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -61098,7 +61098,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "2 duties 8 attestation (unknown)",
+      "Name": "2 duties 8 attestation (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -61835,7 +61835,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "2 duties 8 sync committee (unknown)",
+      "Name": "2 duties 8 sync committee (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -62604,7 +62604,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "2 duties 8 attestations 8 sync committees (unknown)",
+      "Name": "2 duties 8 attestations 8 sync committees (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -63517,7 +63517,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "2 duties 30 attestation (unknown)",
+      "Name": "2 duties 30 attestation (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -65332,7 +65332,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "2 duties 30 sync committee (unknown)",
+      "Name": "2 duties 30 sync committee (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -67267,7 +67267,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "2 duties 30 attestations 30 sync committees (unknown)",
+      "Name": "2 duties 30 attestations 30 sync committees (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -69742,7 +69742,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "4 duties 8 attestation (unknown)",
+      "Name": "4 duties 8 attestation (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -70781,7 +70781,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "4 duties 8 sync committee (unknown)",
+      "Name": "4 duties 8 sync committee (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -71852,7 +71852,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "4 duties 8 attestations 8 sync committees (unknown)",
+      "Name": "4 duties 8 attestations 8 sync committees (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -73067,7 +73067,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "4 duties 30 attestation (unknown)",
+      "Name": "4 duties 30 attestation (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -75148,7 +75148,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "4 duties 30 sync committee (unknown)",
+      "Name": "4 duties 30 sync committee (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -77341,7 +77341,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "4 duties 30 attestations 30 sync committees (unknown)",
+      "Name": "4 duties 30 attestations 30 sync committees (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
