@@ -1,0 +1,152 @@
+{
+  "BaseRunner": {
+    "State": null,
+    "Share": {
+      "1": {
+        "Committee": [
+          {
+            "SharePubKey": "l9lKgR1kSTYFKp0tSs1kcYl0z2eNvv0mcyTI6fjnA0pKa32HeeJ6AZU4w8Qlw+Xn",
+            "Signer": 1
+          },
+          {
+            "SharePubKey": "przr4wl9dBcbQMcSoDHOsDcds9PEAs8s5pG5Eg87q3XU1W36DzdZFUSZm/GMU1Pt",
+            "Signer": 2
+          },
+          {
+            "SharePubKey": "gJDgt2ZqRezF1O90GKyZ8J5sskQCn+pqCn/Mvp7gi8U53g36Zr5rq8hJPdmd0amN",
+            "Signer": 3
+          },
+          {
+            "SharePubKey": "p8CidrcKXuM5XH1tJlXtYFKKolLU0h7KX8xSI+UMxCvRaLKAq3q1MXNU3d/PPfnk",
+            "Signer": 4
+          }
+        ],
+        "DomainType": [
+          0,
+          0,
+          3,
+          1
+        ],
+        "FeeRecipientAddress": "535953b5a6040074948cf185eaa7d2abbd66808f",
+        "Graffiti": "AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "SharePubKey": "l9lKgR1kSTYFKp0tSs1kcYl0z2eNvv0mcyTI6fjnA0pKa32HeeJ6AZU4w8Qlw+Xn",
+        "ValidatorIndex": "1",
+        "ValidatorPubKey": "8e80066551a81b318258709edaf7dd1f63cd686a0e4db8b29bbb7acfe65608677af5a527d9448ee47835485e02b50bc0"
+      }
+    },
+    "QBFTController": null,
+    "BeaconNetwork": "now_test_network",
+    "RunnerRoleType": 8
+  },
+  "BySlot": {
+    "8000012": {
+      "BaseRunner": {
+        "State": {
+          "PreConsensusContainer": {
+            "Signatures": {
+              "1": {
+                "0a19775f5b9bb14c79bfc448f051d411654f0554d6fb3375ba548d20f743b40f": {
+                  "1": "tvRYOH/PscaXnxIRT4sL7i5kwVqhYKF7EMI8vQMQj0rRBJzeKHXA1qFjhAoZYEvbDggs966nT5vD1Lmf8REemcZAXyuY94GxTka6X1Vng2clKvBneIKQUOAL9SgQK+1M",
+                  "2": "luU724+5fEb0R8m+Txexdl2nrY298inr8LXkCZVv9Qvihtg2etH3ikPD0SD4D7paAqn1gxMhrGCl6qVBIGgBqdLF5VI2nEtwgqmWSkY8uWMx3Ta7bHD+DomUTnP4hwPr",
+                  "3": "ooExLAmbbPs1b3wWdE1xmzrOZ0kwju15y0B9DY/gFicAxqXnMZJl6BV5v/TUQ5EEAwRAIvC5zZHMKo3qCjCZVUowW9dpsCXfF2oxRuDDYs5Lb1+KOdVBwheBW3yh87Tb"
+                },
+                "ee9e6622e44c482d8a92b773a3c1556a7617b7574e5ccacc815cbb6297ee0988": {
+                  "1": "tsMmVA/sWiHRVmH1dSKFyCxJCBpifhZXKjyP2BKBNT5egFvYsIW3uXVQ/oFGathJDae5aERmPd2ECyU8wOElDeSN70naeSED418/MLsEgCLgosQBbF5Wl814e7vIYl36",
+                  "2": "kZclF6B44Sysd+ziXYWMjxt2zmd1YmlgDHtZotIRlsJH/CeqXjJ3ArS/uKWPFzL9AxFRcm7uQiUz2Svbv2WTikpsnpgPwjjpeKjO/yOa1F/yLrltydwPIQWTmIHei2CL",
+                  "3": "gtYDObVkTBD96WhDbv3vq3rqscZKeMlrrb61TrKjkkQJwNxt179srzP9A00kIfWQC31+2osV2KEQzZNHkj1N1tc77bvoEt8//9esA50adW0czdoc+j6CJVnXV/JXmFqL"
+                },
+                "f41b7282ce56b724e56e5b51a65ea59f3b1ae4c9dba24be7cd5ec6fcd5f04a33": {
+                  "1": "kflGBym5pZUL+4GZ+CAuECcdRqB8nkQbUwb//lo66tNFGwXkkxxOFgoegC3IgMf+AvKjkV+fXFN4e4rTbF8HSUo9sWQeIbubh/kv6vUzfyJLcuo5X1+rMCrovBDMSHoA",
+                  "2": "lrvyoi2MJI77tGIHWLFq/CWp8xNkWi9phikIHfpl4V7QXMbVPGjjETF/+aBy1l0zEM9Tuptwt6sF0c+nB9xR5JYLeWslGQf1gsIT73EoKLfghnVbJ9wKI3IfctGQDOqW",
+                  "3": "stXnrfQyfSkjOC2PtCLvdv1fCueDYTOgP0vTmX1Zc91wQ/jyK7dXP5/yLoDWQZNLGN4oy+rtwD506NiIF3CMrOiCd6l3++gfz2UUp/Cbwfr9hVGIcGPM3Ggi7eW76o6L"
+                }
+              }
+            },
+            "Quorum": 3
+          },
+          "PostConsensusContainer": {
+            "Signatures": {},
+            "Quorum": 3
+          },
+          "RunningInstance": null,
+          "DecidedValue": null,
+          "Finished": true,
+          "ValidatorDuty": {
+            "Type": 8,
+            "PubKey": "0x8e80066551a81b318258709edaf7dd1f63cd686a0e4db8b29bbb7acfe65608677af5a527d9448ee47835485e02b50bc0",
+            "Slot": "8000012",
+            "ValidatorIndex": "1",
+            "CommitteeIndex": 0,
+            "CommitteeLength": 0,
+            "CommitteesAtSlot": 0,
+            "ValidatorCommitteeIndex": 0,
+            "ValidatorSyncCommitteeIndices": null
+          }
+        },
+        "Share": {
+          "1": {
+            "Committee": [
+              {
+                "SharePubKey": "l9lKgR1kSTYFKp0tSs1kcYl0z2eNvv0mcyTI6fjnA0pKa32HeeJ6AZU4w8Qlw+Xn",
+                "Signer": 1
+              },
+              {
+                "SharePubKey": "przr4wl9dBcbQMcSoDHOsDcds9PEAs8s5pG5Eg87q3XU1W36DzdZFUSZm/GMU1Pt",
+                "Signer": 2
+              },
+              {
+                "SharePubKey": "gJDgt2ZqRezF1O90GKyZ8J5sskQCn+pqCn/Mvp7gi8U53g36Zr5rq8hJPdmd0amN",
+                "Signer": 3
+              },
+              {
+                "SharePubKey": "p8CidrcKXuM5XH1tJlXtYFKKolLU0h7KX8xSI+UMxCvRaLKAq3q1MXNU3d/PPfnk",
+                "Signer": 4
+              }
+            ],
+            "DomainType": [
+              0,
+              0,
+              3,
+              1
+            ],
+            "FeeRecipientAddress": "535953b5a6040074948cf185eaa7d2abbd66808f",
+            "Graffiti": "AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+            "SharePubKey": "l9lKgR1kSTYFKp0tSs1kcYl0z2eNvv0mcyTI6fjnA0pKa32HeeJ6AZU4w8Qlw+Xn",
+            "ValidatorIndex": "1",
+            "ValidatorPubKey": "8e80066551a81b318258709edaf7dd1f63cd686a0e4db8b29bbb7acfe65608677af5a527d9448ee47835485e02b50bc0"
+          }
+        },
+        "QBFTController": null,
+        "BeaconNetwork": "now_test_network",
+        "RunnerRoleType": 8
+      },
+      "ProposerPreferences": {
+        "dependent_root": "0xde9e4de100000000000000000000000000000000000000000000000000000000",
+        "proposal_slot": "8000012",
+        "validator_index": "1",
+        "fee_recipient": "0x535953b5a6040074948cf185eaa7d2abbd66808f",
+        "target_gas_limit": "30000000"
+      },
+      "BuilderRequestAuths": [
+        {
+          "data": "0x6275696c6465722d617574682d746f6b656e2d31",
+          "slot": "8000012"
+        },
+        {
+          "data": "0x6275696c6465722d617574682d746f6b656e2d32",
+          "slot": "8000012"
+        }
+      ]
+    }
+  },
+  "BuilderEntries": [
+    {
+      "Data": "YnVpbGRlci1hdXRoLXRva2VuLTE=",
+      "URL": "https://builder-1.example"
+    },
+    {
+      "Data": "YnVpbGRlci1hdXRoLXRva2VuLTI=",
+      "URL": "https://builder-2.example"
+    }
+  ]
+}

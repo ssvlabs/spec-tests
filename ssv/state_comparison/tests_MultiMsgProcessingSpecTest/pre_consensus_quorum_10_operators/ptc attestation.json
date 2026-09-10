@@ -1,0 +1,106 @@
+{
+  "BaseRunner": {
+    "State": {
+      "PreConsensusContainer": {
+        "Signatures": {
+          "1": {
+            "9a1aca28dff375e7c0003f906d5144a0f3a746f75ee357a51f475cd0d6ce80da": {
+              "1": "khAd+1q7lRkAXGAAMQPA4eOXKtuIF4CN11XnzZSzpCHOZRsZNcs6CBFckN6Bq5j7DdGTPkY/AV1KezIGOOMJVsjagyUWxY4xk+Gb7OQh2nHMAN4KSeeOAzyCsgVO37GA",
+              "2": "uEcNlRIrtDjEN2+FoOrN03NwPb0ufPGHTUAr3zUZJ4MXD2X3lwl8KC9U+N4jqFXDFtkXAQqKvRY42tZy1fbfjWYIAy3uBp91fAjD19jJRqC5NBAaPZcAWnt3r3sjEbJV",
+              "3": "hAQS+c90Uts6ukS/+Yaaj9luG9mbVmBKKsERhrK2QLE6WCmqt6d6AXVn85ObHyz6DPE+nK1DMtiahtdA6ydjQSMbazfSgQukN/pFSUyvn/F1Xni2RHaoq15TtzqAv9qI",
+              "4": "hvXbiQdPHq/0zbVdceCflMgdn7J+TMJgHURVgLIASbjyLRQVPLzK02pxmWtpePE3BJjH2oFJHYcM3CLnx2IsHB4Iukd1PXSPDGAIb0D1HkKD24XOmcQwiTIOoaianzK+",
+              "5": "h7dT4C+RHa6ZvvWJ0SsMLgmJxo1CKR7bunNuT935X8pKUTeVy/7dWkWLfBw97La0GBWrA5IpTMa+P6PXwXfprgqtrTc8XiqyYubLSGpAkabS1wakIfDeHfwsM7gXBXd3",
+              "6": "r085QZ8m/k0qz7naTwpqlKymzzOZbw0ke/B4V7xY4CbSqpZ9iL9Nbkpjwfd3MjbFED3aDnL01fc+uTj9b++AyEzR53vVv8TB/9wNtw7JD/HiproVCqi2BjHaZlhr4Obk",
+              "7": "qDpNJi6D04YvwP3/7R1h9DoInMD/HXl42z0AhTEQiG+zqL9moGhDx0497StuNsvjFehA97DMNMyEt3V8dDqurjD0f/0sDDSaFE/PdTqyEjscp5Ic9RNiBQfMJzo0u7sJ"
+            }
+          }
+        },
+        "Quorum": 7
+      },
+      "PostConsensusContainer": {
+        "Signatures": {},
+        "Quorum": 7
+      },
+      "RunningInstance": null,
+      "DecidedValue": null,
+      "Finished": true,
+      "ValidatorDuty": {
+        "Type": 7,
+        "PubKey": "0x8e80066551a81b318258709edaf7dd1f63cd686a0e4db8b29bbb7acfe65608677af5a527d9448ee47835485e02b50bc0",
+        "Slot": "8000012",
+        "ValidatorIndex": "1",
+        "CommitteeIndex": 0,
+        "CommitteeLength": 0,
+        "CommitteesAtSlot": 0,
+        "ValidatorCommitteeIndex": 0,
+        "ValidatorSyncCommitteeIndices": null
+      }
+    },
+    "Share": {
+      "1": {
+        "Committee": [
+          {
+            "SharePubKey": "uaw8M/4ZQSTsUSNYBhD6l6Czq7ScOaI0hAQhUIwIxCsJgy0Pm0FjXeul8TMDRmHx",
+            "Signer": 1
+          },
+          {
+            "SharePubKey": "kz1pTGkkb5iqKz1t524qR2rdHuj5H6A5SbEVvHoPZ3u5ZGIgBH/krSlDVUVCQlID",
+            "Signer": 2
+          },
+          {
+            "SharePubKey": "oa8IOuuo3GEYpGecefYZvvNk1VYbI8fxLPDSfgQIMZu+/rxyyutWy8+21ul3ilKG",
+            "Signer": 3
+          },
+          {
+            "SharePubKey": "rbbPE1h+tjwTMBvXBq0uQeiY7zjgW8F3SHU/GbiTh6NSfksUWkw4+ePzXeQF/QdH",
+            "Signer": 4
+          },
+          {
+            "SharePubKey": "ovesq67A79GGQk7tkM5WjCDtuuuf9+xT9fGA5wk3pppddGByCSve0md4ED5rGJNo",
+            "Signer": 5
+          },
+          {
+            "SharePubKey": "k0G6HgfsQWNlvKiso3P/s80hTVrPnkjyTPrc0+2uB+PaplJffnFvSdmjkBNW4Mye",
+            "Signer": 6
+          },
+          {
+            "SharePubKey": "jKJiWGQ9GMT6EaPHMt+EWZKfacZB1sXPUXgWYugOJa3hMm1CbTGoRXXnYRS8yz/R",
+            "Signer": 7
+          },
+          {
+            "SharePubKey": "q0rU1AgNbIxwQ0gfqb5DpEbdriONEftFDWGhOesWB/KjAmm7SijrQkMfybi/qNAt",
+            "Signer": 8
+          },
+          {
+            "SharePubKey": "obBtOlWzBdTeziCtVY5FteuDACOmXzBRXfZONryRSaDgvfQlc01s+Qewj67gYRtH",
+            "Signer": 9
+          },
+          {
+            "SharePubKey": "tJ7NtDheMBJsjieXeanh6kC+9ONNv116vN0v2xyqUfEqqfST3Ku/Vx3rhBvtAidF",
+            "Signer": 10
+          }
+        ],
+        "DomainType": [
+          0,
+          0,
+          3,
+          1
+        ],
+        "FeeRecipientAddress": "535953b5a6040074948cf185eaa7d2abbd66808f",
+        "Graffiti": "AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "SharePubKey": "uaw8M/4ZQSTsUSNYBhD6l6Czq7ScOaI0hAQhUIwIxCsJgy0Pm0FjXeul8TMDRmHx",
+        "ValidatorIndex": "1",
+        "ValidatorPubKey": "8e80066551a81b318258709edaf7dd1f63cd686a0e4db8b29bbb7acfe65608677af5a527d9448ee47835485e02b50bc0"
+      }
+    },
+    "QBFTController": null,
+    "BeaconNetwork": "now_test_network",
+    "RunnerRoleType": 7
+  },
+  "PayloadAttestationData": {
+    "beacon_block_root": "0x0102030405060708090a0102030405060708090a0102030405060708090a0102",
+    "slot": "8000012",
+    "payload_present": true,
+    "blob_data_available": true
+  }
+}
