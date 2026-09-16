@@ -904,7 +904,7 @@
       }
     },
     {
-      "Name": "aggregator (unknown)",
+      "Name": "aggregator (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": null,
@@ -1015,7 +1015,7 @@
       }
     },
     {
-      "Name": "aggregator committee mixed (unknown)",
+      "Name": "aggregator committee mixed (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": null,
@@ -1989,7 +1989,7 @@
       }
     },
     {
-      "Name": "proposer (unknown)",
+      "Name": "proposer (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": null,
@@ -2095,7 +2095,7 @@
       }
     },
     {
-      "Name": "proposer blinded block (unknown)",
+      "Name": "proposer blinded block (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": null,

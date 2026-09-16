@@ -1200,7 +1200,7 @@
       }
     },
     {
-      "Name": "ignores message if consensus already started (unknown)",
+      "Name": "ignores message if consensus already started (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": null,
