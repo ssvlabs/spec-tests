@@ -1,0 +1,7 @@
+{
+  "Name": "map proposer preferences role",
+  "Type": "Duty: validation of beacon role to runner role conversion",
+  "Documentation": "Test mapping of BNRoleProposerPreferences",
+  "BeaconRole": 8,
+  "RunnerRole": 8
+}
