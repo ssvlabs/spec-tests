@@ -1,0 +1,1687 @@
+{
+  "BaseRunner": {
+    "State": {
+      "PreConsensusContainer": {
+        "Signatures": {},
+        "Quorum": 3
+      },
+      "PostConsensusContainer": {
+        "Signatures": {
+          "1": {
+            "3cb5a0a06b12969f7724995fdd03bc948b665f2272cd5bd34a0d7c31f90d7d67": {
+              "2": "hxb9+ObRsYb+0iXv7qoGvXfrHH9xwIZwDuQyL0HtWAXcaRZ/Yw6BBnDbNkhuUgupAoUv3tDb/xELzc/kyd6cXKvlIJnuQX8UFbHCUkBRjhY/x/ScrZ0ZPfI3DbBgMIxb",
+              "3": "hxOH0CXs1YGR1cDYuNk+RA/I5aYlOJDX1MNPVFuwG+udAu6cQVKhlwDTn8+0FPWuA7ba5FnAoeABSRZSD+BuzXa9E2hBrl9wH7mcNkOVip4D3RB7svlXtCVQDHeLUHYe",
+              "4": "gAMmJBleso3zyUNsR/1pG/H3Wjm0EeRUV2q8/I9//KPeXoRGOzsoHpFuNqrJac07FZfntZ3pVZnDpFHpVDiOo6ydp82NiVJPanLYaqK046gvCxo3UpAogV/Oc6W+YcLL"
+            },
+            "c8ad1b987c86546183fabf62f8ef3942a0bda0db840e8d393c3e40c7ac065ad9": {
+              "1": "quHCE/SBUYnYXY9uaF2qkvXxgGFCY3jeUEnN8+jCWo6rc2EAvQu/uLz0ynu1lMhyBK1DUOB7mQEOGYnietH5AkidL0iH5POWZ9lirkNaUZtALv1oS9sMCdgnTCn7iKnk"
+            }
+          },
+          "10": {
+            "3cb5a0a06b12969f7724995fdd03bc948b665f2272cd5bd34a0d7c31f90d7d67": {
+              "2": "oKZkjVzdv2OJGU0Djdposq6hCo5a2H11BpGUtQ9estbpylbLyJIvnMRoro/kUIrmDdbFLSiGGS3Y7lYTRD0mvvcz9TQY/SUrJOZuPRzBYwMa2lfpAUTZMjrxrBcCIFxT",
+              "3": "kJIYUceB9lRjB2uLdMRTS9wD0QrvSmd+jS3XFlU4EJwls3E1W08UVmF1a+3Ba6ZdEOdnFKof8ldmR1/ztfqYsEVyZ1eWGnNSUB92NUvEkwSrHpTd8zD87afDeA4cDgQ5",
+              "4": "gUR2j096ip/sjyLS66nKK0LkpZdCO4zJE5i4cGtvbQG1KGEk4gzDMz3l0YqnFwpbFBKAOVsM4FsLXCYP8m479l98Kt7Uw2C0NPTuW7ggwJE44j66d/oqZTbcPHslJpBd"
+            },
+            "c8ad1b987c86546183fabf62f8ef3942a0bda0db840e8d393c3e40c7ac065ad9": {
+              "1": "rt0C7fXmgJdbfgcA6ZN7ScPjy8x7F0QH5LiuEERilTYGFPnyjAqwfh+40CPBuPABCiZmHEQn1kXMmpul5F33OXcfXrZHbfaC2bIl3rH3CzsALv0kSSSncgSw4ENS08JG"
+            }
+          },
+          "11": {
+            "3cb5a0a06b12969f7724995fdd03bc948b665f2272cd5bd34a0d7c31f90d7d67": {
+              "2": "iDflcDU7MLr9ujSZ6ObOPQELiNk2MSDHj9pOZFpT5s3QTQPwm0NTjwDd6ijnXGZVFEW6mZdrAawWU0oBRX3KDhQiOeds2OXMQnPhaqVSiM6OoxooFYRuOaGssvIgwkwp",
+              "3": "tzHx+x3kJPDX0wXsmZrUBLf6RilipdZU5jAx/7RmqZqnft+Z0gn5PPgWbfl2ve3sBSomCZlpaGNviOqsAyi/6vfx0s8NU+PeJQnWIrcxy+CPBh7IYuMabPfzGFcHhf/E",
+              "4": "hE9RCpGkK6MzcmsgFoy/oH5N10rJbdReNieXd9ZvhfNWIQxCMAa+zPbFEsi52Kv7AJmMOarFB0EGqBiywWhhrVGo5q3wi8IBL134birAwxfKWFhVxK76GA9CxzSOkDzx"
+            },
+            "c8ad1b987c86546183fabf62f8ef3942a0bda0db840e8d393c3e40c7ac065ad9": {
+              "1": "rBfCH8vtdmbYtC+ODaIBYh8KUfAkcDfL0F1jMaKUFaINYAb1StYz4yV1JAjjgdSQF2tsSd82NuPgIC3NEh2NrbLCY1uHdrR+vDc4N+OrgKoq/W/z9kD5V3kjiOl60lDt"
+            }
+          },
+          "12": {
+            "3cb5a0a06b12969f7724995fdd03bc948b665f2272cd5bd34a0d7c31f90d7d67": {
+              "2": "paeBAHWT5uwTNUntT68ud9csenw+gJf7cW4sUc13D/67cQALY3oP+lqUzjHvHnpfCG5cALuqNZysitmM6yHK68XJxuIDfhfRwhMAi8ymwKiapgWj8ZqEwbPn48zvMXvJ",
+              "3": "idfXYztC/EwZY44zg+v7H01FL2dyYZlphGMpub5qVNezUuIgKMIqKjCwymsYT3u+DpKS3V3T7M/Kw1XeGCjKk4ecvJv8OZ5VCr0FSNgnJvHPumSXHCLtKe10hnNqGCSi",
+              "4": "t22l48VANcK8WhIsn8q558Hbid1bMTYCrkKAt28t2acD4qAywEwWS+kuK3Cud3ekGaoGk1qpSyLLyXVxljFQLa7R/U8u+OttahnX51h0P7eQmo6kTF3qoXCMHfCGPoSW"
+            },
+            "c8ad1b987c86546183fabf62f8ef3942a0bda0db840e8d393c3e40c7ac065ad9": {
+              "1": "qlEeUkESsXEB82a/3WCctTC/TyQDW/rfnd/bq1mm7Ea2ecQbYQBsRfr2DmgunarlDYN6PME+HGFwlu6pjrzwJD4beU0wzstvELUw/utDC8ncrxKBIEh1BWrZjq3nUU2z"
+            }
+          },
+          "13": {
+            "3cb5a0a06b12969f7724995fdd03bc948b665f2272cd5bd34a0d7c31f90d7d67": {
+              "2": "j5j/h1VJS2Rik1FfZsZLTfOmO37yyBH9iOPPJowQXjcnIVtzDutv16ciAdLz8qCvGVXJaw0Lse47idhQPMf1+AmI8dxYwrJ+dThpxXYFqXN5cuc+mVEkVpPy/LZsFkoA",
+              "3": "r3pV+lCzAbYy9n21gO1xeAFThjiVfT29tt9YAacGeLlOUvA8lqAaojzAZt0ew/mmCeQSpk3o550Tq+3W4H+GNqLRxb2H1e0kwJKzAuEmeSQYKFi/gOScL0W5X4Ws8S2H",
+              "4": "oqb07MVzIzgZzVnVKizUhVe21nBd8EizIC3j0SYH0UgWskgtD4lENo538IO6FmxyC/BrHGouIJ8t4CuosGEQSjICM5h7/2RrggFLHQOXfMUKQPOFkPBPAbfkbca076v0"
+            },
+            "c8ad1b987c86546183fabf62f8ef3942a0bda0db840e8d393c3e40c7ac065ad9": {
+              "1": "px4HkYl3M7sc/gZ4FUOA0dqmBP2IbX/k88RqYITxjWwn4cMA862On9NxKw6CSwaTDOv/wiD26mGPW6z+pqSWPUbrHsALWIP76u0t0258QhVk2d9tfcaWMLhEwwU1nJAR"
+            }
+          },
+          "14": {
+            "3cb5a0a06b12969f7724995fdd03bc948b665f2272cd5bd34a0d7c31f90d7d67": {
+              "2": "uT/dwjzkTbgvLUzlwv2xmawibLhn2CIC5lypv6y6dRR/3NhjinAW5On42ipFW6TpEAx2fXLWgMLVHHLeWlZ0x2GgUxBw04xI2oYNyaiqhWyB3DP5UnAfVw0Y1X0HYUr9",
+              "3": "lacFiGuPnX3ctmvY7DSFnQj59ztSEc1y7DxJPFZdeP+3RUEU+ga6QwegkEs+/zcfFMc3D28EopgOtAVPJ3Wqurae3KAyMxQ3AQG8P+yXW9/TEeMADeSFGqXcJhI1mv/N",
+              "4": "hyCupqOwNi9USfaXK/y8d8C2XxMRN3EnoRR1Q8QJ5P35yu+KjWOyps22vX3dv7e4BsJIyNaKI66oirbiEA+lN9l3tWbvLUwAQPHwHRAEdTr/PaiQoFjE5Ahz3Kz3JUr5"
+            },
+            "c8ad1b987c86546183fabf62f8ef3942a0bda0db840e8d393c3e40c7ac065ad9": {
+              "1": "uOqdh3htsKqykpV2mJjnjFgADP2jQRlW2UkcvGS4bJwqyxJADeV6xgmKsLtugqkiARoMSlSMo4550G+osLww2JTShH4YBt9FmKtZej/63nFI19jyhYMcvFdPm6Ubl2Pr"
+            }
+          },
+          "15": {
+            "3cb5a0a06b12969f7724995fdd03bc948b665f2272cd5bd34a0d7c31f90d7d67": {
+              "2": "ufAd2WrbzySEHmiq1SAYURSJUNcbq8RJrO4eekxTO4vRY2AxA1WWF5vBz74itvtVB2YrnSx9n+oT8OvbjR1VpIntPWKaD9s3CYsCROdIKWDoN5kkIY6KdVYKsgjKj/2G",
+              "3": "mGuCWOH7KM0iQlgZnVMWy3L4N/WZ0xLx7mzsPFgkbx5ZfULyfgBm6Mw32G3RtpU4DTb54l7eSYSLig0cziWxjVZQlNYjmTvGkoofnUetY14wiP898v4gWSNZiSB4O1sr",
+              "4": "oZRkRMWGB0tt+4tfUOOVzIqIv6dkGcvHLa5NY7qHw03tHCokqlG4rfkPxOV3Eg6EA1AP6k8OKB6O3A4fnRixbzK8MG7kpPhDgcbMt3bRZkmPyKWIUTJah+IL49uoMn4j"
+            },
+            "c8ad1b987c86546183fabf62f8ef3942a0bda0db840e8d393c3e40c7ac065ad9": {
+              "1": "hY8yfdWypB+nutpkXEc406U8U3gJ7GITfzGNikh2+3oZYP78soPN8erLMl7VAr01F60Ndx6aMjF2kgE3PsdjoI2MlAn0O58PXTJGQpb+kJALWzIhFtBpgD67PTkwQaoK"
+            }
+          },
+          "16": {
+            "3cb5a0a06b12969f7724995fdd03bc948b665f2272cd5bd34a0d7c31f90d7d67": {
+              "1": "gC2qYmaLKd0llcaMgY5z8/jkwJRAf48wyrR4D0k6GWpFvoqSugLkD5GgNXgg0n7/FcKUW+Nz/brvuL1zvtvIfc5MY9tcI9XwzJ5q/nSKPTkRRJMD32dDO7q/XmaLPSn0",
+              "2": "ssaXtRg/XHuP3m/zJNqk1cv2aX7R2G3uzz0vdHP/bVnu4LKVGQaQ6XnNXGg6h5hEGf1bEY4wFynzLvFrAq1goddydzKysOLx8KygPTpAswqO//tEYQFTGqjei74ALbgw",
+              "3": "ig77RAqMrPaLnW66ji9YFUMkj+YM5J9VRs6uFEnAHqbheK6if4TRN8DheNps8j7aAlHse47U4l8qmvcdlOz9WlIpP25ixbuMaIufKp0o7jOGKqhfzko+tSHb7yqZhu6e",
+              "4": "lGnwgv0xDlKr/rgPd3zCbVIvfOhjmDFsJjW3K+XVpWAzNpaowsIOSnYLFIYul+wwFYM5Xib7A91GTy/RD9zMGq+/WADruUwZJGaTpkRhW10oa2kNdTPuh3+KPFSl2PMi"
+            }
+          },
+          "17": {
+            "3cb5a0a06b12969f7724995fdd03bc948b665f2272cd5bd34a0d7c31f90d7d67": {
+              "1": "t1F30xgoTMJS45ZxgYU3ZQ+WvMFhOEwzkS2l2EfjMAULtXQq47s/pTCjeP+qTyYxAjR4H+j2zSRC/1mHc7HRRG0fqIKoAbT2M/vYgZan586JTOIweqwfvJzakLrPnpi9",
+              "2": "paMDOm6omAhYoNXg0RumpnmIxxVHFdyY/JS9BArUeYN6Bop27/srnAnrOTjrXJ+uDnfnSgwBjul0a+o7HZNYc2cMeYkN9jEB/4JqjO8ghWrguqV3cgKgA5BdRIDNMVlP",
+              "3": "qh2UTO7kAKMI7n5RRN7RVNKdOlJlj1Okeu3/+FQn3qtahuXtMziYqF0Vp6MVF6KbFVauhYTL0ZxPdxReCr/L3DgdAKOVVxvlLG6C+pz87o0pHLHwtJKGJSQLyjQhs9CZ",
+              "4": "licUU2bgnCJr1va3KjUdI3zEFQYxbfqfizklV7T6Tzka/JIyDwtbnWS5FffdCKtSCIX4zVyAQ469ST3k7PVscIJ0NXfw+3mMM2+geAZJ243tKGUsf7ltpNLg3YCTDHg1"
+            }
+          },
+          "18": {
+            "3cb5a0a06b12969f7724995fdd03bc948b665f2272cd5bd34a0d7c31f90d7d67": {
+              "1": "rNvjq0qqGg0tCDXBZ+0XWUNwtOpEwVltHNOc3pn3bMzbYDO1XYOoPxTL3fz/NU7XGBCmMjYZYiVVukPP1kpW1re4jo88bg0+HyP/FolYzmGvtGkP7wrNinPHwuVg57pi",
+              "2": "s8m8GkrSIU9cc5EsIRlNoes+0WfK/bLZgZVdVLxmMW9+/GeKdZro0PUCVJbF4+/BBV4ZOwCx5vSgUZuMFIhPtU355NXViAo/ct2zC227LnoIZRl0J1jvGRfHZEIUthyX",
+              "3": "mV4JZRtwwoRrM/XDc2ZIRwgJA1rYYO37e04cQ81v51bveEOwXDk4H9exO4x4DL/lBEbU+htZQkfTK2ohVJGEI/8dFoEYS97dXesHsNLkaACRB1R1ttuuLOxo4iIyDc8d",
+              "4": "iN5Bs7r2HTKCkRW/6giHkpp637lHFTgILTbdP/w7BOPU0+wpa7k3jz3dHzJBfIwoBt4qFz2zOfHVsr8jXLON0H/VO2gi1Z2sJ6AdbQqMIxDDtABRRILWh6NeUP6Gk873"
+            }
+          },
+          "19": {
+            "3cb5a0a06b12969f7724995fdd03bc948b665f2272cd5bd34a0d7c31f90d7d67": {
+              "1": "piihU1arjSsJ+nsvp39byVYWUkWpE6WDPuswkii+TFrBsgzosxCxJMjm2at6bLePFFry/IrX6iJRXiuAUgzJRhTlVyqGp2VWfyWWvpwc9AhisO9XiFbpjxQsnSLarAx6",
+              "2": "iuDYO0od3nufdEg+vE/tdjNCpnlDaNXC96Nur4poJOSDTdkxewYKCm2BfA48VYjuFQKNjFllfNiD3qEeAdIu1+bbFXx+CCBlzbcGtEZdlbrOaI4JrHbV/iAo4ZFpnZbv",
+              "3": "qjwPaSaLJ/49RXoSqUCWk4hVifQzT0kw9yE9o5Yy++GU1G3LOg5feQomFnOYOQX+FRjP5L+0p4RFAUooVOR+mh73wQpuD0SIbekAEk2iZnnqP1u0zR52PaNxtdvDn31y",
+              "4": "oIkxgtXZNdPHwWUAM2N1bVWRH7n4vhNqLvt+vCfHY1R8Axk1LCzFxaktvKckPfYZE2qyWmtVc6u0KZO/RlOZkf6g7sOwxJ+8Ws8ZRCYrApKB5DvMBg3ZjPQKXZnCUsEz"
+            }
+          },
+          "2": {
+            "3cb5a0a06b12969f7724995fdd03bc948b665f2272cd5bd34a0d7c31f90d7d67": {
+              "2": "mEvz03+6KFIc64ueqjUEVFp4xXVduKlAuCVcVF6gQlhTBVvZghncdPXTDO0AQvcmDVCZDOX6RduIKiQCrh9KFJc6gf2fls5QkbyHykvayUsw6bUiaBc6ry6gm9bQyacp",
+              "3": "kBTJc/iPwzguZtnncu6GgBrq282gT62ci2flcECJLIDYQYkbemA/XpQHw5HX31IlBfG85ZtheEX6G3EOXko78w2ye3zGgmsBP3Ey/Rq/sPub8P3WqucP4pOVp9CeHcHn",
+              "4": "jQVs6O1vLmSGeLCuEMO9W+R0PQkbxRyNzBkLXjtOE03ZaJxQePjjms3yBIag7rZQB+M3h1g8BFKosMr3KmEBcZuoFFvb+mBj+mCaEaoyn5xelq7bZHM5G1YQO9LTIeUF"
+            },
+            "c8ad1b987c86546183fabf62f8ef3942a0bda0db840e8d393c3e40c7ac065ad9": {
+              "1": "izxypfICrHOlJlUctCTQE57pOHvoQneeJ1ztAgSdjeeHJG+dRrG3KpOuJZX7uC7xFKzG4qjsxBvOmg5+rnoaRrhhWHRDFL/bwrRbTSkSjFhdbW21xjVfkEvEWawx2hn+"
+            }
+          },
+          "20": {
+            "3cb5a0a06b12969f7724995fdd03bc948b665f2272cd5bd34a0d7c31f90d7d67": {
+              "1": "kZyW8wpGPUpctgqzPm0SuHG6fSvBiz0Lp4nqpxCUudypHCi+o843fFhe307gOSwRCwt0x8XD/W3OsUJdfCpTYxhiqvxWW3ERe+6IiSsAXWmUxz1EE7VscRi/8u8WQVWm",
+              "2": "uZo/Tew1LCpQgiZSwnfhBFY1ZXzIoIOsNGC/VjrbDCAEKvu1HxevCcY8oeYRsWO5EPcIeCPyIn0wgpCqzPO9lh8894jrV9UAog+4Jmc8biynCq4CQ6TcM6KJgQP9YmOa",
+              "3": "mPja+HCyqJZssNxVcSTbhWAGIiM4HeGUqi0KUQ0q/DJibH7UycxYr8dcm+8XlwiDF1k0t4kNOf4Zf1NZ+W7VrFw3ILqirkwinT7VPNuA4E96CvCsxgn1RMD7Ihz44Tty",
+              "4": "lN/4gqUD7Q3u202kOS72CxoAAVrFPSNBI71dwi0NNe6m8yzteVKNi+Ah7OxUbxvgGIYMh6fx998DyAlw27SF0hy++S2XJ4IBl3ZNkuAGx8jiKU9BidLYsSxWr/W716d9"
+            }
+          },
+          "21": {
+            "3cb5a0a06b12969f7724995fdd03bc948b665f2272cd5bd34a0d7c31f90d7d67": {
+              "1": "jwUnCdzNjcsRkuPkqmQm3Rc23SzUh5jwiNVTRzSVHHvMowvi4L6ImOwhZgfFoGXsA9IIQ5DepX48XldIYtGnXFviOJqbR6UPuMAIGLRSeNtK7gUwtNUv1E3SIR50q4Ub",
+              "2": "l6Dve4LwTcEqBdL0czg+NzWi4+cCsE0B/hDmrQx52Ne7oWh1Mja3sG+xVI3BT2QCEQnSwx+upuynAAUHwRzBPb1nh2Kf5x+kaLACNlIC479AlByc/pSzX4BwtHsNVdp5",
+              "3": "huZsFNNC6BuKVFlBqBPkPt+1OMdiEwsyk2XIbaOzoad8d3oQSxE/1qrIcY8vI3rVB3gbUfX3a09Pu9G+0s6CTUUTL87e53kxC/4Vj1x5YFp+zmPATNt+LydWuKrOU4iT",
+              "4": "lRsYV0RxSDBmoAIjlQMdqaYZGaOurvq7skQDRTWM9R+RMM1p+62vAaO9ZlqOimbcAj3eT0KR57PJJ/+Ls7lV6fbPqvgRFo0tn/TCqDsOnmnMzvX1XubKhTYzmzxEa8P/"
+            }
+          },
+          "22": {
+            "3cb5a0a06b12969f7724995fdd03bc948b665f2272cd5bd34a0d7c31f90d7d67": {
+              "1": "km42NzadEbCpCS17bMxEj0zorJNGXA9HmUc2ynoYZ0EwfvOhkHGl5IHRZmG2wBrfF/5Icz03pDdQENnjK0eYPzZ7g22uVd5Fh1PeU0j0AJSFmu/72aubx7P3NLUmrKQm",
+              "2": "uCB8/urdGbwrdPo78Y6GwwOrjYoAr66fYCuZOCTSoKN8GlYRFcP7+Grst2MdoeyLDBrwC5viZE9e81NKmqhZqhnHHNEiVwnKu34NPdesqOTiAXQlE9mKjoEUJV8r0VHN",
+              "3": "iE6dlH8VhqUk9kWsIs2q7h6Em2D+ZMKxOQDYbev1VD4KLctILC62ggo2p/h8jcqYF67nv4TjAvXuLXGrRDoYrmsNGtYPPQg7KkiAOZKNAMFkHCLo/p2ORqeAVgmHt1UD",
+              "4": "l5X0WPHmuh7TmF8qgqmqJv5SGjguIxhUy1QZbkjbZmrtr9D4LOKP8NKjXs52f5r4DOX7yGV1oiXkgWG+kVI066TTBtq2+gA1wNkOZRgLaUItFm82F9LHJbdMGa534vkD"
+            }
+          },
+          "23": {
+            "3cb5a0a06b12969f7724995fdd03bc948b665f2272cd5bd34a0d7c31f90d7d67": {
+              "1": "sd4gzyaTGzVQWqOuE4jscUBZdAhS7IG2HiglDe8fDaGAZfKW6E8p5JxYf/fbUV2RBvJiFMRz/ttpvI05VlQiZ7cLn3iVbaMaDidkvkIeYkhPW5QOTnnY6PVecwM7k95J",
+              "2": "gt5c4Ir5Dqes26E3jn3dLQWualjDfRiD//GEvHja07UQlkbjp/LmIrgI8X95T3QmGe+TULcL3Yjz+W7/D78N83ErtgqiEQjjnJiUebmtCt6/brsxF4ppqZoWhLgM4M6I",
+              "3": "lE8hcaqRlWh3H5MrHzaXaqPOXlO523gGN26al3Vk2i4LVjhVj3K8x4WRQp6PmEBXCLZiTxCriss5yJh9GqTa04JPK/8Neb1HbYOrXU118WAyfUAu5PkHIhs8M2JqE9J8",
+              "4": "orDGQx4f7hiNrfwK9Tlwnkres681YXGOgzsOgyMrG060PjNeBps5+3rlQ0RglJj7GA8x0/Z5n7bMqV66b954X8KR7AChT9NRW+NK5Vv3rAD2TQdUVID2ekmGUsjG0bx4"
+            }
+          },
+          "24": {
+            "3cb5a0a06b12969f7724995fdd03bc948b665f2272cd5bd34a0d7c31f90d7d67": {
+              "1": "gOowNSuYZKLuhJNwdjf/Mz8N/u/BC0P2zwmF6qVq2lwc8f/6zEnEg2WEc8enL233Cm3tHgCCw51d761DIm9MKhqhuQyL9kOVDcDmPw1YYAZF7Xsenp2wBmz/7gw7nOlF",
+              "2": "qxEWJzJCg0CvJZfAJPbJId/nqi0D5xPNZ+qVi+hFLWOBfK/oShvG5tUnJWPPhMTGGMNwpSJz1ffpTcgxS79HVkZ5NKM18MBZTViJeW+8+gc6Rog41CUo3O+FODf+03qx",
+              "3": "gmT4WSv0ztD1amp6ZcFcYAR9zdFHuTWZ+75KuDCKlI0qmFHUDsWG2Vrpbr2ux7VdBkvZ4jJx/qJBb5lxJSaUcZIMryz7lsJhUstG1dcQBZ+Rr5PFoVJN2A6cyzp7jgGy",
+              "4": "mYMnDcimB0D8d0LYH5dd9O4ejDlTBsAUJjB6oXJnjg5ycT4FfDpfiL0QpfugF4YqFwQdegqsv4XH5ooBwouYALtKn7abQ8wplTUusZRndj/v88SXFQd/MbxIXIZQYnkf"
+            }
+          },
+          "25": {
+            "3cb5a0a06b12969f7724995fdd03bc948b665f2272cd5bd34a0d7c31f90d7d67": {
+              "1": "qRr+c0fQ3z7hT9WrhZ8eiX8vTKY3+j0juuX+DPVViRqAs/3QEip6o9vZaQ9OQ7QtEEDXrzE8adqhkMwVx8uNzdPNDejxfrQbjVG8RU9syQ3V78vW4F4TJ4PIX/Wo1HCl",
+              "2": "pLMZoW6Y7O/bMOv8zfuwl2O9zMrN8Pbm7pqNn3g800E7YnMfPBKsi2Q0Ted94buSFFwD5zvgDbUHvN11y1pvziKZD0XtA43jDMCAJFhJmH+047pqm0QL+0y1U0PFoaVj",
+              "3": "rLK2SewtwsPKBmrh3SagJ4J0da7PcBQ/ny9JCKOMLzqG6iXa8uYyPXgO8/m+WMH5CjJK5rDN9LWlfG7y3yCsrbcgLkSBp61mLmJsDAo3LCmbb2MJUEcCIwkhySczqgBk",
+              "4": "rT6e2wvf1L3tTOdkm+4wR5jLJdlHfgP8ueR9pZ/3SSgEHLLmzFhQFyRR4r2Rj/sSA9CRZ3QzCx0qOy6Wst2MNZFiHGm1Z0SLRCLb7LlKTuzQ5hEYRYApSgEQ3hA/wuOp"
+            }
+          },
+          "26": {
+            "3cb5a0a06b12969f7724995fdd03bc948b665f2272cd5bd34a0d7c31f90d7d67": {
+              "1": "ufJe3VqwkmxEzATIf7B4qu6FXwirspStxZ1sBKKa7fWP2HWCH37rsuhZOvOsWNyeFo1MklQ8pvNvImv6bMMoIn7WDAHBZ6ynMLoS4h9v2uLW42k44huOiQm86H6uP+77",
+              "2": "slduiRpVD7PI3jpA3e4w1rqbzfwoJUp2e33efNF8EOin1ZMvXjF9Gdxvvm4jY4h5Dk17eo9MJ4yO4OKFwTOkRvBJPtb+pr7qN0CZyllvifEgOb4AcNzAzx6QDpQMNy5Z",
+              "3": "qInwE63lYwLWYwUiolVA83DwlaZvsVGvasWQBzLMzNKLzAvtbv+TRwJRioeBM8RGDASYTcv/hfJkrN+OTcK8isY7xe0afnOlwVDYQbtJFjt/9l6wqdxcXSccl1vqbMlM",
+              "4": "qXkZVgYtMvZL9Uu8OCY523Ev2pePNmmv7fJaPysvRi+dDI2gzq6HZJovwe7aei4kATCbGmkw1gzSxauIKa7TxYSdgZ/6UMopTau2xbOdNagLW5NYnAPuL7kIeWBNs7vc"
+            }
+          },
+          "27": {
+            "3cb5a0a06b12969f7724995fdd03bc948b665f2272cd5bd34a0d7c31f90d7d67": {
+              "1": "rXdTN/Wk68j4FGJXuI5AN8itbS/DlpscYl/SgBq8cI7f8+cJbjhYsS34VzusP7u9ATraDPSXdgVc1n6EozbEcTN8oSoCHbJZET0fnBI3r+9p4XGrhpQxYWIsmAkGqaGg",
+              "2": "q1DmqiNtne9CkYc05qTulmqX5V63e2dEsiOiyoSPKrgt8S1ezXTGmFTehYfx+KsmFufiWtXlB2RN3D8PhwCBjh22rz7xJcqQYhLbDVuGdsLQr0UsuxAc3lmSwKlZG+Jm",
+              "3": "tQQARTdSO8bN2AeV1Jtgul1kbyefEu4NFVAd+BP2buL/uvo+GqmwfHWo2X+3oZFeAOw+VQLAZaciha5TnTW5114S85N5mVPJAXf+JXtwssFdNQWcPhwip3q0RmyDKHM1",
+              "4": "hJjMLVZsihI2O7o/yQ/LLEanrjZeKJArqKgibMl7HUQJ2rmFR/vqZBV/IEnl9HMSCN+HJq8mZXuLhAwi8BuJ+K+HFLPqZI6DbB0JeJOV16Hn6/4pu0qFeuwdQaq2lHAq"
+            }
+          },
+          "28": {
+            "3cb5a0a06b12969f7724995fdd03bc948b665f2272cd5bd34a0d7c31f90d7d67": {
+              "1": "geKBl762gFQbVX5lwllobVIE/7OMwG/deGLVyrY9bcni+cuk+O6szYJqHb7EoNXeE5pBkD/mSd3ak0HQF2pZrEJ94UCida9ErIWx2hJUlbiAoxfrUNBaV53VmRonjDKd",
+              "2": "ifqBZCWWeCsYXh3ciq+dMLG30GWht+RXklcFFYgyAGQ7pdjf/1FMru5/cIkxULGIEN+9ZadNeVimtHHCP6BmXSRPpw9ttDR5PGS7NMzp9+g0iFEWGP3YjeyxltpSfzLO",
+              "3": "ikgt5EnMNpYwwspeI4414cb4BFVWmy5KWEiQ6enDVmlxJhnd91Sxv6iFuuvUg8HdFT6A1ozjO2QOAAxmkUDOpWmph+oE1Qxd1ovU5sRl86nDjUdByq0nN2pkFM/ntq19",
+              "4": "p4VSIHmzaAetFdMmh1GhaDooTa6vv/Lsr65HBMTsj5G8Es4HIN4uib5hG8Vgs5gcDAiZFpYiU77+1L+l+k23Mk8qWz/NrJdGvYPedX9i8UtytqhX+wbG4iXYYDP/PAQn"
+            }
+          },
+          "29": {
+            "3cb5a0a06b12969f7724995fdd03bc948b665f2272cd5bd34a0d7c31f90d7d67": {
+              "1": "gVj0FHvagfrcRkSnas9EDTl/3MFM96tI5CxMBl732vgDqv68U2/LImL/iump2S1/FJyeoGX4XxAD0E1P9DOq1HAB3l2G1YSGoB+VER7PpCg0LDS5huUWSfoDfOYuoJJw",
+              "2": "rWC5fIVLQk+G6LlcNtgXjOLDuXgs2M8hY7zceDz+G9hxawQNwTauavtrJD6MYN2CF15ieCG77e+8iWGJs4Cv75VGlL90lV+1Mp81wFvWWBU6veVf6p3jcZ13uLbwB2B5",
+              "3": "uVS+pc9UdGaZCf9/ddec5qz6HRnFQvbArdjiK6XSlUph8qRlV7axkOkd+chUAKtuC6vQbbDfLf9e5XPhJDF+c9Dht4CyW73U+Mh6nEjFr4xDh4XvY12hpX147ZdNXHkY",
+              "4": "iUKAWN9pRl2+W8MqjdYapGgXWUQ7CHT/iCAYacTR63TJf+b/KiV5h16t2Ab+0gnGD6CRhHXd6EvUecY+PHa+AM3I6Nb1bqjV8RLjJoQ2XUgg+TyiOw5hOe0YDaccLlvb"
+            }
+          },
+          "3": {
+            "3cb5a0a06b12969f7724995fdd03bc948b665f2272cd5bd34a0d7c31f90d7d67": {
+              "2": "oYNO00WGc7yuqqiT66k+LTxgWc4Q6o2ohs8emU/cCyW1i4pceBCqjaAVfqgNxNM7E7x5tpPcj+jvC1NeUHYNKXRnu9oiPFYWaOgBNDBAfeKCwl5710Ud/i/RJg3A/qef",
+              "3": "rOhcR6aOmu0DT+xEUW1RJAgq9+YWRlkbDEuR+BUOEDQQ91h53cw18oId6DvFJT3QAS94JiyQCfr7LrrZRx3TpFsxF4sDrlMNUZZR9qYNGqxbMR8Z1QKH5xg04ivAnYMn",
+              "4": "iv7Kr8e8aL8ujVwq+1HdY7GTSPV9WaYAE6kF8TS58F9icKMhslUHOaDwWj/DJoyoDCDYVZIpzT7lusLbYoTzPqyyQASUG1jcpktHRrSgpxoth4HqGus0RO5fEQ0RqEtC"
+            },
+            "c8ad1b987c86546183fabf62f8ef3942a0bda0db840e8d393c3e40c7ac065ad9": {
+              "1": "uRghFQZK9ryAmSRRtFKuwHHQ9Jnfq2Ze4SHrweEJosy8iXmZbyf1YjqNRoK4ezhZCMrHmnVr799RS9XpMZkZCfVHA9TbECuWRUVsXtPiGnsyneOH+3LMnrZzPRCKAZpV"
+            }
+          },
+          "30": {
+            "3cb5a0a06b12969f7724995fdd03bc948b665f2272cd5bd34a0d7c31f90d7d67": {
+              "1": "tvYu3ZskSf+xNcCpgPHSSWylasrcF3Z+/gOBLchzDCQWpWKGlyJhTE2LmCTfJ0BnFP2wNE0q8leqqZbsZekjVocL1D2mCgCxR+amtYzaAveuNaiOjyQ0pt5et+iPtQxh",
+              "2": "jhY01rJOUU3/bhCXX4wyud1qoUAjY1dAFVvI92rI9oV0ZyrhJoKertLs411RkDLKBLgbFC+IYJeQLIjq11LNbo8ID/lp4hM7NucHIo5KWQNqH+fIpLr2VH+JOsn9LYKv",
+              "3": "pmATvje3CAIJ2JRuKcbIceQLoAyo7JFS+gHOpLGnv+52OlLG+pIgQxDlzwlAQXrbFO0fvMx10gaI33pGRdqvXHugFRbS3irH0QiQxoLLSEOjZqas61AdBUpCnvfbyi01",
+              "4": "itfOk6cLQlp5e2FrVqIdmE3f9gsIY/rAQ3FQwV5CCDT/82qp38O7wTdMPtBHN9gTCvlVRQ7XioqEjWX3JKr+xa6UCXEyDyaWImwjouFzln2Q8uVm1BzQSRgfNNzq8lck"
+            }
+          },
+          "4": {
+            "3cb5a0a06b12969f7724995fdd03bc948b665f2272cd5bd34a0d7c31f90d7d67": {
+              "2": "ky7peBIikhh1Ys9o2faqHLk/0otm5idtaoLWGNMtHklYmA8K68sLU8lFhW5MEyreCwE2l0H7zJz9TikXgM8Xk+7QOoQrS7U0sew/3AK7Tkt2Y7TUiGDF5gf1dAhsTdd0",
+              "3": "p7yX1TjWmKeDtul8g0VslN5pl51RXwubsQK9UsJX1iQbNrzPRv1LoKrryUJIcffCBLOm5m+ktqUGbvpIK6dLfPD6LmsafmOEm67Y/ZJau6d0jUTHDj319E1TFyGrpesi",
+              "4": "uKu1nj2/Xt6AUCyeLTLsHKogWSI99GUpX4WPtFivnVjlULfsAqpxDWbw1/R3hkJiCuPbf6rNo3HKlADcYt+dRiqcxy213KCrgbdSQ2GL1aJIlnsP3BP6VB1YP1j4AMme"
+            },
+            "c8ad1b987c86546183fabf62f8ef3942a0bda0db840e8d393c3e40c7ac065ad9": {
+              "1": "gUQtAk+zuXPjIeuF7t+m/HVoT4e1PBKW0eY1MKhnH12TnYZjC64lJV0qGtz4nt+OFLSKYEyqaW2kLBu5fRHrJvdnMPSchZZqfojFFJ87pHmzNfXtlC5RNRVe/XhnzA6w"
+            }
+          },
+          "5": {
+            "3cb5a0a06b12969f7724995fdd03bc948b665f2272cd5bd34a0d7c31f90d7d67": {
+              "2": "twlORvnVG8LJQaDM8WkMWxm/nk488Qsp4NqTZp0r3TRpIoeVxMKJsPk5SdHLVHrgCTGc0WYU1poT0ockag448r7cRdGJZaBPIL0xEZw8EQ+TseBf5ltDloe43iOevjEM",
+              "3": "iHAXNfqzlSxobmbhh8ik5esKfNNPJFrGqUvdqTn1m9bZtBir3CaqmqkZbr/uRXDjEjWYeJJBNLxyh+cMNvHTkY4XY83UgVaNsKFYp3oSWlpUECzYRbEggzEunbLLU06+",
+              "4": "qNMWWuR5HyNn89W4+erl6zwrhSo5yKYfIIk/S/GFiLV2cSJch76zEAIphd5tE24AAQyLzsgrNrq2mxLHy5BmtzSClwwMnRRoxm5N/LSzfPUPb7mttjJlBlgYWST5f/QN"
+            },
+            "c8ad1b987c86546183fabf62f8ef3942a0bda0db840e8d393c3e40c7ac065ad9": {
+              "1": "td1yUyfPAO1qVQqKSutk3D6b7I9wnuq/jOetwqK467RugzpWj3cAX924ika9E86fEnNNckFUtWwNfcZYoG0bd0ISGZRpE2y0WEhrbu6B5KFt36FQlrorm47lATDJsK/f"
+            }
+          },
+          "6": {
+            "3cb5a0a06b12969f7724995fdd03bc948b665f2272cd5bd34a0d7c31f90d7d67": {
+              "2": "hjpYiN+HGpapZD5GdYqaGwWCS3Cam0KecN52in+tNtWBp+MmoJOvH5sOx4V3WiW6AUpp/NYEPr1HGHLpdpwQshzM3LSvkUqZkNLqQudWmlqXekXjVp5E3ZGX3/LEJeZv",
+              "3": "lUPkXlDv6Tolgu66SQ1SxYQUaR86rWn2vTczB5JdtlA1otZkQza3Ghy6snMCRYFUFAZaxqY302L3UYwgL7+gm+KUjrDmiC+6xtsO0Dz9TycUSi9frQHYCNls1GVyX1Hr",
+              "4": "sggB5g2dD43qb5jErhYMKwXe0dhnyS/VTOnUZbWGaB+eWnP6hc2dSn2yD4xAjd5ZCCsbRZ2n/DhMJq/OI7N+6a++tAr2tBGlPRESJKzAjcfL7UIrpu3FmA+KvLJoAVYb"
+            },
+            "c8ad1b987c86546183fabf62f8ef3942a0bda0db840e8d393c3e40c7ac065ad9": {
+              "1": "i7NDXVwiSMO3lTi71fGWiOIg9JhjUP6ye8tOZcUs+M80dLE+TFq5f7AjDXoWlJfDEmCGSfHQv2JDAiJGhhJzPfvWwK5+Cl0UR2WWiiomecCpV7RURHEHs8T2+iVXX0Zk"
+            }
+          },
+          "7": {
+            "3cb5a0a06b12969f7724995fdd03bc948b665f2272cd5bd34a0d7c31f90d7d67": {
+              "2": "g89f68XUQIgPA8hLxS82otN3SyJxx+f5ibsZzBeIP+snAG/WudpQqTPs3RGlx3hSEBOF/7Obc/tDBf5lQFtorq+IhoGeTYjEb73cOXoMKMUYlD0EB/UA2GhV2KJmjtxv",
+              "3": "qlrqHcm376kC0QUs1P2C+/N5vx4y/e/G2CDM5UD+lkUidNhPOBh2VsPbmTKbjlpCB6GUJJyY7A54X08dONHnl28LOGlZdjej0dSZUfjkm98rJRJYNIFLCv71P8H0BjD0",
+              "4": "j7lD9SYp0NC6eK4+HT8ky5LWa2rhlxdHgngQ2Ypz7X/Lkt7nikNk5bj2tHE6/wTUA2mFmY3OV8eIDXu9/NLubBd8mjl3ye1xIBNF5UHxTgyvyU89yRLNgLUym74bGra4"
+            },
+            "c8ad1b987c86546183fabf62f8ef3942a0bda0db840e8d393c3e40c7ac065ad9": {
+              "1": "gY6LfRsPW6FV0xn9pXG0vn1jKHrapaHrbCTKVhMEsNVsbwKK86wNSCgccIme62BZC8/H3ngpdotKqiiDZb2vixUsTMZtdw6K66Fq2HNQ9egnvivO2V79ODuCa2U3Hu5E"
+            }
+          },
+          "8": {
+            "3cb5a0a06b12969f7724995fdd03bc948b665f2272cd5bd34a0d7c31f90d7d67": {
+              "2": "pg6OsEXZhyUTLVuxUlkzMdO2xNp1tbwLsqVy6yTUUFK02WcZUyjFAoJzBXpMYyqNDwUZcWCaNM2g5mB04pTfXab4nGBxVWjIyk1m5jO/Tl0idbCuU8kBJ+ghb3SwY+PN",
+              "3": "kstx2vOL6DY2U6UJmFDkhV/mG5B71rSxwJB4udnp7xFh+Cr//VOndrHRb/Gnk6JECgyIT9ZbqkiY/fhvmOKL0D5Q64in88go3P4B/Aj8XpktMvrvZAjbdPSbC3AHQ9p8",
+              "4": "jzl4dZhYm90Dc3LUu+LvDH9w1FqfW2cm8jR4KIAVcyRQd+QNacQr0DxGmzjGSwryDe78gkO0f1mtje85BJKeVxym6u2hhw1cVXJE0T1boRuV3bYoIWL9sE+1pN4qmwPv"
+            },
+            "c8ad1b987c86546183fabf62f8ef3942a0bda0db840e8d393c3e40c7ac065ad9": {
+              "1": "hDCZ8ItboZEiVBFOlCrNXZ/UHxhujYGpJ4gTXLZTEIuDfjABtoiFkM2746pRM024BQaHkUBlBjMw5bcTbrqNv9efZL4l+7epKHkZi33ZQ9z5Lzv+XjDmDsOQyRwXZltR"
+            }
+          },
+          "9": {
+            "3cb5a0a06b12969f7724995fdd03bc948b665f2272cd5bd34a0d7c31f90d7d67": {
+              "2": "g/KVvdvGNJKJS/d9DKAZ7POmkB3eLtq2iBj20byrmsaPonJs+8I6CQbXFIbcr7WWEoZtsRl+ZjjP3bHcpIwhreqzoNxqNuzCwmU4u+261Mfsgu7Q1Igr11MyoYwqpR8r",
+              "3": "tT8qnOffY+68k23szU45IWWcnOgLStT0xGxUisGkXzwK1la4UmvnH2MvUMDghCXgFCIzzyBJmdoOvEbHlyvR+igHXEnO3hFC2OogcatrxCu4q8cO4uHZnSYY0VVN2LT5",
+              "4": "uJxcwlKXQ3A2YbBvWy0nRRk/KYNHk1WGljb0wKjTw4qN2140QPEFKafLNhHfJhvDAk4gjt0phicB0taa0LdIXdr0H8kABRDq3Lk3QYmcw5MkntXngCpvTjFpQmnmH48r"
+            },
+            "c8ad1b987c86546183fabf62f8ef3942a0bda0db840e8d393c3e40c7ac065ad9": {
+              "1": "on6/h6n3fsUWYf4sDM1O58rg+/DB+wXcvEuKUyZ/0q3htlv22CLFfc2YCWx++bajCKWe3YvVwZBWGDBTjLbXxLRJSWjoOpI6LVEVISDVeFkR93yr571zR9V4ydGAVFVc"
+            }
+          }
+        },
+        "Quorum": 3
+      },
+      "RunningInstance": {
+        "State": {
+          "CommitteeMember": {
+            "OperatorID": 1,
+            "CommitteeID": "cf97adeedb59e05bfd73a2b4c2a8885708c4f4f70c84c64b27120e72ab733b72",
+            "SSVOperatorPubKey": "LS0tLS1CRUdJTiBSU0EgUFVCTElDIEtFWS0tLS0tCk1JSUJJakFOQmdrcWhraUc5dzBCQVFFRkFBT0NBUThBTUlJQkNnS0NBUUVBeU16MmIrS1pKSXpCelJad3RwYnkKTHYvZzdZNFBGTDhGVGI0Y0Y0cVhzRVh4Smh1MGxHSmhUMFlZWUN4WUNhdk1aZjUwTlFETzRRQ2RlM2xzb0VZQgphdzBlZnRrWE5pMkxYL3h3aWozY044NTZkMkdvMGhZZjJCRVYySkUzb3pkU1NyNWNoaS9hVHYxM2w4YU1ZY2pXCjA4bHlBemxBVXozWGd2UmlkVktteHhoakFQRVRmM1BtcHV3aGFvM1luL3dMOFJSNk9BakNFUjRLN1JjLzV2bksKanZCaDU3bFNRZjdZRk9kV2ZnbEhjTWNYZndVNStldmFFbVJhaW9vYXpTQnkwMUtvMlJEQnBGL3VFNzdzZGYxQwo2NVRRSnZvS3kyRjBKUWJ2ME9RVFNqVzBDUHcwaFMydk96Qk5VK3ZBRUVYNHdxQmp6M1grUER1OUxid0E1NFdtClVRSURBUUFCCi0tLS0tRU5EIFJTQSBQVUJMSUMgS0VZLS0tLS0K",
+            "FaultyNodes": 1,
+            "Committee": [
+              {
+                "OperatorID": 1,
+                "SSVOperatorPubKey": "LS0tLS1CRUdJTiBSU0EgUFVCTElDIEtFWS0tLS0tCk1JSUJJakFOQmdrcWhraUc5dzBCQVFFRkFBT0NBUThBTUlJQkNnS0NBUUVBeU16MmIrS1pKSXpCelJad3RwYnkKTHYvZzdZNFBGTDhGVGI0Y0Y0cVhzRVh4Smh1MGxHSmhUMFlZWUN4WUNhdk1aZjUwTlFETzRRQ2RlM2xzb0VZQgphdzBlZnRrWE5pMkxYL3h3aWozY044NTZkMkdvMGhZZjJCRVYySkUzb3pkU1NyNWNoaS9hVHYxM2w4YU1ZY2pXCjA4bHlBemxBVXozWGd2UmlkVktteHhoakFQRVRmM1BtcHV3aGFvM1luL3dMOFJSNk9BakNFUjRLN1JjLzV2bksKanZCaDU3bFNRZjdZRk9kV2ZnbEhjTWNYZndVNStldmFFbVJhaW9vYXpTQnkwMUtvMlJEQnBGL3VFNzdzZGYxQwo2NVRRSnZvS3kyRjBKUWJ2ME9RVFNqVzBDUHcwaFMydk96Qk5VK3ZBRUVYNHdxQmp6M1grUER1OUxid0E1NFdtClVRSURBUUFCCi0tLS0tRU5EIFJTQSBQVUJMSUMgS0VZLS0tLS0K"
+              },
+              {
+                "OperatorID": 2,
+                "SSVOperatorPubKey": "LS0tLS1CRUdJTiBSU0EgUFVCTElDIEtFWS0tLS0tCk1JSUJJakFOQmdrcWhraUc5dzBCQVFFRkFBT0NBUThBTUlJQkNnS0NBUUVBbVlaUDJHRzRxM1ZSUmFpZG1nbWEKT0N3eno4OEdUTDIvdHM0c3gyZk1hSkJ3dDJtY1JwR1NKTHVNQWgrUUpFSWhFUGNXYVNicllVYTdOZUg2VHZSdwp1TUlRdldzT3hzRUNmTzZndmZiTGhNeERyaGZrRmc2R3pNZ0pZQm1VUXVxRUlwYklXZitRVzJoQ0ViQjN1R3Y4CnFpMDdpSTBTTzB6OEtjZnhCVUJXNmtxNkRJdHozbEo2Z1ZOTjdTNFRBblZkS2o2NjBuR2JuSENlOVJQMzRma3IKVEtuUTBHb0NEOHh2RTE3U1dsWThHcmFzRGxJbDUxcWJSRGx2RXJJS3QvRHFBbllkZk4rL1BLekxJMkxlUGNjSApRdVdKalA5UXZZTWhrci9VVmdyMGM4Ums3bmt2YXprYmtrS2JreGVUMkp3OC9WN2gveWE0aDhZb1B6MkJLd05RCmNRSURBUUFCCi0tLS0tRU5EIFJTQSBQVUJMSUMgS0VZLS0tLS0K"
+              },
+              {
+                "OperatorID": 3,
+                "SSVOperatorPubKey": "LS0tLS1CRUdJTiBSU0EgUFVCTElDIEtFWS0tLS0tCk1JSUJJakFOQmdrcWhraUc5dzBCQVFFRkFBT0NBUThBTUlJQkNnS0NBUUVBdG9pRlRVcUpwTDg0eHZoTUZTQU8KWUFxYkVZaXpEQlBsL2xNMmMxOEtzRzlJQVNEU3piTmZ4R25jMnBDMzdqanI3aDNibFN4RU5ZU0tPWVZIVzJOMgpxOGJ6TEJ1MDZrSzBnenNWRERKTU5jOGpwVnFOK0VJclBsSWpOWUwybXA1Wk5uYXp5YVdBYVZWa05ZeU1hYWpJCkF6VHlyWis2d3VvUVJvaXV6U2dsdTBSNmV1V1FaZThDY2lFVDFaRHJDMFJpaG4rYklCbzNlN3YwekZBZXczUXcKVTNJbEZvanp0SjVyaitKZmx5UWFVaS96VEN5OXFUUG5XV0ZBenRHWjZGZS8wM3VoVk4wczhXWnd0MnkxVjFiaQpIWUFQWXo2MmZpdENWNDRZcmt6RU9tSVNnUm4zVW9qT3prOHZORlltY0NSNDFMMncvbzE3UjBEM0xnOG54QzZNCkpRSURBUUFCCi0tLS0tRU5EIFJTQSBQVUJMSUMgS0VZLS0tLS0K"
+              },
+              {
+                "OperatorID": 4,
+                "SSVOperatorPubKey": "LS0tLS1CRUdJTiBSU0EgUFVCTElDIEtFWS0tLS0tCk1JSUJJakFOQmdrcWhraUc5dzBCQVFFRkFBT0NBUThBTUlJQkNnS0NBUUVBcVFYenEvNlh0VkVmSlRaL3YxUHcKa3pTa05SWGJwQy80MWE5TFNRdnNra0lDZEcyZEd3K1FhZ2tOVllwdktRc1Izd0F4QmZEb1FxZE1vRXY4R2g5eApCYVphZjZrTFdrbmFWWVlOSmVXbjZiRWlEbVhqVllETXE1ZGhsOW9kOVVoSzRFWVQ4cklmNWFsZnlFYTkrV3M5Cm9lQUxTMjFjVlBwUlBvYlFIeHNYOHhvOXVRQ3JMeE9xYzRFVzgyODVLajV2blFsZnBHRzIxV0ZCZmJIR1I0WGEKK2FtT2ZUS1BsUkxsZVZVTXp3WCs3cGVHSi81SDNqcExGbCtvRmFyMkMvWURIL0VKejArTnE2R0ptNzFpSjdNYwoxK2MwUDZGT2F5NlpxWitaRGo5ZHBKZC9tYnFZenkzcks2YlBvOE52TkVZSFNKZk9SRDRLak5NSXM0UzF5cHhaCkl3SURBUUFCCi0tLS0tRU5EIFJTQSBQVUJMSUMgS0VZLS0tLS0K"
+              }
+            ],
+            "DomainType": "00000301"
+          },
+          "ID": "AAADAQAAAAAAAAAAAAAAAAAAAAAAAAAAz5et7ttZ4Fv9c6K0wqiIVwjE9PcMhMZLJxIOcqtzO3I=",
+          "Round": 1,
+          "Height": 8000012,
+          "LastPreparedRound": 0,
+          "LastPreparedValue": null,
+          "ProposalAcceptedForCurrentRound": null,
+          "Decided": true,
+          "DecidedValue": "AQIDBAUGBwgJCgECAwQFBgcICQoBAgMEBQYHCAkKAQIAAAAAAAAAAAECAwQFBgcICQoBAgMEBQYHCAkKAQIDBAUGBwgJCgECAQAAAAAAAAABAgMEBQYHCAkKAQIDBAUGBwgJCgECAwQFBgcICQoBAgEAAAAAAAAA",
+          "ProposeContainer": {
+            "Msgs": {}
+          },
+          "PrepareContainer": {
+            "Msgs": {}
+          },
+          "CommitContainer": {
+            "Msgs": {}
+          },
+          "RoundChangeContainer": {
+            "Msgs": {}
+          }
+        },
+        "StartValue": null
+      },
+      "DecidedValue": "AQIDBAUGBwgJCgECAwQFBgcICQoBAgMEBQYHCAkKAQIAAAAAAAAAAAECAwQFBgcICQoBAgMEBQYHCAkKAQIDBAUGBwgJCgECAQAAAAAAAAABAgMEBQYHCAkKAQIDBAUGBwgJCgECAwQFBgcICQoBAgEAAAAAAAAA",
+      "Finished": true,
+      "CommitteeDuty": {
+        "Slot": "8000012",
+        "ValidatorDuties": [
+          {
+            "Type": 0,
+            "PubKey": "0xb99696418493e6f324c8f7680f4de75e97fc9bdf709b93fb21149f4267eeaabae6c89d1091657d2c54eb387d8e6e3847",
+            "Slot": "8000012",
+            "ValidatorIndex": "1",
+            "CommitteeIndex": 3,
+            "CommitteeLength": 128,
+            "CommitteesAtSlot": 36,
+            "ValidatorCommitteeIndex": 11,
+            "ValidatorSyncCommitteeIndices": null
+          },
+          {
+            "Type": 0,
+            "PubKey": "0xaa57905889288431b819bee5bc3d77ef1dffcb3d3d0d7be8b748b96f27e0ed23a604e7a5b56c0b402af1810a17b21fe1",
+            "Slot": "8000012",
+            "ValidatorIndex": "2",
+            "CommitteeIndex": 3,
+            "CommitteeLength": 128,
+            "CommitteesAtSlot": 36,
+            "ValidatorCommitteeIndex": 11,
+            "ValidatorSyncCommitteeIndices": null
+          },
+          {
+            "Type": 0,
+            "PubKey": "0x989069e005b47e318cd427a0c50a0c72a9f14b26c93a26b1220fe66c45ca12c31925ac6b7c3fdb1f57b0775356954b08",
+            "Slot": "8000012",
+            "ValidatorIndex": "3",
+            "CommitteeIndex": 3,
+            "CommitteeLength": 128,
+            "CommitteesAtSlot": 36,
+            "ValidatorCommitteeIndex": 11,
+            "ValidatorSyncCommitteeIndices": null
+          },
+          {
+            "Type": 0,
+            "PubKey": "0x91f93af57b80c9e8d3885240066c23e606f2d5ba2e700052844b3fbef990db04296cab46c06317b8e469c7a63a421e3d",
+            "Slot": "8000012",
+            "ValidatorIndex": "4",
+            "CommitteeIndex": 3,
+            "CommitteeLength": 128,
+            "CommitteesAtSlot": 36,
+            "ValidatorCommitteeIndex": 11,
+            "ValidatorSyncCommitteeIndices": null
+          },
+          {
+            "Type": 0,
+            "PubKey": "0x91e4ffe73dfe57e548450a65ffd1d685f6140d97ba1ee2fab7183c91d5cb2d50f53b133a2e2f1345f551381f3e38cf32",
+            "Slot": "8000012",
+            "ValidatorIndex": "5",
+            "CommitteeIndex": 3,
+            "CommitteeLength": 128,
+            "CommitteesAtSlot": 36,
+            "ValidatorCommitteeIndex": 11,
+            "ValidatorSyncCommitteeIndices": null
+          },
+          {
+            "Type": 0,
+            "PubKey": "0xad91661fd9643f66ee19fae3f1795aca33738c9a25f1c0d8e367df7d3df59332ef5476b00727f3b3a6047ad7542822d7",
+            "Slot": "8000012",
+            "ValidatorIndex": "6",
+            "CommitteeIndex": 3,
+            "CommitteeLength": 128,
+            "CommitteesAtSlot": 36,
+            "ValidatorCommitteeIndex": 11,
+            "ValidatorSyncCommitteeIndices": null
+          },
+          {
+            "Type": 0,
+            "PubKey": "0xb6bb580b997b8ec19ce4a3f49e77a2483d6ded63c94dbc29ed64c3299b864342c016d18cda03181457bb8921fb33fbae",
+            "Slot": "8000012",
+            "ValidatorIndex": "7",
+            "CommitteeIndex": 3,
+            "CommitteeLength": 128,
+            "CommitteesAtSlot": 36,
+            "ValidatorCommitteeIndex": 11,
+            "ValidatorSyncCommitteeIndices": null
+          },
+          {
+            "Type": 0,
+            "PubKey": "0xa77558846b46ea9dbd414f9ae93660e945de298af833e93910f5f3f8184e728ce1f04f8fcfb666b7d64afa2367a14e1b",
+            "Slot": "8000012",
+            "ValidatorIndex": "8",
+            "CommitteeIndex": 3,
+            "CommitteeLength": 128,
+            "CommitteesAtSlot": 36,
+            "ValidatorCommitteeIndex": 11,
+            "ValidatorSyncCommitteeIndices": null
+          },
+          {
+            "Type": 0,
+            "PubKey": "0x8ac7a584851a8b57a02a271e5103ba7bceac43c0714d55dcff37dcb6388cd1cbf69d249a2d257694899caca17dff5d8e",
+            "Slot": "8000012",
+            "ValidatorIndex": "9",
+            "CommitteeIndex": 3,
+            "CommitteeLength": 128,
+            "CommitteesAtSlot": 36,
+            "ValidatorCommitteeIndex": 11,
+            "ValidatorSyncCommitteeIndices": null
+          },
+          {
+            "Type": 0,
+            "PubKey": "0x944bb0c2aa979f00d5362fb0b5960246c3f0966a82695863ccd49cd3c4f807bfba1d762239998320de0b479c4ec9e770",
+            "Slot": "8000012",
+            "ValidatorIndex": "10",
+            "CommitteeIndex": 3,
+            "CommitteeLength": 128,
+            "CommitteesAtSlot": 36,
+            "ValidatorCommitteeIndex": 11,
+            "ValidatorSyncCommitteeIndices": null
+          },
+          {
+            "Type": 0,
+            "PubKey": "0x83fa5148587dfa30864dcc6a37310636cd57dd3069d6ec04d922cc303f8d288a4ebdbd4c665e4f7d3c2afb7a19ccd1e2",
+            "Slot": "8000012",
+            "ValidatorIndex": "11",
+            "CommitteeIndex": 3,
+            "CommitteeLength": 128,
+            "CommitteesAtSlot": 36,
+            "ValidatorCommitteeIndex": 11,
+            "ValidatorSyncCommitteeIndices": null
+          },
+          {
+            "Type": 0,
+            "PubKey": "0x8bdbec655a1906e34e6bfe4baea2d4511038f4f82e0e7a584497d7f7c64b718a86a365885963e747437df428c6ae1037",
+            "Slot": "8000012",
+            "ValidatorIndex": "12",
+            "CommitteeIndex": 3,
+            "CommitteeLength": 128,
+            "CommitteesAtSlot": 36,
+            "ValidatorCommitteeIndex": 11,
+            "ValidatorSyncCommitteeIndices": null
+          },
+          {
+            "Type": 0,
+            "PubKey": "0x8184490b26c1add8b08f384c6eca35d5db17d1f93805eff1e897e9cbd3b7c912614061b56c5915755f33ac5e4d7e260a",
+            "Slot": "8000012",
+            "ValidatorIndex": "13",
+            "CommitteeIndex": 3,
+            "CommitteeLength": 128,
+            "CommitteesAtSlot": 36,
+            "ValidatorCommitteeIndex": 11,
+            "ValidatorSyncCommitteeIndices": null
+          },
+          {
+            "Type": 0,
+            "PubKey": "0xa357a8a188be7cecda1ecb9f4914c7cfb0ea0151b16f570b71030e9c78958c6fd335062b92588bfb4fa723a1e288aaeb",
+            "Slot": "8000012",
+            "ValidatorIndex": "14",
+            "CommitteeIndex": 3,
+            "CommitteeLength": 128,
+            "CommitteesAtSlot": 36,
+            "ValidatorCommitteeIndex": 11,
+            "ValidatorSyncCommitteeIndices": null
+          },
+          {
+            "Type": 0,
+            "PubKey": "0xadaeffbd52c20abe165ee908a7b33b7ba07f5b1a52af3651311d9c02a22bf747a79a53a324c91b41ca96f7fab3f15677",
+            "Slot": "8000012",
+            "ValidatorIndex": "15",
+            "CommitteeIndex": 3,
+            "CommitteeLength": 128,
+            "CommitteesAtSlot": 36,
+            "ValidatorCommitteeIndex": 11,
+            "ValidatorSyncCommitteeIndices": null
+          },
+          {
+            "Type": 0,
+            "PubKey": "0x936c151648b4d507ba834ff57e71be210b3a3304912048abbcb3f029e054a50593c90b4bddb74c75aa0d2f749cdd8fd1",
+            "Slot": "8000012",
+            "ValidatorIndex": "16",
+            "CommitteeIndex": 3,
+            "CommitteeLength": 128,
+            "CommitteesAtSlot": 36,
+            "ValidatorCommitteeIndex": 11,
+            "ValidatorSyncCommitteeIndices": null
+          },
+          {
+            "Type": 0,
+            "PubKey": "0xa287505c81d68676c04c329f5d210ea74d5964c7a02a2b7919e6c7c8b9dd5f2c516cc71c1735295aa348ad8802721c12",
+            "Slot": "8000012",
+            "ValidatorIndex": "17",
+            "CommitteeIndex": 3,
+            "CommitteeLength": 128,
+            "CommitteesAtSlot": 36,
+            "ValidatorCommitteeIndex": 11,
+            "ValidatorSyncCommitteeIndices": null
+          },
+          {
+            "Type": 0,
+            "PubKey": "0xa1ae110bee7da3f0d6d6377ae5a755414c2357bdf0efe4dfb6d8e9429dd914509c9b98c01fc979b2e032762b30e9fe7a",
+            "Slot": "8000012",
+            "ValidatorIndex": "18",
+            "CommitteeIndex": 3,
+            "CommitteeLength": 128,
+            "CommitteesAtSlot": 36,
+            "ValidatorCommitteeIndex": 11,
+            "ValidatorSyncCommitteeIndices": null
+          },
+          {
+            "Type": 0,
+            "PubKey": "0xabcc85d65fe3da39abc7af2940ec0d5c81fcb55150050da5670ae2f916a9c5953be3c41ddbf4d4c3b0e033674aec7d7c",
+            "Slot": "8000012",
+            "ValidatorIndex": "19",
+            "CommitteeIndex": 3,
+            "CommitteeLength": 128,
+            "CommitteesAtSlot": 36,
+            "ValidatorCommitteeIndex": 11,
+            "ValidatorSyncCommitteeIndices": null
+          },
+          {
+            "Type": 0,
+            "PubKey": "0xacd06cc45c6abf54f9fcc032a82d85c8407f4b210692b22068b555a3e8f48c1b0feee86c248d5947e3f88f6431607c27",
+            "Slot": "8000012",
+            "ValidatorIndex": "20",
+            "CommitteeIndex": 3,
+            "CommitteeLength": 128,
+            "CommitteesAtSlot": 36,
+            "ValidatorCommitteeIndex": 11,
+            "ValidatorSyncCommitteeIndices": null
+          },
+          {
+            "Type": 0,
+            "PubKey": "0xa220e107a08e8631c2785e43f00639c8cdb4358de5f979af71fbe3c4961b2d307d45075c34255a9232c975450b914e4d",
+            "Slot": "8000012",
+            "ValidatorIndex": "21",
+            "CommitteeIndex": 3,
+            "CommitteeLength": 128,
+            "CommitteesAtSlot": 36,
+            "ValidatorCommitteeIndex": 11,
+            "ValidatorSyncCommitteeIndices": null
+          },
+          {
+            "Type": 0,
+            "PubKey": "0x8eaa5c01dbb6c00cfd508c7c1b49d0901656ba2e6a23e329965a2571d4383264f429d5c7eadadcfe065abdd9ccdf8785",
+            "Slot": "8000012",
+            "ValidatorIndex": "22",
+            "CommitteeIndex": 3,
+            "CommitteeLength": 128,
+            "CommitteesAtSlot": 36,
+            "ValidatorCommitteeIndex": 11,
+            "ValidatorSyncCommitteeIndices": null
+          },
+          {
+            "Type": 0,
+            "PubKey": "0xafc2a83f67f3aeab5682f599ae64c89b69f217303ee9ac89c5076b37e85f8b0db7ababd6cb358f0e81cd0fe4b04f7bbc",
+            "Slot": "8000012",
+            "ValidatorIndex": "23",
+            "CommitteeIndex": 3,
+            "CommitteeLength": 128,
+            "CommitteesAtSlot": 36,
+            "ValidatorCommitteeIndex": 11,
+            "ValidatorSyncCommitteeIndices": null
+          },
+          {
+            "Type": 0,
+            "PubKey": "0x931fb9cb3725403e4e65fded1c2a1c851b6cc7bd1759c26ba556c67366bf59b57b9bffa60e99e203303e6a5faa5c10a3",
+            "Slot": "8000012",
+            "ValidatorIndex": "24",
+            "CommitteeIndex": 3,
+            "CommitteeLength": 128,
+            "CommitteesAtSlot": 36,
+            "ValidatorCommitteeIndex": 11,
+            "ValidatorSyncCommitteeIndices": null
+          },
+          {
+            "Type": 0,
+            "PubKey": "0xb260df27d481cda28498ff6d11292149485e9b890c71218b6fbfee816241fdc61f16ff2a76e250e354587a1cb056b8ad",
+            "Slot": "8000012",
+            "ValidatorIndex": "25",
+            "CommitteeIndex": 3,
+            "CommitteeLength": 128,
+            "CommitteesAtSlot": 36,
+            "ValidatorCommitteeIndex": 11,
+            "ValidatorSyncCommitteeIndices": null
+          },
+          {
+            "Type": 0,
+            "PubKey": "0x8a7a8f2c2eb232217313720b3849aeadbb4e11c7d83de9407b426358c68e147c70fe6c5817771f0c064d98e70619db8e",
+            "Slot": "8000012",
+            "ValidatorIndex": "26",
+            "CommitteeIndex": 3,
+            "CommitteeLength": 128,
+            "CommitteesAtSlot": 36,
+            "ValidatorCommitteeIndex": 11,
+            "ValidatorSyncCommitteeIndices": null
+          },
+          {
+            "Type": 0,
+            "PubKey": "0xa7a05cd2463111b1c3dd1b59f2f6f17c5b3b4fab85b01ba28e2ffe55b6d0621801281e3c54daf5f446564b527118516f",
+            "Slot": "8000012",
+            "ValidatorIndex": "27",
+            "CommitteeIndex": 3,
+            "CommitteeLength": 128,
+            "CommitteesAtSlot": 36,
+            "ValidatorCommitteeIndex": 11,
+            "ValidatorSyncCommitteeIndices": null
+          },
+          {
+            "Type": 0,
+            "PubKey": "0xb15a7faad48d2f19e98e5a9885c018e89d5d1d4a3685703c51f99488dab054a4fbfe9bee9c7bae8f42774490f01e8972",
+            "Slot": "8000012",
+            "ValidatorIndex": "28",
+            "CommitteeIndex": 3,
+            "CommitteeLength": 128,
+            "CommitteesAtSlot": 36,
+            "ValidatorCommitteeIndex": 11,
+            "ValidatorSyncCommitteeIndices": null
+          },
+          {
+            "Type": 0,
+            "PubKey": "0xb96e420605b2dca3c0bad0b430f41acdf2fde1f49a1cc0b7a902e03b55ba8dfc03b0651bef58018253959a28a430133d",
+            "Slot": "8000012",
+            "ValidatorIndex": "29",
+            "CommitteeIndex": 3,
+            "CommitteeLength": 128,
+            "CommitteesAtSlot": 36,
+            "ValidatorCommitteeIndex": 11,
+            "ValidatorSyncCommitteeIndices": null
+          },
+          {
+            "Type": 0,
+            "PubKey": "0xab3b65410a8abf830481caa768ca79d95be39783a92d61065a05ea46b4d906352e5bda3756c86a59c5f79fdfefbd298d",
+            "Slot": "8000012",
+            "ValidatorIndex": "30",
+            "CommitteeIndex": 3,
+            "CommitteeLength": 128,
+            "CommitteesAtSlot": 36,
+            "ValidatorCommitteeIndex": 11,
+            "ValidatorSyncCommitteeIndices": null
+          }
+        ]
+      }
+    },
+    "Share": {
+      "1": {
+        "Committee": [
+          {
+            "SharePubKey": "gLgrR03RaqREKLiy5OFUqdNZ3oOzQWF3+IhHMxQ3BEX7avVCdttLSMdxPxfHSt07",
+            "Signer": 1
+          },
+          {
+            "SharePubKey": "obe9FsRzxj+oedZMfz1EWtfNqi8UmHd7HJE7uIxiUhB/f8EKG8iWbSmqYhhjb4b8",
+            "Signer": 2
+          },
+          {
+            "SharePubKey": "sU/L/y6LhnExlmvEKdjoaLhKQ5y9iE37goqmVsZU6oq9a3icoqE6eT1VtcHFlkf9",
+            "Signer": 3
+          },
+          {
+            "SharePubKey": "qSfP2ES1E+nhWm1nLFCjwkxS/oJVaEx6oEqBykh30NU62WvfsWvj+q1xYDjBBgxi",
+            "Signer": 4
+          }
+        ],
+        "DomainType": [
+          0,
+          0,
+          3,
+          1
+        ],
+        "FeeRecipientAddress": "535953b5a6040074948cf185eaa7d2abbd66808f",
+        "Graffiti": "AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "SharePubKey": "gLgrR03RaqREKLiy5OFUqdNZ3oOzQWF3+IhHMxQ3BEX7avVCdttLSMdxPxfHSt07",
+        "ValidatorIndex": "1",
+        "ValidatorPubKey": "b99696418493e6f324c8f7680f4de75e97fc9bdf709b93fb21149f4267eeaabae6c89d1091657d2c54eb387d8e6e3847"
+      },
+      "10": {
+        "Committee": [
+          {
+            "SharePubKey": "tKSP8+xLAQcOnt0sbSZgPaa1ZvUL2Fj0D/5f3J4WT2r9QJ1/pPuzyyCKnWRRtF5n",
+            "Signer": 1
+          },
+          {
+            "SharePubKey": "tsyBQh2y/CPdDuLhK/v47oroMw6ZWnELNBhgY1joWtvG8pRPIOxg+W6HGxsjKuZB",
+            "Signer": 2
+          },
+          {
+            "SharePubKey": "h8QOdBepIF1eNzQ5WTDNzoond7YggFx50dwUJPBTTvJWP2N6gyCCJjWnwcIMb/7r",
+            "Signer": 3
+          },
+          {
+            "SharePubKey": "h8qwtug/TZC9i6RiA0vy4jHNn+mEE6IEKMkxzeikVMoNMmwNCQUdy8XqR9utzKDk",
+            "Signer": 4
+          }
+        ],
+        "DomainType": [
+          0,
+          0,
+          3,
+          1
+        ],
+        "FeeRecipientAddress": "535953b5a6040074948cf185eaa7d2abbd66808f",
+        "Graffiti": "AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "SharePubKey": "tKSP8+xLAQcOnt0sbSZgPaa1ZvUL2Fj0D/5f3J4WT2r9QJ1/pPuzyyCKnWRRtF5n",
+        "ValidatorIndex": "10",
+        "ValidatorPubKey": "944bb0c2aa979f00d5362fb0b5960246c3f0966a82695863ccd49cd3c4f807bfba1d762239998320de0b479c4ec9e770"
+      },
+      "11": {
+        "Committee": [
+          {
+            "SharePubKey": "pA05Z7QP/+cn8+y3C9W9fM0KvtYnMf1YsmHdgWc6Md2w/zM5w0R1f9xjmTJoledI",
+            "Signer": 1
+          },
+          {
+            "SharePubKey": "lmMJp2fMlS8nwGIgM9Z/OWaP9ybDdC3enF6rg+K+G9fv+5zq0bqEtYpxwFeiBkNF",
+            "Signer": 2
+          },
+          {
+            "SharePubKey": "sWge+kfSnUhiqL+j2Ol9BDZiwu/rQf9RQZ9PkzltAmgmh1/ZZi2HMnQihBhucgmR",
+            "Signer": 3
+          },
+          {
+            "SharePubKey": "tFdk+oB2sllegfUIQ108SFKRuSpCofB043gNyWNRd296w3C8hlwTkM0zYdCv864l",
+            "Signer": 4
+          }
+        ],
+        "DomainType": [
+          0,
+          0,
+          3,
+          1
+        ],
+        "FeeRecipientAddress": "535953b5a6040074948cf185eaa7d2abbd66808f",
+        "Graffiti": "AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "SharePubKey": "pA05Z7QP/+cn8+y3C9W9fM0KvtYnMf1YsmHdgWc6Md2w/zM5w0R1f9xjmTJoledI",
+        "ValidatorIndex": "11",
+        "ValidatorPubKey": "83fa5148587dfa30864dcc6a37310636cd57dd3069d6ec04d922cc303f8d288a4ebdbd4c665e4f7d3c2afb7a19ccd1e2"
+      },
+      "12": {
+        "Committee": [
+          {
+            "SharePubKey": "gj6vkVrdfPi0wcYmHG9fRLmb+Y6+6SWhEP7RjJo6+3Pd5qasCX5eEP38GqBc6mbw",
+            "Signer": 1
+          },
+          {
+            "SharePubKey": "lre3KhJ5WUGV6yRtrc/lX+t+73VYPbpBa3StT4jKl6zrkZEScAshyDuc2qGZIrtP",
+            "Signer": 2
+          },
+          {
+            "SharePubKey": "iHkFkXj3Ys5N/59ttlRJ5z+/QKJ035m8VfGNlKVeEJMh3BBUiAKR7XwXLNRe85cp",
+            "Signer": 3
+          },
+          {
+            "SharePubKey": "r9+4xwS3seRBWH4MuNIKL9+wJlWlSBgwFqIicK0B8HhiBdZE1TSZdu8o+6+xhNnl",
+            "Signer": 4
+          }
+        ],
+        "DomainType": [
+          0,
+          0,
+          3,
+          1
+        ],
+        "FeeRecipientAddress": "535953b5a6040074948cf185eaa7d2abbd66808f",
+        "Graffiti": "AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "SharePubKey": "gj6vkVrdfPi0wcYmHG9fRLmb+Y6+6SWhEP7RjJo6+3Pd5qasCX5eEP38GqBc6mbw",
+        "ValidatorIndex": "12",
+        "ValidatorPubKey": "8bdbec655a1906e34e6bfe4baea2d4511038f4f82e0e7a584497d7f7c64b718a86a365885963e747437df428c6ae1037"
+      },
+      "13": {
+        "Committee": [
+          {
+            "SharePubKey": "jeHUCfc58cy7fpoiIhIAkvxQPtfIug2X8IUJjP+tMNu/3Lm75sLwIIo+FXAx8eD1",
+            "Signer": 1
+          },
+          {
+            "SharePubKey": "pUEe/gU7Oo92aBrbLrURhuqKMVhfDFMIw4TbJcD/dDAlbAJA2QZ/r2p9MCeJlcyY",
+            "Signer": 2
+          },
+          {
+            "SharePubKey": "rywn+yimuYgUiX9XMMMkQ0p5OTuQSo3S/Z7LrDyiyhhQotJB/HWMJhUPRnq1m2Vo",
+            "Signer": 3
+          },
+          {
+            "SharePubKey": "rLJ2AwCmke2CHWhr2czpiO8vmGyJVmGeDQ4qSVBQLHpB73sEVan//fbTbDNqEwTh",
+            "Signer": 4
+          }
+        ],
+        "DomainType": [
+          0,
+          0,
+          3,
+          1
+        ],
+        "FeeRecipientAddress": "535953b5a6040074948cf185eaa7d2abbd66808f",
+        "Graffiti": "AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "SharePubKey": "jeHUCfc58cy7fpoiIhIAkvxQPtfIug2X8IUJjP+tMNu/3Lm75sLwIIo+FXAx8eD1",
+        "ValidatorIndex": "13",
+        "ValidatorPubKey": "8184490b26c1add8b08f384c6eca35d5db17d1f93805eff1e897e9cbd3b7c912614061b56c5915755f33ac5e4d7e260a"
+      },
+      "14": {
+        "Committee": [
+          {
+            "SharePubKey": "hsbDB5I4mljf4ULScDiYx2B90X0UsoYdtTxlelYm/4FxUR2V/AUSIP0DdxkLBAVp",
+            "Signer": 1
+          },
+          {
+            "SharePubKey": "uRemP5hgkbq3isZYjYQLiwBiFXC9uCSEjwSD0gXH1EO/0KZJ/s1FLlxgUBt/cSYX",
+            "Signer": 2
+          },
+          {
+            "SharePubKey": "iA5gvRATRUvvec+1tJuOMRypDvu5ypGcVw4GFIn2KqbUugnyCsypZd42fMhmrVW6",
+            "Signer": 3
+          },
+          {
+            "SharePubKey": "ogYLlYXA9q6H20o65PTn7pd18rujuTmVjKPhkEx+A1eJO+ky9ZH1xU7zpB7814uq",
+            "Signer": 4
+          }
+        ],
+        "DomainType": [
+          0,
+          0,
+          3,
+          1
+        ],
+        "FeeRecipientAddress": "535953b5a6040074948cf185eaa7d2abbd66808f",
+        "Graffiti": "AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "SharePubKey": "hsbDB5I4mljf4ULScDiYx2B90X0UsoYdtTxlelYm/4FxUR2V/AUSIP0DdxkLBAVp",
+        "ValidatorIndex": "14",
+        "ValidatorPubKey": "a357a8a188be7cecda1ecb9f4914c7cfb0ea0151b16f570b71030e9c78958c6fd335062b92588bfb4fa723a1e288aaeb"
+      },
+      "15": {
+        "Committee": [
+          {
+            "SharePubKey": "gVqnI649K0o6Qptb1Tvh2gchZYpnK5jl39FdpB04iJDyOr45YJrphGmKZP9NSkuU",
+            "Signer": 1
+          },
+          {
+            "SharePubKey": "t+PlXmD61BZ8cL1Vtxz8qMIUJVSq/2gEejzlKYkKm9OlWe+grlmmJKlCWgQVtGH3",
+            "Signer": 2
+          },
+          {
+            "SharePubKey": "lFWPbN+RKF18hALbE+Fp6MV9Y9WNNEKZAwMIshe9ErPe8OfuG3J9giXBvoryl58m",
+            "Signer": 3
+          },
+          {
+            "SharePubKey": "oxrLX9mMm0b4RrDQEBPCqvZTCD0LJ7ZzRSLaZajo+Hoht4onMQ/5A2r6/Mxoz83F",
+            "Signer": 4
+          }
+        ],
+        "DomainType": [
+          0,
+          0,
+          3,
+          1
+        ],
+        "FeeRecipientAddress": "535953b5a6040074948cf185eaa7d2abbd66808f",
+        "Graffiti": "AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "SharePubKey": "gVqnI649K0o6Qptb1Tvh2gchZYpnK5jl39FdpB04iJDyOr45YJrphGmKZP9NSkuU",
+        "ValidatorIndex": "15",
+        "ValidatorPubKey": "adaeffbd52c20abe165ee908a7b33b7ba07f5b1a52af3651311d9c02a22bf747a79a53a324c91b41ca96f7fab3f15677"
+      },
+      "16": {
+        "Committee": [
+          {
+            "SharePubKey": "sHN++L/xJ08bbEdXBWXnCXafZkCG6LCT7HGzTRIx2sz+A/xYczol7EI8otOexBpb",
+            "Signer": 1
+          },
+          {
+            "SharePubKey": "ooaWhulUyrhalrWJB4F11hfEKePUuX7J6Cgfw+PBoaTPiE2RIH09e72IV5ghhh3j",
+            "Signer": 2
+          },
+          {
+            "SharePubKey": "sp00LVItE18x58lhya8UkKurdHt7xFddj5Xzcs6Jz3BQcE5pqfKg0l0kk6uEUniY",
+            "Signer": 3
+          },
+          {
+            "SharePubKey": "ghfJJjUETl7FS6Kowbeel5bd1bRhtz8iF0IBNf0zxHm/6Qnxex4NAigI0zJYWvcO",
+            "Signer": 4
+          }
+        ],
+        "DomainType": [
+          0,
+          0,
+          3,
+          1
+        ],
+        "FeeRecipientAddress": "535953b5a6040074948cf185eaa7d2abbd66808f",
+        "Graffiti": "AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "SharePubKey": "sHN++L/xJ08bbEdXBWXnCXafZkCG6LCT7HGzTRIx2sz+A/xYczol7EI8otOexBpb",
+        "ValidatorIndex": "16",
+        "ValidatorPubKey": "936c151648b4d507ba834ff57e71be210b3a3304912048abbcb3f029e054a50593c90b4bddb74c75aa0d2f749cdd8fd1"
+      },
+      "17": {
+        "Committee": [
+          {
+            "SharePubKey": "kB0K36UYwPixumJrzXmx+woCt11IbNbZ70p0ugp08pUr61ys3ax0CwiyIztEhi+Z",
+            "Signer": 1
+          },
+          {
+            "SharePubKey": "jEnCrxWS9uKerCRv8UswY2JKHt+ZU78nev6OLzBczylhl4+rxLjbqC8NY69pH5MP",
+            "Signer": 2
+          },
+          {
+            "SharePubKey": "s3Ng1q+PRSxzZ6nG16Vx/aWNo4pZ0MYtHDUUpkGFDp2PiYlnXdM/IISKHsdWHKqt",
+            "Signer": 3
+          },
+          {
+            "SharePubKey": "pH+UqAhFNwmlXmFADKBUX04VjvzKTPZ1pHoJI9gH7wApub8Un2ZP7LqfJ15Lpx0S",
+            "Signer": 4
+          }
+        ],
+        "DomainType": [
+          0,
+          0,
+          3,
+          1
+        ],
+        "FeeRecipientAddress": "535953b5a6040074948cf185eaa7d2abbd66808f",
+        "Graffiti": "AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "SharePubKey": "kB0K36UYwPixumJrzXmx+woCt11IbNbZ70p0ugp08pUr61ys3ax0CwiyIztEhi+Z",
+        "ValidatorIndex": "17",
+        "ValidatorPubKey": "a287505c81d68676c04c329f5d210ea74d5964c7a02a2b7919e6c7c8b9dd5f2c516cc71c1735295aa348ad8802721c12"
+      },
+      "18": {
+        "Committee": [
+          {
+            "SharePubKey": "tpulIW2Of+gUDZPtDkI9tSDNmeFQ/G2zUcoNo2nYtLfYEGtWoAKnyVKCPt2OvtFS",
+            "Signer": 1
+          },
+          {
+            "SharePubKey": "txDRNVFb1eX441knBjc4Z0GSnPlJB6Vc8aZF+SEJpEmv9vvGHWuNrdjoUoFuXXAp",
+            "Signer": 2
+          },
+          {
+            "SharePubKey": "oamcYhLVnXU5aW0u8Uw3nooiHLBK8E4+sF/3H6BVk1fj0m65w3F5nHkyx6bBMxQV",
+            "Signer": 3
+          },
+          {
+            "SharePubKey": "tbFWX59pCkYPQLpfQID8StQGSm0HODk/mlOcdiCm9fn0eQJVOM3eknQpKhcxR87P",
+            "Signer": 4
+          }
+        ],
+        "DomainType": [
+          0,
+          0,
+          3,
+          1
+        ],
+        "FeeRecipientAddress": "535953b5a6040074948cf185eaa7d2abbd66808f",
+        "Graffiti": "AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "SharePubKey": "tpulIW2Of+gUDZPtDkI9tSDNmeFQ/G2zUcoNo2nYtLfYEGtWoAKnyVKCPt2OvtFS",
+        "ValidatorIndex": "18",
+        "ValidatorPubKey": "a1ae110bee7da3f0d6d6377ae5a755414c2357bdf0efe4dfb6d8e9429dd914509c9b98c01fc979b2e032762b30e9fe7a"
+      },
+      "19": {
+        "Committee": [
+          {
+            "SharePubKey": "uOMksp+WMK67sJS7Eeozq7eXSrPMeFPLLLRnqh2A1y4ChaKeO1dDspfrDG6vjvVg",
+            "Signer": 1
+          },
+          {
+            "SharePubKey": "p9HTmDy7IHDuegxB5O8UiCtLZgcb8uqzP9ZGqFI4NnofuRbYuR6h4cboDuaOik7D",
+            "Signer": 2
+          },
+          {
+            "SharePubKey": "i/9doy/rIokbQkbjmzZpxohwU+3Xa+pT61aEvs3lMhsjLoKGXmuDjpVZUbHiZcxH",
+            "Signer": 3
+          },
+          {
+            "SharePubKey": "otJGeGtAd0+JRqsOAWVmY72udgvX+188aaUtjf9XDQ3PK+clA7TsvVjbnROcPHRz",
+            "Signer": 4
+          }
+        ],
+        "DomainType": [
+          0,
+          0,
+          3,
+          1
+        ],
+        "FeeRecipientAddress": "535953b5a6040074948cf185eaa7d2abbd66808f",
+        "Graffiti": "AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "SharePubKey": "uOMksp+WMK67sJS7Eeozq7eXSrPMeFPLLLRnqh2A1y4ChaKeO1dDspfrDG6vjvVg",
+        "ValidatorIndex": "19",
+        "ValidatorPubKey": "abcc85d65fe3da39abc7af2940ec0d5c81fcb55150050da5670ae2f916a9c5953be3c41ddbf4d4c3b0e033674aec7d7c"
+      },
+      "2": {
+        "Committee": [
+          {
+            "SharePubKey": "iV5j9+sefqEqiR6whwVrUNSAtxaG3XuEVODZULplRkFfqrcSE6gtgOThQoXbUY+s",
+            "Signer": 1
+          },
+          {
+            "SharePubKey": "tUN/LLRrngwjU6vD+d+YHuWtKX6Wc3mMWomEDmK5cNjDjjquTzo/gzZINol9j66e",
+            "Signer": 2
+          },
+          {
+            "SharePubKey": "gVeLh9raOjSVViVBfI6NLJfapSTLXDRZZhxjASbXOdlTu7QSrsyTZTIe8+ZGe7Cm",
+            "Signer": 3
+          },
+          {
+            "SharePubKey": "hrAN+rdxvyWBA0xXwn35OSp48WlrIAySilDI04aOniDTSol4aEMhYFbOOjdTeTD4",
+            "Signer": 4
+          }
+        ],
+        "DomainType": [
+          0,
+          0,
+          3,
+          1
+        ],
+        "FeeRecipientAddress": "535953b5a6040074948cf185eaa7d2abbd66808f",
+        "Graffiti": "AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "SharePubKey": "iV5j9+sefqEqiR6whwVrUNSAtxaG3XuEVODZULplRkFfqrcSE6gtgOThQoXbUY+s",
+        "ValidatorIndex": "2",
+        "ValidatorPubKey": "aa57905889288431b819bee5bc3d77ef1dffcb3d3d0d7be8b748b96f27e0ed23a604e7a5b56c0b402af1810a17b21fe1"
+      },
+      "20": {
+        "Committee": [
+          {
+            "SharePubKey": "uL6lllAiifJAkz+grqTQaOl7QsoNcQvsCxlj71ab+RztsoLeaieF2EBXclU3Ac9f",
+            "Signer": 1
+          },
+          {
+            "SharePubKey": "rx26o/KRx2DykL2gqc2oSA/SSoOFuboOQLhHTDt4XMyOlaF6Pk5+KBbxPVjh9vVj",
+            "Signer": 2
+          },
+          {
+            "SharePubKey": "h2EnFmIFFLKGTsFS6k4Kd9Pu8Brj3F7uu0ErXZKJtYrzehEbT8DcJql318IzzdOK",
+            "Signer": 3
+          },
+          {
+            "SharePubKey": "q2QRF1nQHs5iL2rGH9ObN2EwdG5Doe3Ybgma12iXQMkxW6V9PTeSWogPWIpK/mhG",
+            "Signer": 4
+          }
+        ],
+        "DomainType": [
+          0,
+          0,
+          3,
+          1
+        ],
+        "FeeRecipientAddress": "535953b5a6040074948cf185eaa7d2abbd66808f",
+        "Graffiti": "AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "SharePubKey": "uL6lllAiifJAkz+grqTQaOl7QsoNcQvsCxlj71ab+RztsoLeaieF2EBXclU3Ac9f",
+        "ValidatorIndex": "20",
+        "ValidatorPubKey": "acd06cc45c6abf54f9fcc032a82d85c8407f4b210692b22068b555a3e8f48c1b0feee86c248d5947e3f88f6431607c27"
+      },
+      "21": {
+        "Committee": [
+          {
+            "SharePubKey": "mQELJzqevJrhABYWqoVKr1K4JSrUJ2Dk1hNWagnjHS+HafBUXwn6dv+nYR1hDcYz",
+            "Signer": 1
+          },
+          {
+            "SharePubKey": "jIEQRY2QGR0cz8UiCptHgGX3IHIo9kspiETPo9Gs4FFy4PE7xui5xK2Lutn9MpM+",
+            "Signer": 2
+          },
+          {
+            "SharePubKey": "tNiSjMy27IvE6jDLNQoHOrokRU3vmLe/jYv7Y6LnRqxnbJxqiGB8aR8jJusIxmlb",
+            "Signer": 3
+          },
+          {
+            "SharePubKey": "sW+jIhtUfMnG/e8OtN5Zupniau3O3TBBjxdYwgiUN1QEqewDx9b25lRdBwtOoOg4",
+            "Signer": 4
+          }
+        ],
+        "DomainType": [
+          0,
+          0,
+          3,
+          1
+        ],
+        "FeeRecipientAddress": "535953b5a6040074948cf185eaa7d2abbd66808f",
+        "Graffiti": "AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "SharePubKey": "mQELJzqevJrhABYWqoVKr1K4JSrUJ2Dk1hNWagnjHS+HafBUXwn6dv+nYR1hDcYz",
+        "ValidatorIndex": "21",
+        "ValidatorPubKey": "a220e107a08e8631c2785e43f00639c8cdb4358de5f979af71fbe3c4961b2d307d45075c34255a9232c975450b914e4d"
+      },
+      "22": {
+        "Committee": [
+          {
+            "SharePubKey": "lM6U7hvp7dpaAR8A46NRvc5np+/F3nFFJmW7OUE2rroPXzL3ygLvaSTrGq6hxMJP",
+            "Signer": 1
+          },
+          {
+            "SharePubKey": "hyHo8lO2sfRqTnjbkKJzlHC9XSoytWa/1/b3amSNIrxzCjSpRPnmm45XGbhvkcHY",
+            "Signer": 2
+          },
+          {
+            "SharePubKey": "kZfEoUASJQd4nT3bHY1ykj0YBapSzXB65vpX7GDvFnvrhS9dr+82zPGfsmqrH/pZ",
+            "Signer": 3
+          },
+          {
+            "SharePubKey": "gclcUDHph2SnbkBEHlvC8f82i3H1WP+NKxfFSpqorSpQt9G5D47dHo9vhvtZFs6U",
+            "Signer": 4
+          }
+        ],
+        "DomainType": [
+          0,
+          0,
+          3,
+          1
+        ],
+        "FeeRecipientAddress": "535953b5a6040074948cf185eaa7d2abbd66808f",
+        "Graffiti": "AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "SharePubKey": "lM6U7hvp7dpaAR8A46NRvc5np+/F3nFFJmW7OUE2rroPXzL3ygLvaSTrGq6hxMJP",
+        "ValidatorIndex": "22",
+        "ValidatorPubKey": "8eaa5c01dbb6c00cfd508c7c1b49d0901656ba2e6a23e329965a2571d4383264f429d5c7eadadcfe065abdd9ccdf8785"
+      },
+      "23": {
+        "Committee": [
+          {
+            "SharePubKey": "jG+VnY3VEpBE6lZjx5+5SxaRAyXlZcu4ofFTxlYevdilPJWDtXUco53qvXDkLHzp",
+            "Signer": 1
+          },
+          {
+            "SharePubKey": "mIzeU1FOUytyn+xg39brcf5yJoKhf+g/uxvO/icB+SQXBUEbp/p+yHmcCNweaTQ/",
+            "Signer": 2
+          },
+          {
+            "SharePubKey": "ocylxKz1yRP4LdsYsxcF/P7dLVI2AF2GKuisV7ZItalabT3MJzvA+8rfSw8qmaHH",
+            "Signer": 3
+          },
+          {
+            "SharePubKey": "p7D+RvnCv10fvzVkS8thn8My32tbkBJ6298+NDsy+8wRZ8oQOMhPjcyPmc7w/UY5",
+            "Signer": 4
+          }
+        ],
+        "DomainType": [
+          0,
+          0,
+          3,
+          1
+        ],
+        "FeeRecipientAddress": "535953b5a6040074948cf185eaa7d2abbd66808f",
+        "Graffiti": "AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "SharePubKey": "jG+VnY3VEpBE6lZjx5+5SxaRAyXlZcu4ofFTxlYevdilPJWDtXUco53qvXDkLHzp",
+        "ValidatorIndex": "23",
+        "ValidatorPubKey": "afc2a83f67f3aeab5682f599ae64c89b69f217303ee9ac89c5076b37e85f8b0db7ababd6cb358f0e81cd0fe4b04f7bbc"
+      },
+      "24": {
+        "Committee": [
+          {
+            "SharePubKey": "gKb/gIUL+P9gAjbf2QDinWxzwdBzo/+85Sq6xaRwTgFg65xmQT+tkM5pPBtRtZCX",
+            "Signer": 1
+          },
+          {
+            "SharePubKey": "rvJd+EZB9G2fEhfjusAV8nIcf2/8c3hgTOlbZDrLeJopXJ+4jFdbcYhMASICbaVX",
+            "Signer": 2
+          },
+          {
+            "SharePubKey": "sSrmM3HGKPkqLobMAZ9Hnf543CdVDoLihhFXNNJ6z0umvFN6Q5GuNDMwNsUkfmEy",
+            "Signer": 3
+          },
+          {
+            "SharePubKey": "hHy8tllj8Cxn9vBr+Fa9Ye15zzhMMY73p+bAlDm214HBYwhSN5R/T4SLPuNSgkeS",
+            "Signer": 4
+          }
+        ],
+        "DomainType": [
+          0,
+          0,
+          3,
+          1
+        ],
+        "FeeRecipientAddress": "535953b5a6040074948cf185eaa7d2abbd66808f",
+        "Graffiti": "AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "SharePubKey": "gKb/gIUL+P9gAjbf2QDinWxzwdBzo/+85Sq6xaRwTgFg65xmQT+tkM5pPBtRtZCX",
+        "ValidatorIndex": "24",
+        "ValidatorPubKey": "931fb9cb3725403e4e65fded1c2a1c851b6cc7bd1759c26ba556c67366bf59b57b9bffa60e99e203303e6a5faa5c10a3"
+      },
+      "25": {
+        "Committee": [
+          {
+            "SharePubKey": "pSKxwYzePB69e8aWw12iPJsFRtpYH93xtG5OYAvWydbRN66L1RebMZRgikfjWeJB",
+            "Signer": 1
+          },
+          {
+            "SharePubKey": "o+kZKMc5hTT4kMI8Yy4zVJiXAkTuopbsgPpyO6qjsT3us2P0qUVEprJp8cPJYsKF",
+            "Signer": 2
+          },
+          {
+            "SharePubKey": "hT09HWlddttIKt4BzlshcN0yQSNmsy1FVW0x9HdaRa7Wy8xDuDKY7PW6qRxWXcAD",
+            "Signer": 3
+          },
+          {
+            "SharePubKey": "hQQZjULiEXJCClh/cYBQ+GG8lJ7rT5FeX7C3Of/jjkNHQ94pcqwafdx9R72EzkKc",
+            "Signer": 4
+          }
+        ],
+        "DomainType": [
+          0,
+          0,
+          3,
+          1
+        ],
+        "FeeRecipientAddress": "535953b5a6040074948cf185eaa7d2abbd66808f",
+        "Graffiti": "AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "SharePubKey": "pSKxwYzePB69e8aWw12iPJsFRtpYH93xtG5OYAvWydbRN66L1RebMZRgikfjWeJB",
+        "ValidatorIndex": "25",
+        "ValidatorPubKey": "b260df27d481cda28498ff6d11292149485e9b890c71218b6fbfee816241fdc61f16ff2a76e250e354587a1cb056b8ad"
+      },
+      "26": {
+        "Committee": [
+          {
+            "SharePubKey": "oigBebhWpoia/bTHiSvJVsLKDkiI7BGg9NsGBhdCYOiYay2qTjKVRyor/dvKS4xK",
+            "Signer": 1
+          },
+          {
+            "SharePubKey": "inmV31+eYQiuCTCSwxLYbthKNeOqdo2fKsHktjHj9zcGaPG35X6XrqSzsLtNoVxG",
+            "Signer": 2
+          },
+          {
+            "SharePubKey": "kdnpK13pkCUIUpCZukxkDvNSo/1C5WLN9yd7uoJj7L4KbKtT8FFJJ1sBO2d+Zol9",
+            "Signer": 3
+          },
+          {
+            "SharePubKey": "sqHSILmeoCbBhdXEt7K9LKq1zXm01/ik7uQ8BH9wlVq851lvV2nyzFXwC0Xjc75n",
+            "Signer": 4
+          }
+        ],
+        "DomainType": [
+          0,
+          0,
+          3,
+          1
+        ],
+        "FeeRecipientAddress": "535953b5a6040074948cf185eaa7d2abbd66808f",
+        "Graffiti": "AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "SharePubKey": "oigBebhWpoia/bTHiSvJVsLKDkiI7BGg9NsGBhdCYOiYay2qTjKVRyor/dvKS4xK",
+        "ValidatorIndex": "26",
+        "ValidatorPubKey": "8a7a8f2c2eb232217313720b3849aeadbb4e11c7d83de9407b426358c68e147c70fe6c5817771f0c064d98e70619db8e"
+      },
+      "27": {
+        "Committee": [
+          {
+            "SharePubKey": "ree7mshQqzIBM6QGHfeR9B39Mjz9o9UeCtt9xNh/LtPk9Vbo+nLqz/AMkTPC35qN",
+            "Signer": 1
+          },
+          {
+            "SharePubKey": "ilfsDGyimUMWtLGPc+15H5PTiwcX72TysDn4RMs3FEOvzROX/ZhjNJHpFiY0nuwL",
+            "Signer": 2
+          },
+          {
+            "SharePubKey": "j5jGsQpLtC/onlJV8tpLZmDlmYkvuVGEd3yf3VMThVucMuaxmYeXCLo57HTCprEU",
+            "Signer": 3
+          },
+          {
+            "SharePubKey": "gkCIS4iM1pfc8LwwGKkSadaUBQrnpLUpXa8+udXEP4o6IN/7kfo36TqDHereGvZK",
+            "Signer": 4
+          }
+        ],
+        "DomainType": [
+          0,
+          0,
+          3,
+          1
+        ],
+        "FeeRecipientAddress": "535953b5a6040074948cf185eaa7d2abbd66808f",
+        "Graffiti": "AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "SharePubKey": "ree7mshQqzIBM6QGHfeR9B39Mjz9o9UeCtt9xNh/LtPk9Vbo+nLqz/AMkTPC35qN",
+        "ValidatorIndex": "27",
+        "ValidatorPubKey": "a7a05cd2463111b1c3dd1b59f2f6f17c5b3b4fab85b01ba28e2ffe55b6d0621801281e3c54daf5f446564b527118516f"
+      },
+      "28": {
+        "Committee": [
+          {
+            "SharePubKey": "lFoogc4MelZNUDTxczjtOqwj3AVcaE0ESjK8cd5b0+r2IuYXLg54+8vvATo0s4yV",
+            "Signer": 1
+          },
+          {
+            "SharePubKey": "pcto/LBYJKJ/WtatPBjgwxUYA6mpFpBQ4g+s4w2QJqRqrhwTV9WRGNiGdYTzs34j",
+            "Signer": 2
+          },
+          {
+            "SharePubKey": "ql4+hBnNwaOtz2bTM6TL1C+vSpioI9e6YW7gxeMTgC39eoAZEbIFDtpA6+7iJFuW",
+            "Signer": 3
+          },
+          {
+            "SharePubKey": "i9jjBzL+/hOF4LlWr5NvW2CRM9NA5hajZaVBUnP3x7O1IlxA+IXYBPQ7Lj+3wIr7",
+            "Signer": 4
+          }
+        ],
+        "DomainType": [
+          0,
+          0,
+          3,
+          1
+        ],
+        "FeeRecipientAddress": "535953b5a6040074948cf185eaa7d2abbd66808f",
+        "Graffiti": "AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "SharePubKey": "lFoogc4MelZNUDTxczjtOqwj3AVcaE0ESjK8cd5b0+r2IuYXLg54+8vvATo0s4yV",
+        "ValidatorIndex": "28",
+        "ValidatorPubKey": "b15a7faad48d2f19e98e5a9885c018e89d5d1d4a3685703c51f99488dab054a4fbfe9bee9c7bae8f42774490f01e8972"
+      },
+      "29": {
+        "Committee": [
+          {
+            "SharePubKey": "jEFtY18X4Q666zuCMgQQkKK8kGM9bxFGA9kqa/Ga3qYS+gywa7M7c79orpQAHmsj",
+            "Signer": 1
+          },
+          {
+            "SharePubKey": "l25zX5zyy4iwSg4doMhlC3Ysi6sNmQgOvfQoWyNGV1QbX1fr8Z0tVamN+TTcbPkq",
+            "Signer": 2
+          },
+          {
+            "SharePubKey": "kYRUB8tprW4ae1HvEINB8ab1RiQVaZxWn2PWaGJUbA0Lobo1AAUE59fCTDfcvEst",
+            "Signer": 3
+          },
+          {
+            "SharePubKey": "s93jsjJBWIrtVaJ8FL6rXMTb+3Jq+gwyU4ZbIUm1Ag0O94pn94NP2KdIBXrzMrA+",
+            "Signer": 4
+          }
+        ],
+        "DomainType": [
+          0,
+          0,
+          3,
+          1
+        ],
+        "FeeRecipientAddress": "535953b5a6040074948cf185eaa7d2abbd66808f",
+        "Graffiti": "AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "SharePubKey": "jEFtY18X4Q666zuCMgQQkKK8kGM9bxFGA9kqa/Ga3qYS+gywa7M7c79orpQAHmsj",
+        "ValidatorIndex": "29",
+        "ValidatorPubKey": "b96e420605b2dca3c0bad0b430f41acdf2fde1f49a1cc0b7a902e03b55ba8dfc03b0651bef58018253959a28a430133d"
+      },
+      "3": {
+        "Committee": [
+          {
+            "SharePubKey": "i27txIW4o4FUBkza9oWHhqR0ANzJft4dGlSsJANxPFpms3z+BDHzmjHFpyT263Z5",
+            "Signer": 1
+          },
+          {
+            "SharePubKey": "uc8g72pq2fIQuQZoD+BNo5Ehwafe66EbrbZ4ASeWnmqrU4gbdcRh6yGfBW1Kunx7",
+            "Signer": 2
+          },
+          {
+            "SharePubKey": "gfVKx8O1gT5h1mVPsNolOOhIGMxLHRvk/UCJu6R5nN1pgtieHfBPAysPlfu4yhrl",
+            "Signer": 3
+          },
+          {
+            "SharePubKey": "lrXjfGpbjLW/FWZXSVauZFof3BCPUF52MLj7DzhSNKZcLCKSZDTyNGiVaxH+hp6B",
+            "Signer": 4
+          }
+        ],
+        "DomainType": [
+          0,
+          0,
+          3,
+          1
+        ],
+        "FeeRecipientAddress": "535953b5a6040074948cf185eaa7d2abbd66808f",
+        "Graffiti": "AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "SharePubKey": "i27txIW4o4FUBkza9oWHhqR0ANzJft4dGlSsJANxPFpms3z+BDHzmjHFpyT263Z5",
+        "ValidatorIndex": "3",
+        "ValidatorPubKey": "989069e005b47e318cd427a0c50a0c72a9f14b26c93a26b1220fe66c45ca12c31925ac6b7c3fdb1f57b0775356954b08"
+      },
+      "30": {
+        "Committee": [
+          {
+            "SharePubKey": "oV2QG5C2letvY0u1mjNhjF6ENkjTbW9K2dlrsSszHJAjViURJgpxAU62pBLPD2v1",
+            "Signer": 1
+          },
+          {
+            "SharePubKey": "gjSOWtiC6fqDGl7lCI4SKpuaBG7Bqq2BRMRXOpTfQ8WSSQIHkqu6iEp1Jub7z0R/",
+            "Signer": 2
+          },
+          {
+            "SharePubKey": "mVEEX5r9za0NUIdWW23H22P94w0R58dWTykaSZMfEvgk/mpkjI+RrhGP4F27T9aA",
+            "Signer": 3
+          },
+          {
+            "SharePubKey": "k6GiZjjfZdRl7bchkqFikDlpBie9rTt67eEnBXwyj0Ofq4jR4gQeWAOAa5rWyFWL",
+            "Signer": 4
+          }
+        ],
+        "DomainType": [
+          0,
+          0,
+          3,
+          1
+        ],
+        "FeeRecipientAddress": "535953b5a6040074948cf185eaa7d2abbd66808f",
+        "Graffiti": "AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "SharePubKey": "oV2QG5C2letvY0u1mjNhjF6ENkjTbW9K2dlrsSszHJAjViURJgpxAU62pBLPD2v1",
+        "ValidatorIndex": "30",
+        "ValidatorPubKey": "ab3b65410a8abf830481caa768ca79d95be39783a92d61065a05ea46b4d906352e5bda3756c86a59c5f79fdfefbd298d"
+      },
+      "4": {
+        "Committee": [
+          {
+            "SharePubKey": "lUvJDkcqxgDOQgc9EoQR59NH/NuBHCwAKmndMPzm2CuweCw5Rnon46BHQQ9sFr3j",
+            "Signer": 1
+          },
+          {
+            "SharePubKey": "qx8+r5X5FF630e5kNALIKsTe26Lp5ccKwM3+5yuQly3iwrt68DtCv78XAkINzEWs",
+            "Signer": 2
+          },
+          {
+            "SharePubKey": "tujzcFRe3qCrk60gr9m/7QfVXWe7eKbfdWupgmvRRlcQYhs+jMKrjdvGc5SIhgvg",
+            "Signer": 3
+          },
+          {
+            "SharePubKey": "gbN+DF6u/2ee0b+bkdZOEQsCWRJ8fERL6rpP6XJzQXBssk/2cc3QPGaDYhZly4es",
+            "Signer": 4
+          }
+        ],
+        "DomainType": [
+          0,
+          0,
+          3,
+          1
+        ],
+        "FeeRecipientAddress": "535953b5a6040074948cf185eaa7d2abbd66808f",
+        "Graffiti": "AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "SharePubKey": "lUvJDkcqxgDOQgc9EoQR59NH/NuBHCwAKmndMPzm2CuweCw5Rnon46BHQQ9sFr3j",
+        "ValidatorIndex": "4",
+        "ValidatorPubKey": "91f93af57b80c9e8d3885240066c23e606f2d5ba2e700052844b3fbef990db04296cab46c06317b8e469c7a63a421e3d"
+      },
+      "5": {
+        "Committee": [
+          {
+            "SharePubKey": "pClE1x157G9RvCyHhlxUuhAt5OGsDd6c/xsKsOBKp1iUThHlrXszd35/dUT6nWgz",
+            "Signer": 1
+          },
+          {
+            "SharePubKey": "rPNZREqDV7KPBVo26IfTu8+GIMOdLiF8GY6IMd6Y6CtckS5PXNmVnw7m4XEfMCdw",
+            "Signer": 2
+          },
+          {
+            "SharePubKey": "mJxyjCuQn2BDT8ziCuuZ9M+/HdkYRkuzV37rRrwGb1UzNkSOm5LGwDjFvik+/NSx",
+            "Signer": 3
+          },
+          {
+            "SharePubKey": "rlqILdLTHeFOBDozUgD7t1mHo7tsYOGywhWFxr7hbsSmCthreEFnaDqWXY5GJwrl",
+            "Signer": 4
+          }
+        ],
+        "DomainType": [
+          0,
+          0,
+          3,
+          1
+        ],
+        "FeeRecipientAddress": "535953b5a6040074948cf185eaa7d2abbd66808f",
+        "Graffiti": "AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "SharePubKey": "pClE1x157G9RvCyHhlxUuhAt5OGsDd6c/xsKsOBKp1iUThHlrXszd35/dUT6nWgz",
+        "ValidatorIndex": "5",
+        "ValidatorPubKey": "91e4ffe73dfe57e548450a65ffd1d685f6140d97ba1ee2fab7183c91d5cb2d50f53b133a2e2f1345f551381f3e38cf32"
+      },
+      "6": {
+        "Committee": [
+          {
+            "SharePubKey": "s9aSakJvdIsMgXB7cbZhp9+Qh6DKwCJvUuwZWxTFQed5uxCb2ulKeqBVt9h+EqrG",
+            "Signer": 1
+          },
+          {
+            "SharePubKey": "qUF7NCEegiViBfVIaRn2M2bO+FaBX8qCHRVe7XG1gWLN6ZcpE0an0AkdPxUFPV6e",
+            "Signer": 2
+          },
+          {
+            "SharePubKey": "rB18mw38vhHez9rBWw56DkuqrPSOedI2ur5Y3TyVXN5yypXi42t0gAJ50Fc21UDa",
+            "Signer": 3
+          },
+          {
+            "SharePubKey": "rzXb9zreo+J1R+PZTobdrr0sy05CaNkuUpmnH+kaweVG60WnXOy20V9TjyVsS5gT",
+            "Signer": 4
+          }
+        ],
+        "DomainType": [
+          0,
+          0,
+          3,
+          1
+        ],
+        "FeeRecipientAddress": "535953b5a6040074948cf185eaa7d2abbd66808f",
+        "Graffiti": "AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "SharePubKey": "s9aSakJvdIsMgXB7cbZhp9+Qh6DKwCJvUuwZWxTFQed5uxCb2ulKeqBVt9h+EqrG",
+        "ValidatorIndex": "6",
+        "ValidatorPubKey": "ad91661fd9643f66ee19fae3f1795aca33738c9a25f1c0d8e367df7d3df59332ef5476b00727f3b3a6047ad7542822d7"
+      },
+      "7": {
+        "Committee": [
+          {
+            "SharePubKey": "hy8TsbO0lG+9PU2KbMqdTXY/V94aA3wsRIGdP/y0r4W9L9k271qcZSVhofZ+wUNa",
+            "Signer": 1
+          },
+          {
+            "SharePubKey": "iSX7BAe6tLRzcSO6fET+0ROh0Zpn5kHL5bjurjzMX0GAcbwbPW4Dgs0K2Seqbd6l",
+            "Signer": 2
+          },
+          {
+            "SharePubKey": "i3WHpdoPfs46AE402nPwbRBMRYwaEIbv5LJ6gUsKi8aE+SOAS38oW58pU6df50vx",
+            "Signer": 3
+          },
+          {
+            "SharePubKey": "pB9F73gvOW60/Gixv7J5my2z/EjwT/AiPvJUxKKPWv32O1cD3N1W6zH+ohqcsEHu",
+            "Signer": 4
+          }
+        ],
+        "DomainType": [
+          0,
+          0,
+          3,
+          1
+        ],
+        "FeeRecipientAddress": "535953b5a6040074948cf185eaa7d2abbd66808f",
+        "Graffiti": "AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "SharePubKey": "hy8TsbO0lG+9PU2KbMqdTXY/V94aA3wsRIGdP/y0r4W9L9k271qcZSVhofZ+wUNa",
+        "ValidatorIndex": "7",
+        "ValidatorPubKey": "b6bb580b997b8ec19ce4a3f49e77a2483d6ded63c94dbc29ed64c3299b864342c016d18cda03181457bb8921fb33fbae"
+      },
+      "8": {
+        "Committee": [
+          {
+            "SharePubKey": "hm5qJnVguvfpbz6u8pY1IqViSJalAX5s5MNqfZkekbNAVdHgmze3Y3pgUWA/qPZI",
+            "Signer": 1
+          },
+          {
+            "SharePubKey": "t1PSZKmYRi5y/3pMO/K0sex4FE9WEvpyAREUvg3NgmjX1YzutlYRSPrpxN5vPKL2",
+            "Signer": 2
+          },
+          {
+            "SharePubKey": "jAMokVARRZzp9SsJlN3BjVwfBIgnxZH+JYukh/W5uEMfbfeY85DCCPZmoNTKqeZI",
+            "Signer": 3
+          },
+          {
+            "SharePubKey": "tHLM2nSnwMF9LKvZ1FGX9C7H+bgUrEgxcME/wg6hAOy2NqFkVE1q+Ts2B3mJ0LZx",
+            "Signer": 4
+          }
+        ],
+        "DomainType": [
+          0,
+          0,
+          3,
+          1
+        ],
+        "FeeRecipientAddress": "535953b5a6040074948cf185eaa7d2abbd66808f",
+        "Graffiti": "AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "SharePubKey": "hm5qJnVguvfpbz6u8pY1IqViSJalAX5s5MNqfZkekbNAVdHgmze3Y3pgUWA/qPZI",
+        "ValidatorIndex": "8",
+        "ValidatorPubKey": "a77558846b46ea9dbd414f9ae93660e945de298af833e93910f5f3f8184e728ce1f04f8fcfb666b7d64afa2367a14e1b"
+      },
+      "9": {
+        "Committee": [
+          {
+            "SharePubKey": "qDTRWIIPJ0Gc9x7VxWx166vcoTh9IPy1grA9f1SjyJSGbrb3F9HcoM4aMa9YMQ6b",
+            "Signer": 1
+          },
+          {
+            "SharePubKey": "o76ZqnV4U2T299nWWiSLzTeBV1p+ZXOm/cab4NJLvfuB9ACf1p28GmnmQWwTrCXY",
+            "Signer": 2
+          },
+          {
+            "SharePubKey": "oHEcRyyO2KE+fLn1EjuhO1Hd68lHUYAvclkpDQOKtdxd3FWUxnbmT+hyq6DuJXjp",
+            "Signer": 3
+          },
+          {
+            "SharePubKey": "tmxtejLvezeTdX3FsBy5Cl216BGWw0ARl1/0r1ZdqgBSpfZBKOwh4qzTUIg3idqI",
+            "Signer": 4
+          }
+        ],
+        "DomainType": [
+          0,
+          0,
+          3,
+          1
+        ],
+        "FeeRecipientAddress": "535953b5a6040074948cf185eaa7d2abbd66808f",
+        "Graffiti": "AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "SharePubKey": "qDTRWIIPJ0Gc9x7VxWx166vcoTh9IPy1grA9f1SjyJSGbrb3F9HcoM4aMa9YMQ6b",
+        "ValidatorIndex": "9",
+        "ValidatorPubKey": "8ac7a584851a8b57a02a271e5103ba7bceac43c0714d55dcff37dcb6388cd1cbf69d249a2d257694899caca17dff5d8e"
+      }
+    },
+    "QBFTController": {
+      "Identifier": "AAADAQAAAAAAAAAAAAAAAAAAAAAAAAAAz5et7ttZ4Fv9c6K0wqiIVwjE9PcMhMZLJxIOcqtzO3I=",
+      "Height": 8000012,
+      "StoredInstances": [
+        {
+          "State": {
+            "CommitteeMember": {
+              "OperatorID": 1,
+              "CommitteeID": "cf97adeedb59e05bfd73a2b4c2a8885708c4f4f70c84c64b27120e72ab733b72",
+              "SSVOperatorPubKey": "LS0tLS1CRUdJTiBSU0EgUFVCTElDIEtFWS0tLS0tCk1JSUJJakFOQmdrcWhraUc5dzBCQVFFRkFBT0NBUThBTUlJQkNnS0NBUUVBeU16MmIrS1pKSXpCelJad3RwYnkKTHYvZzdZNFBGTDhGVGI0Y0Y0cVhzRVh4Smh1MGxHSmhUMFlZWUN4WUNhdk1aZjUwTlFETzRRQ2RlM2xzb0VZQgphdzBlZnRrWE5pMkxYL3h3aWozY044NTZkMkdvMGhZZjJCRVYySkUzb3pkU1NyNWNoaS9hVHYxM2w4YU1ZY2pXCjA4bHlBemxBVXozWGd2UmlkVktteHhoakFQRVRmM1BtcHV3aGFvM1luL3dMOFJSNk9BakNFUjRLN1JjLzV2bksKanZCaDU3bFNRZjdZRk9kV2ZnbEhjTWNYZndVNStldmFFbVJhaW9vYXpTQnkwMUtvMlJEQnBGL3VFNzdzZGYxQwo2NVRRSnZvS3kyRjBKUWJ2ME9RVFNqVzBDUHcwaFMydk96Qk5VK3ZBRUVYNHdxQmp6M1grUER1OUxid0E1NFdtClVRSURBUUFCCi0tLS0tRU5EIFJTQSBQVUJMSUMgS0VZLS0tLS0K",
+              "FaultyNodes": 1,
+              "Committee": [
+                {
+                  "OperatorID": 1,
+                  "SSVOperatorPubKey": "LS0tLS1CRUdJTiBSU0EgUFVCTElDIEtFWS0tLS0tCk1JSUJJakFOQmdrcWhraUc5dzBCQVFFRkFBT0NBUThBTUlJQkNnS0NBUUVBeU16MmIrS1pKSXpCelJad3RwYnkKTHYvZzdZNFBGTDhGVGI0Y0Y0cVhzRVh4Smh1MGxHSmhUMFlZWUN4WUNhdk1aZjUwTlFETzRRQ2RlM2xzb0VZQgphdzBlZnRrWE5pMkxYL3h3aWozY044NTZkMkdvMGhZZjJCRVYySkUzb3pkU1NyNWNoaS9hVHYxM2w4YU1ZY2pXCjA4bHlBemxBVXozWGd2UmlkVktteHhoakFQRVRmM1BtcHV3aGFvM1luL3dMOFJSNk9BakNFUjRLN1JjLzV2bksKanZCaDU3bFNRZjdZRk9kV2ZnbEhjTWNYZndVNStldmFFbVJhaW9vYXpTQnkwMUtvMlJEQnBGL3VFNzdzZGYxQwo2NVRRSnZvS3kyRjBKUWJ2ME9RVFNqVzBDUHcwaFMydk96Qk5VK3ZBRUVYNHdxQmp6M1grUER1OUxid0E1NFdtClVRSURBUUFCCi0tLS0tRU5EIFJTQSBQVUJMSUMgS0VZLS0tLS0K"
+                },
+                {
+                  "OperatorID": 2,
+                  "SSVOperatorPubKey": "LS0tLS1CRUdJTiBSU0EgUFVCTElDIEtFWS0tLS0tCk1JSUJJakFOQmdrcWhraUc5dzBCQVFFRkFBT0NBUThBTUlJQkNnS0NBUUVBbVlaUDJHRzRxM1ZSUmFpZG1nbWEKT0N3eno4OEdUTDIvdHM0c3gyZk1hSkJ3dDJtY1JwR1NKTHVNQWgrUUpFSWhFUGNXYVNicllVYTdOZUg2VHZSdwp1TUlRdldzT3hzRUNmTzZndmZiTGhNeERyaGZrRmc2R3pNZ0pZQm1VUXVxRUlwYklXZitRVzJoQ0ViQjN1R3Y4CnFpMDdpSTBTTzB6OEtjZnhCVUJXNmtxNkRJdHozbEo2Z1ZOTjdTNFRBblZkS2o2NjBuR2JuSENlOVJQMzRma3IKVEtuUTBHb0NEOHh2RTE3U1dsWThHcmFzRGxJbDUxcWJSRGx2RXJJS3QvRHFBbllkZk4rL1BLekxJMkxlUGNjSApRdVdKalA5UXZZTWhrci9VVmdyMGM4Ums3bmt2YXprYmtrS2JreGVUMkp3OC9WN2gveWE0aDhZb1B6MkJLd05RCmNRSURBUUFCCi0tLS0tRU5EIFJTQSBQVUJMSUMgS0VZLS0tLS0K"
+                },
+                {
+                  "OperatorID": 3,
+                  "SSVOperatorPubKey": "LS0tLS1CRUdJTiBSU0EgUFVCTElDIEtFWS0tLS0tCk1JSUJJakFOQmdrcWhraUc5dzBCQVFFRkFBT0NBUThBTUlJQkNnS0NBUUVBdG9pRlRVcUpwTDg0eHZoTUZTQU8KWUFxYkVZaXpEQlBsL2xNMmMxOEtzRzlJQVNEU3piTmZ4R25jMnBDMzdqanI3aDNibFN4RU5ZU0tPWVZIVzJOMgpxOGJ6TEJ1MDZrSzBnenNWRERKTU5jOGpwVnFOK0VJclBsSWpOWUwybXA1Wk5uYXp5YVdBYVZWa05ZeU1hYWpJCkF6VHlyWis2d3VvUVJvaXV6U2dsdTBSNmV1V1FaZThDY2lFVDFaRHJDMFJpaG4rYklCbzNlN3YwekZBZXczUXcKVTNJbEZvanp0SjVyaitKZmx5UWFVaS96VEN5OXFUUG5XV0ZBenRHWjZGZS8wM3VoVk4wczhXWnd0MnkxVjFiaQpIWUFQWXo2MmZpdENWNDRZcmt6RU9tSVNnUm4zVW9qT3prOHZORlltY0NSNDFMMncvbzE3UjBEM0xnOG54QzZNCkpRSURBUUFCCi0tLS0tRU5EIFJTQSBQVUJMSUMgS0VZLS0tLS0K"
+                },
+                {
+                  "OperatorID": 4,
+                  "SSVOperatorPubKey": "LS0tLS1CRUdJTiBSU0EgUFVCTElDIEtFWS0tLS0tCk1JSUJJakFOQmdrcWhraUc5dzBCQVFFRkFBT0NBUThBTUlJQkNnS0NBUUVBcVFYenEvNlh0VkVmSlRaL3YxUHcKa3pTa05SWGJwQy80MWE5TFNRdnNra0lDZEcyZEd3K1FhZ2tOVllwdktRc1Izd0F4QmZEb1FxZE1vRXY4R2g5eApCYVphZjZrTFdrbmFWWVlOSmVXbjZiRWlEbVhqVllETXE1ZGhsOW9kOVVoSzRFWVQ4cklmNWFsZnlFYTkrV3M5Cm9lQUxTMjFjVlBwUlBvYlFIeHNYOHhvOXVRQ3JMeE9xYzRFVzgyODVLajV2blFsZnBHRzIxV0ZCZmJIR1I0WGEKK2FtT2ZUS1BsUkxsZVZVTXp3WCs3cGVHSi81SDNqcExGbCtvRmFyMkMvWURIL0VKejArTnE2R0ptNzFpSjdNYwoxK2MwUDZGT2F5NlpxWitaRGo5ZHBKZC9tYnFZenkzcks2YlBvOE52TkVZSFNKZk9SRDRLak5NSXM0UzF5cHhaCkl3SURBUUFCCi0tLS0tRU5EIFJTQSBQVUJMSUMgS0VZLS0tLS0K"
+                }
+              ],
+              "DomainType": "00000301"
+            },
+            "ID": "AAADAQAAAAAAAAAAAAAAAAAAAAAAAAAAz5et7ttZ4Fv9c6K0wqiIVwjE9PcMhMZLJxIOcqtzO3I=",
+            "Round": 1,
+            "Height": 8000012,
+            "LastPreparedRound": 0,
+            "LastPreparedValue": null,
+            "ProposalAcceptedForCurrentRound": null,
+            "Decided": true,
+            "DecidedValue": "AQIDBAUGBwgJCgECAwQFBgcICQoBAgMEBQYHCAkKAQIAAAAAAAAAAAECAwQFBgcICQoBAgMEBQYHCAkKAQIDBAUGBwgJCgECAQAAAAAAAAABAgMEBQYHCAkKAQIDBAUGBwgJCgECAwQFBgcICQoBAgEAAAAAAAAA",
+            "ProposeContainer": {
+              "Msgs": {}
+            },
+            "PrepareContainer": {
+              "Msgs": {}
+            },
+            "CommitContainer": {
+              "Msgs": {}
+            },
+            "RoundChangeContainer": {
+              "Msgs": {}
+            }
+          },
+          "StartValue": null
+        }
+      ],
+      "CommitteeMember": {
+        "OperatorID": 1,
+        "CommitteeID": "cf97adeedb59e05bfd73a2b4c2a8885708c4f4f70c84c64b27120e72ab733b72",
+        "SSVOperatorPubKey": "LS0tLS1CRUdJTiBSU0EgUFVCTElDIEtFWS0tLS0tCk1JSUJJakFOQmdrcWhraUc5dzBCQVFFRkFBT0NBUThBTUlJQkNnS0NBUUVBeU16MmIrS1pKSXpCelJad3RwYnkKTHYvZzdZNFBGTDhGVGI0Y0Y0cVhzRVh4Smh1MGxHSmhUMFlZWUN4WUNhdk1aZjUwTlFETzRRQ2RlM2xzb0VZQgphdzBlZnRrWE5pMkxYL3h3aWozY044NTZkMkdvMGhZZjJCRVYySkUzb3pkU1NyNWNoaS9hVHYxM2w4YU1ZY2pXCjA4bHlBemxBVXozWGd2UmlkVktteHhoakFQRVRmM1BtcHV3aGFvM1luL3dMOFJSNk9BakNFUjRLN1JjLzV2bksKanZCaDU3bFNRZjdZRk9kV2ZnbEhjTWNYZndVNStldmFFbVJhaW9vYXpTQnkwMUtvMlJEQnBGL3VFNzdzZGYxQwo2NVRRSnZvS3kyRjBKUWJ2ME9RVFNqVzBDUHcwaFMydk96Qk5VK3ZBRUVYNHdxQmp6M1grUER1OUxid0E1NFdtClVRSURBUUFCCi0tLS0tRU5EIFJTQSBQVUJMSUMgS0VZLS0tLS0K",
+        "FaultyNodes": 1,
+        "Committee": [
+          {
+            "OperatorID": 1,
+            "SSVOperatorPubKey": "LS0tLS1CRUdJTiBSU0EgUFVCTElDIEtFWS0tLS0tCk1JSUJJakFOQmdrcWhraUc5dzBCQVFFRkFBT0NBUThBTUlJQkNnS0NBUUVBeU16MmIrS1pKSXpCelJad3RwYnkKTHYvZzdZNFBGTDhGVGI0Y0Y0cVhzRVh4Smh1MGxHSmhUMFlZWUN4WUNhdk1aZjUwTlFETzRRQ2RlM2xzb0VZQgphdzBlZnRrWE5pMkxYL3h3aWozY044NTZkMkdvMGhZZjJCRVYySkUzb3pkU1NyNWNoaS9hVHYxM2w4YU1ZY2pXCjA4bHlBemxBVXozWGd2UmlkVktteHhoakFQRVRmM1BtcHV3aGFvM1luL3dMOFJSNk9BakNFUjRLN1JjLzV2bksKanZCaDU3bFNRZjdZRk9kV2ZnbEhjTWNYZndVNStldmFFbVJhaW9vYXpTQnkwMUtvMlJEQnBGL3VFNzdzZGYxQwo2NVRRSnZvS3kyRjBKUWJ2ME9RVFNqVzBDUHcwaFMydk96Qk5VK3ZBRUVYNHdxQmp6M1grUER1OUxid0E1NFdtClVRSURBUUFCCi0tLS0tRU5EIFJTQSBQVUJMSUMgS0VZLS0tLS0K"
+          },
+          {
+            "OperatorID": 2,
+            "SSVOperatorPubKey": "LS0tLS1CRUdJTiBSU0EgUFVCTElDIEtFWS0tLS0tCk1JSUJJakFOQmdrcWhraUc5dzBCQVFFRkFBT0NBUThBTUlJQkNnS0NBUUVBbVlaUDJHRzRxM1ZSUmFpZG1nbWEKT0N3eno4OEdUTDIvdHM0c3gyZk1hSkJ3dDJtY1JwR1NKTHVNQWgrUUpFSWhFUGNXYVNicllVYTdOZUg2VHZSdwp1TUlRdldzT3hzRUNmTzZndmZiTGhNeERyaGZrRmc2R3pNZ0pZQm1VUXVxRUlwYklXZitRVzJoQ0ViQjN1R3Y4CnFpMDdpSTBTTzB6OEtjZnhCVUJXNmtxNkRJdHozbEo2Z1ZOTjdTNFRBblZkS2o2NjBuR2JuSENlOVJQMzRma3IKVEtuUTBHb0NEOHh2RTE3U1dsWThHcmFzRGxJbDUxcWJSRGx2RXJJS3QvRHFBbllkZk4rL1BLekxJMkxlUGNjSApRdVdKalA5UXZZTWhrci9VVmdyMGM4Ums3bmt2YXprYmtrS2JreGVUMkp3OC9WN2gveWE0aDhZb1B6MkJLd05RCmNRSURBUUFCCi0tLS0tRU5EIFJTQSBQVUJMSUMgS0VZLS0tLS0K"
+          },
+          {
+            "OperatorID": 3,
+            "SSVOperatorPubKey": "LS0tLS1CRUdJTiBSU0EgUFVCTElDIEtFWS0tLS0tCk1JSUJJakFOQmdrcWhraUc5dzBCQVFFRkFBT0NBUThBTUlJQkNnS0NBUUVBdG9pRlRVcUpwTDg0eHZoTUZTQU8KWUFxYkVZaXpEQlBsL2xNMmMxOEtzRzlJQVNEU3piTmZ4R25jMnBDMzdqanI3aDNibFN4RU5ZU0tPWVZIVzJOMgpxOGJ6TEJ1MDZrSzBnenNWRERKTU5jOGpwVnFOK0VJclBsSWpOWUwybXA1Wk5uYXp5YVdBYVZWa05ZeU1hYWpJCkF6VHlyWis2d3VvUVJvaXV6U2dsdTBSNmV1V1FaZThDY2lFVDFaRHJDMFJpaG4rYklCbzNlN3YwekZBZXczUXcKVTNJbEZvanp0SjVyaitKZmx5UWFVaS96VEN5OXFUUG5XV0ZBenRHWjZGZS8wM3VoVk4wczhXWnd0MnkxVjFiaQpIWUFQWXo2MmZpdENWNDRZcmt6RU9tSVNnUm4zVW9qT3prOHZORlltY0NSNDFMMncvbzE3UjBEM0xnOG54QzZNCkpRSURBUUFCCi0tLS0tRU5EIFJTQSBQVUJMSUMgS0VZLS0tLS0K"
+          },
+          {
+            "OperatorID": 4,
+            "SSVOperatorPubKey": "LS0tLS1CRUdJTiBSU0EgUFVCTElDIEtFWS0tLS0tCk1JSUJJakFOQmdrcWhraUc5dzBCQVFFRkFBT0NBUThBTUlJQkNnS0NBUUVBcVFYenEvNlh0VkVmSlRaL3YxUHcKa3pTa05SWGJwQy80MWE5TFNRdnNra0lDZEcyZEd3K1FhZ2tOVllwdktRc1Izd0F4QmZEb1FxZE1vRXY4R2g5eApCYVphZjZrTFdrbmFWWVlOSmVXbjZiRWlEbVhqVllETXE1ZGhsOW9kOVVoSzRFWVQ4cklmNWFsZnlFYTkrV3M5Cm9lQUxTMjFjVlBwUlBvYlFIeHNYOHhvOXVRQ3JMeE9xYzRFVzgyODVLajV2blFsZnBHRzIxV0ZCZmJIR1I0WGEKK2FtT2ZUS1BsUkxsZVZVTXp3WCs3cGVHSi81SDNqcExGbCtvRmFyMkMvWURIL0VKejArTnE2R0ptNzFpSjdNYwoxK2MwUDZGT2F5NlpxWitaRGo5ZHBKZC9tYnFZenkzcks2YlBvOE52TkVZSFNKZk9SRDRLak5NSXM0UzF5cHhaCkl3SURBUUFCCi0tLS0tRU5EIFJTQSBQVUJMSUMgS0VZLS0tLS0K"
+          }
+        ],
+        "DomainType": "00000301"
+      }
+    },
+    "BeaconNetwork": "now_test_network",
+    "RunnerRoleType": 0
+  }
+}
