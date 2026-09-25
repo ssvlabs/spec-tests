@@ -1,0 +1,20 @@
+{
+  "Name": "gloas attestation value check pre-gloas vote",
+  "Type": "Value check: validations for input of different runner roles",
+  "Documentation": "Tests Gloas attestation value check (SIP #94 §2) rejecting a pre-Gloas BeaconVote (112 bytes) proposed at a Gloas slot: the fixed 120-byte GloasBeaconVote makes cross-fork values fail decoding on length",
+  "Network": "now_test_network",
+  "RunnerRole": 0,
+  "DutySlot": "8000012",
+  "Input": "AQIDBAUGBwgJCgECAwQFBgcICQoBAgMEBQYHCAkKAQIAAAAAAAAAAAECAwQFBgcICQoBAgMEBQYHCAkKAQIDBAUGBwgJCgECAQAAAAAAAAABAgMEBQYHCAkKAQIDBAUGBwgJCgECAwQFBgcICQoBAg==",
+  "ExpectedSource": {
+    "epoch": "0",
+    "root": "0x0102030405060708090a0102030405060708090a0102030405060708090a0102"
+  },
+  "ExpectedTarget": {
+    "epoch": "1",
+    "root": "0x0102030405060708090a0102030405060708090a0102030405060708090a0102"
+  },
+  "SlashableSlots": {},
+  "ExpectedErrorCode": 94,
+  "AnyError": false
+}
