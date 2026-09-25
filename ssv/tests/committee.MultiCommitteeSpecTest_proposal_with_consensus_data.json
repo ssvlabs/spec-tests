@@ -9064,7 +9064,7 @@
       "ExpectedErrorCode": 23
     },
     {
-      "Name": "30 attestation (unknown)",
+      "Name": "30 attestation (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -10384,7 +10384,7 @@
       "ExpectedErrorCode": 94
     },
     {
-      "Name": "30 sync committee (unknown)",
+      "Name": "30 sync committee (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -11824,7 +11824,7 @@
       "ExpectedErrorCode": 94
     },
     {
-      "Name": "30 attestations 30 sync committees (unknown)",
+      "Name": "30 attestations 30 sync committees (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},

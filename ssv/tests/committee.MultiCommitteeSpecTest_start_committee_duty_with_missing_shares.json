@@ -3418,7 +3418,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "attestation (unknown)",
+      "Name": "attestation (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -3912,7 +3912,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "sync committee (unknown)",
+      "Name": "sync committee (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -4446,7 +4446,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "attestations sync committees (unknown)",
+      "Name": "attestations sync committees (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},

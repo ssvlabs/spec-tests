@@ -210,7 +210,7 @@
       "ExpectedErrorCode": 82
     },
     {
-      "Name": "aggregator committee mixed (unknown)",
+      "Name": "aggregator committee mixed (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},

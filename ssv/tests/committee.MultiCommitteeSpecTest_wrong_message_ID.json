@@ -436,7 +436,7 @@
       "ExpectedErrorCode": 28
     },
     {
-      "Name": "sync committees (unknown)",
+      "Name": "sync committees (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -546,7 +546,7 @@
       "ExpectedErrorCode": 28
     },
     {
-      "Name": "attestation (unknown)",
+      "Name": "attestation (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
