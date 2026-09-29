@@ -3,7 +3,7 @@
   "Type": "Aggregator committee consensus data: validation of aggregator committee consensus data",
   "Documentation": "Test sync committee contribution agg committee consensus data with no sync committee contribution pre-consensus justifications",
   "AggCommConsensusData": {
-    "Version": "phase0",
+    "Version": "gloas",
     "Aggregators": [],
     "AggregatorsCommitteeIndexes": [],
     "AggregatedAttestations": [],

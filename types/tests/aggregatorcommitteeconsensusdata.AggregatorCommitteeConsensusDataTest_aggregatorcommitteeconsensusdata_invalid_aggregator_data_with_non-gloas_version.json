@@ -1,0 +1,24 @@
+{
+  "Name": "invalid aggregator data with non-gloas version",
+  "Type": "Aggregator committee consensus data: validation of aggregator committee consensus data",
+  "Documentation": "Test validation error for invalid agg committee consensus data whose version is not Gloas",
+  "AggCommConsensusData": {
+    "Version": "fulu",
+    "Aggregators": [
+      {
+        "ValidatorIndex": "1",
+        "SelectionProof": "0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "CommitteeIndex": 3
+      }
+    ],
+    "AggregatorsCommitteeIndexes": [
+      3
+    ],
+    "AggregatedAttestations": [
+      "7AAAAAwSegAAAAAAAQAAAAAAAAABAgMEBQYHCAkKAQIDBAUGBwgJCgECAwQFBgcICQoBAgAAAAAAAAAAAQIDBAUGBwgJCgECAwQFBgcICQoBAgMEBQYHCAkKAQIBAAAAAAAAAAECAwQFBgcICQoBAgMEBQYHCAkKAQIDBAUGBwgJCgECAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=="
+    ],
+    "Contributors": [],
+    "SyncCommitteeContributions": []
+  },
+  "ExpectedErrorCode": 83
+}

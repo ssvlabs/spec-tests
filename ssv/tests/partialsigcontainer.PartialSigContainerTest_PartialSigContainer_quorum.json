@@ -6,26 +6,26 @@
   "ValidatorPubKey": "joAGZVGoGzGCWHCe2vfdH2PNaGoOTbiym7t6z+ZWCGd69aUn2USO5Hg1SF4CtQvA",
   "SignatureMsgs": [
     {
-      "PartialSignature": "894dcf3c6f8a07edb6473f72a4be617e0d24afa12ecafb147f24f8ca203919a4264ae4f643ccfe352458f07963628cf6185858a8979fd907a41d289eef7b386209fa8cfa7645fe48490fc91e96d44ce464fe839d10f64f18151cff209e353aed",
+      "PartialSignature": "8518525d91fba93c680c3b7271d746f87075faccbf2bd8c100f937217d6ba47029676840fd063501cc1ffae952acd32f0684bbf9c7f6872617b1fa0639dab801458725c7617d70353dc9e6627b120168ce60fab76a2a45d591bba20d6f26fd0d",
       "Signer": 1,
-      "SigningRoot": "4ae32f48079745930bc24da670a6fe72052e13e3832728c6aa2580adc0307b83",
+      "SigningRoot": "3cb5a0a06b12969f7724995fdd03bc948b665f2272cd5bd34a0d7c31f90d7d67",
       "ValidatorIndex": "1"
     },
     {
-      "PartialSignature": "80c5f32287bf40906b1fe9edb80a09fa4bebe2a863e155265a985fb282f2390d95623c2f20ea83b4b957b2d14a6ca5d20aa366c5879c7d7f31b6cde35b171f1c82ce1206afcfaac0f2489386caa50921d6c77c836e3b81ac84a2f645366b46b8",
+      "PartialSignature": "a81fba1f5e9e6ff11b654f4c4fdce2c5bb46798d846227dc1ad0b52bd54ea04c7a1964a654b4f156717a03ea2e1e9f8e0604eaaea259e969f271165ab8d766074d39bbca744f2923ba817892b31d4a66add3b3dc6a88ebea546a6279e612044a",
       "Signer": 2,
-      "SigningRoot": "4ae32f48079745930bc24da670a6fe72052e13e3832728c6aa2580adc0307b83",
+      "SigningRoot": "3cb5a0a06b12969f7724995fdd03bc948b665f2272cd5bd34a0d7c31f90d7d67",
       "ValidatorIndex": "1"
     },
     {
-      "PartialSignature": "8b1a3d4bbe80a2dfe31f8c55490fa658cf615f0d2c53b623302d10d9dbe05b7f1f84b3777e75d0b349a5cf3e8f359c010fc8ac0b92dcaa1913b3950a74224db349445448b9878706dc8e7eaddd522338ff653f70aebbad663be7464505e8dc6c",
+      "PartialSignature": "8e42ff6b5e48aecc7d9537cb91ab415eb2f0956ee600203628be1672677a54d5a273ad187fe40cc689f2dc0c9d7874f70a732a5ecfb5210874cdd3ece0cf18af58803c354eb30935269fe63ac406e9ac27135f2fe3731ec033b52ae7a3597195",
       "Signer": 3,
-      "SigningRoot": "4ae32f48079745930bc24da670a6fe72052e13e3832728c6aa2580adc0307b83",
+      "SigningRoot": "3cb5a0a06b12969f7724995fdd03bc948b665f2272cd5bd34a0d7c31f90d7d67",
       "ValidatorIndex": "1"
     }
   ],
   "ExpectedErrorCode": 0,
-  "ExpectedResult": "riIA7vPqM9iXj6OkcymaiSYcfQVZWzRcNHElhvAiX7U3L2GkV4raAgg2MbszHPnKDyfHEetyYbsWs2qPMgeMN71dcYA8JWWTtK5ap9dQV9m73i/LmoV/4EZfW4dJf4vV",
+  "ExpectedResult": "k8ZKWzpJ0Bocbx5yLEst3Uao7wRoIsbpS0ISarwjPo09D9p7JMaQnwBin/wLO7IaFlq6XTmTmBwO+8LnrDLuqI145P8P9owm1u6JXhkTEh+GnF47OPR2zAkzoi6ZyTCj",
   "ExpectedQuorum": true,
   "PrivateKeys": {
     "ValidatorSK": "3515c7d08e5affd729e9579f7588d30f2342ee6f6a9334acf006345262162c6f",

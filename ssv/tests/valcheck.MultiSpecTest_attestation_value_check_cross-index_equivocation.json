@@ -1,0 +1,87 @@
+{
+  "Name": "attestation value check cross-index equivocation",
+  "Type": "Multi value check: multiple value check tests",
+  "Documentation": "Tests that the decided attestation index goes into the slashability data (SIP #94 §2): a vote differing from a signed one only in the index is a double vote",
+  "Tests": [
+    {
+      "Name": "same vote",
+      "Type": "",
+      "Documentation": "",
+      "Network": "now_test_network",
+      "RunnerRole": 0,
+      "DutySlot": "12",
+      "Input": "AQIDBAUGBwgJCgECAwQFBgcICQoBAgMEBQYHCAkKAQIAAAAAAAAAAAECAwQFBgcICQoBAgMEBQYHCAkKAQIDBAUGBwgJCgECAQAAAAAAAAABAgMEBQYHCAkKAQIDBAUGBwgJCgECAwQFBgcICQoBAgEAAAAAAAAA",
+      "ExpectedSource": {
+        "epoch": "0",
+        "root": "0x0102030405060708090a0102030405060708090a0102030405060708090a0102"
+      },
+      "ExpectedTarget": {
+        "epoch": "1",
+        "root": "0x0102030405060708090a0102030405060708090a0102030405060708090a0102"
+      },
+      "SlashableSlots": null,
+      "SignedAttestations": {
+        "5f4711a796c1116b5118ec35279fb64d551d9b38813d2939954dd2df5160d3d9": [
+          {
+            "slot": "12",
+            "index": "1",
+            "beacon_block_root": "0x0102030405060708090a0102030405060708090a0102030405060708090a0102",
+            "source": {
+              "epoch": "0",
+              "root": "0x0102030405060708090a0102030405060708090a0102030405060708090a0102"
+            },
+            "target": {
+              "epoch": "1",
+              "root": "0x0102030405060708090a0102030405060708090a0102030405060708090a0102"
+            }
+          }
+        ]
+      },
+      "ShareValidatorsPK": [
+        "X0cRp5bBEWtRGOw1J5+2TVUdmziBPSk5lU3S31Fg09k="
+      ],
+      "ExpectedErrorCode": 0,
+      "AnyError": false
+    },
+    {
+      "Name": "other index",
+      "Type": "",
+      "Documentation": "",
+      "Network": "now_test_network",
+      "RunnerRole": 0,
+      "DutySlot": "12",
+      "Input": "AQIDBAUGBwgJCgECAwQFBgcICQoBAgMEBQYHCAkKAQIAAAAAAAAAAAECAwQFBgcICQoBAgMEBQYHCAkKAQIDBAUGBwgJCgECAQAAAAAAAAABAgMEBQYHCAkKAQIDBAUGBwgJCgECAwQFBgcICQoBAgAAAAAAAAAA",
+      "ExpectedSource": {
+        "epoch": "0",
+        "root": "0x0102030405060708090a0102030405060708090a0102030405060708090a0102"
+      },
+      "ExpectedTarget": {
+        "epoch": "1",
+        "root": "0x0102030405060708090a0102030405060708090a0102030405060708090a0102"
+      },
+      "SlashableSlots": null,
+      "SignedAttestations": {
+        "5f4711a796c1116b5118ec35279fb64d551d9b38813d2939954dd2df5160d3d9": [
+          {
+            "slot": "12",
+            "index": "1",
+            "beacon_block_root": "0x0102030405060708090a0102030405060708090a0102030405060708090a0102",
+            "source": {
+              "epoch": "0",
+              "root": "0x0102030405060708090a0102030405060708090a0102030405060708090a0102"
+            },
+            "target": {
+              "epoch": "1",
+              "root": "0x0102030405060708090a0102030405060708090a0102030405060708090a0102"
+            }
+          }
+        ]
+      },
+      "ShareValidatorsPK": [
+        "X0cRp5bBEWtRGOw1J5+2TVUdmziBPSk5lU3S31Fg09k="
+      ],
+      "ExpectedErrorCode": 33,
+      "AnyError": false
+    }
+  ]
+}
