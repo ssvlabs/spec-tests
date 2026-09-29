@@ -1,0 +1,7 @@
+{
+  "Name": "map ptc attester role",
+  "Type": "Duty: validation of beacon role to runner role conversion",
+  "Documentation": "Test mapping of BNRolePTCAttester",
+  "BeaconRole": 7,
+  "RunnerRole": 7
+}
