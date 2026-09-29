@@ -4,7 +4,7 @@
   "Documentation": "Tests sequences where some duties fail (no post-consensus) followed by successful duties with complete happy flow",
   "Tests": [
     {
-      "Name": "1 fails 1 successful for 1 attestation (unknown)",
+      "Name": "1 fails 1 successful for 1 attestation (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -373,7 +373,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "1 fails 1 successful for 1 sync committee (unknown)",
+      "Name": "1 fails 1 successful for 1 sync committee (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -750,7 +750,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "1 fails 1 successful for 1 attestations 1 sync committees (unknown)",
+      "Name": "1 fails 1 successful for 1 attestations 1 sync committees (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -1162,7 +1162,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "1 fails 2 successful for 1 attestation (unknown)",
+      "Name": "1 fails 2 successful for 1 attestation (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -1700,7 +1700,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "1 fails 2 successful for 1 sync committee (unknown)",
+      "Name": "1 fails 2 successful for 1 sync committee (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -2250,7 +2250,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "1 fails 2 successful for 1 attestations 1 sync committees (unknown)",
+      "Name": "1 fails 2 successful for 1 attestations 1 sync committees (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -2853,7 +2853,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "2 fails 1 successful for 1 attestation (unknown)",
+      "Name": "2 fails 1 successful for 1 attestation (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -3348,7 +3348,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "2 fails 1 successful for 1 sync committee (unknown)",
+      "Name": "2 fails 1 successful for 1 sync committee (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -3855,7 +3855,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "2 fails 1 successful for 1 attestations 1 sync committees (unknown)",
+      "Name": "2 fails 1 successful for 1 attestations 1 sync committees (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -4414,7 +4414,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "2 fails 2 successful for 1 attestation (unknown)",
+      "Name": "2 fails 2 successful for 1 attestation (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -5078,7 +5078,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "2 fails 2 successful for 1 sync committee (unknown)",
+      "Name": "2 fails 2 successful for 1 sync committee (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -5758,7 +5758,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "2 fails 2 successful for 1 attestations 1 sync committees (unknown)",
+      "Name": "2 fails 2 successful for 1 attestations 1 sync committees (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -6508,7 +6508,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "1 fails 1 successful for 30 attestation (unknown)",
+      "Name": "1 fails 1 successful for 30 attestation (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -8791,7 +8791,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "1 fails 1 successful for 30 sync committee (unknown)",
+      "Name": "1 fails 1 successful for 30 sync committee (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -11314,7 +11314,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "1 fails 1 successful for 30 attestations 30 sync committees (unknown)",
+      "Name": "1 fails 1 successful for 30 attestations 30 sync committees (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -14887,7 +14887,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "1 fails 2 successful for 30 attestation (unknown)",
+      "Name": "1 fails 2 successful for 30 attestation (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -17861,7 +17861,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "1 fails 2 successful for 30 sync committee (unknown)",
+      "Name": "1 fails 2 successful for 30 sync committee (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -21195,7 +21195,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "1 fails 2 successful for 30 attestations 30 sync committees (unknown)",
+      "Name": "1 fails 2 successful for 30 attestations 30 sync committees (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -26119,7 +26119,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "2 fails 1 successful for 30 attestation (unknown)",
+      "Name": "2 fails 1 successful for 30 attestation (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -29021,7 +29021,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "2 fails 1 successful for 30 sync committee (unknown)",
+      "Name": "2 fails 1 successful for 30 sync committee (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -32283,7 +32283,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "2 fails 1 successful for 30 attestations 30 sync committees (unknown)",
+      "Name": "2 fails 1 successful for 30 attestations 30 sync committees (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -37105,7 +37105,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "2 fails 2 successful for 30 attestation (unknown)",
+      "Name": "2 fails 2 successful for 30 attestation (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -40698,7 +40698,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "2 fails 2 successful for 30 sync committee (unknown)",
+      "Name": "2 fails 2 successful for 30 sync committee (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -44771,7 +44771,7 @@
       "ExpectedErrorCode": 0
     },
     {
-      "Name": "2 fails 2 successful for 30 attestations 30 sync committees (unknown)",
+      "Name": "2 fails 2 successful for 30 attestations 30 sync committees (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},

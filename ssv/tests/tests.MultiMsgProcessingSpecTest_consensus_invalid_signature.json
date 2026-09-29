@@ -302,7 +302,7 @@
         },
         {
           "Signatures": [
-            "H5NfMGriCQ6GtVYpkUaBec2Vxx4nSKHMwFEvOKNBDuhvb1vYvDz3NwBTduXp/D9Z9C2er3pNVz+5VWhTr9l1Icwd+Rs4UrAOHLy1b18qDzAODu7qIv9Lc8cnitU0NkPH7CRAFABtG3X/NW2EwesLqrKSLvWdYcqJTNlnGTOZ9GFuf7sDKZ/0e0r+X3v4mjiKMytUfvQaqUov6ZHhKdeyt29LwcNR+2uagBzqKbpjF5llAKJQslBHfHUUo+R1eXFcUYy8JZfEKmPSPm/2qK4niy5YYcYVp1yv3wV0jnQ5Foc/Mt3WRxIdR1sC8kVn8mBSv0+pSG6HuN19JmRBtuhxFg=="
+            "ZzSPsTwxJXzrFyYA7gAQkrTWZE8LviC+BhLbSJYJkQ6B5C5i3XukdUOdsRpR57SLWEHWIxOO50pWHmxf0YlBRpBxlIij/h/sViwEdSujYZABXFznv5wVRBPkz3OOzmS4/wBenyKpPmOzk9jZ7CEgLkX/AWkX2G2qO6o65LWWK2o01KDwNrXWYOVClmB5O/J5VyH7/zCM9p9c8dKJA6BpgBFuRAAACxA9WSeSjBDCBPr6JHyBMs6damsYhX0Y+oGIlRQxllovMaljF5z0i3wZyw7u5vTVtlqyFDq/a10l+o/+X5MoLhSIoi4F9mzgpZkq9wvYTLZ2UoqxW/E0TA2/iQ=="
           ],
           "OperatorIDs": [
             1
@@ -310,7 +310,7 @@
           "SSVMessage": {
             "MsgType": 0,
             "MsgID": "00000301020000008e80066551a81b318258709edaf7dd1f63cd686a0e4db8b29bbb7acfe65608677af5a527d9448ee47835485e02b50bc0",
-            "Data": "AAAAAAAAAAAMEnoAAAAAAAEAAAAAAAAATAAAALoPr+pwnfSJM0LGvh6ZmBQqZTGd4LFTzc8oyH0vL9VpAAAAAAAAAACEAAAAhAAAAAAAAwECAAAAjoAGZVGoGzGCWHCe2vfdH2PNaGoOTbiym7t6z+ZWCGd69aUn2USO5Hg1SF4CtQvA"
+            "Data": "AAAAAAAAAAAMEnoAAAAAAAEAAAAAAAAATAAAAHPcIDpVNj2UgQMV+sbvCrCiu7b1LizT6KPRtiuCwSlIAAAAAAAAAACEAAAAhAAAAAAAAwECAAAAjoAGZVGoGzGCWHCe2vfdH2PNaGoOTbiym7t6z+ZWCGd69aUn2USO5Hg1SF4CtQvA"
           },
           "FullData": null
         }
@@ -481,7 +481,7 @@
       }
     },
     {
-      "Name": "aggregator (unknown)",
+      "Name": "aggregator (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": null,
@@ -647,7 +647,7 @@
       }
     },
     {
-      "Name": "attester (unknown)",
+      "Name": "attester (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": null,
@@ -758,7 +758,7 @@
       }
     },
     {
-      "Name": "sync committee (unknown)",
+      "Name": "sync committee (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": null,
@@ -873,7 +873,7 @@
       }
     },
     {
-      "Name": "attester and sync committee (unknown)",
+      "Name": "attester and sync committee (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": null,

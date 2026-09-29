@@ -4,7 +4,7 @@
   "Documentation": "Tests pre-consensus message processing for the aggregator committee runner that achieves a single-validator quorum (of aggregator duty) that is selected. Ensure runner starts consensus.",
   "Tests": [
     {
-      "Name": "single aggregator validator quorum starts consensus (unknown)",
+      "Name": "single aggregator validator quorum starts consensus (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": null,
