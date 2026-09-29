@@ -4,13 +4,13 @@
       "PreConsensusContainer": {
         "Signatures": {
           "1": {
-            "51c8dccedd34f6d37b3794a58fe6d9d966767797418dc2fd26dad30d1f550bfc": {
-              "1": "j5fGYooFk6vf+hSE3MkCUOSNMr7BBFkX5Val3Z5JXBrfKfmfQHMXStZJuV2WndMHBWrILazxAf9ewxuJTCacJQgJVhC4WhMnZ21cvV12QzD+Gil4sgPfLVW2Bw79jShE",
-              "2": "j/nXSHboSM7Nj76JRk9B6mgdKy8ZJKaLKfux/Jk/2CcPvnQvvR0ZSp9VhOGg2d3DCqmkwCbUOLaATh5WMWpAQRb8wFgr+lhGUvQv4Bq7je7pSrvjiTLiZY+6e+FXVg5p",
-              "3": "jbqS8czoRG5phsjCqaX2VcOaGbGDRs8rmAPraC2BWuANXJGQVTQ4+rIhohPVfoHtFZTeu9zgehysTX5ekr+DQzV6J/4ne2cTYI101b9W+8sEY5vdG9ixJ8qFDDL/DgkF",
-              "4": "gfIzmaHVY5xaE9NGNRzNbP1zkUNjvhiZYKY6p5FkCQaQ/dyR2OstCMFGjtNJObpsE6f+jnjOZPHH0WTJL/9gOVcD3AnN0O+yH7GSvfzCWsk2vf49RFxfpaS9rvs3Q5P/",
-              "5": "isKFEwbt91BLjwCVxWTdIuNZeVoP2sY11SfrD8M3+QP/En+fmxRFFKe7aLyaBZJ8C3JRyRAgh6YYFhRB4v00Jz8hz8Pzwcqw/NlNAC3h0HXZPC+3Eq0EHe84uDTNg7Hq",
-              "6": "jGxuho9GWj8beNAQXSWH2gu5EmlFeiuZ/EXsqVG9a8tSEPgBGzmqbTegvsNwAe4VABuAWHWtUVMmCglyTs4dC4rrADOSDZlqou+i6lk+/VorPtLZzIMbvP9CrrioBYCc"
+            "6e9ef331a8e2bd9d44c09f692329a633b1390c2c0f3460a23ce42127462498f7": {
+              "1": "jjg1LuD5n0pi60aqN2qP9TEewAeyS1nttZLYFrXKNoGrC+DXTorzwGqUWiYRlj9hCyU5Qc/A2TNGau8ZJ90JPVWieJ6CCnfTDWVQG4dpS3RtyyeKgWxilyBhJo0E4Kk8",
+              "2": "lC+7PbN0EAzAym048kBJbMhCCYMdzzyZWjYscjV3BIpXlohZqGHCzn1wcFneTd2hD60NB+uTpoVKiep8WgXRjHdrYDQlHObJkogWJ4lZei2F+Mbu4dwjxrjdjTJMab0d",
+              "3": "rpNqmOjt3TLXnuvu9OViMuFgxLrY3X0N7iEpRR+2YSoZ8jjvMXVCl2kco3Hu3nfaFkEaBsi1QMSRp9Db0sr2yD07PHvwcrJ/ktaXoWtLj20CeZaFnJG8abdGhR4dDy3/",
+              "4": "h/B1wn2mIoUH3jbiV4smEWkryVS6POrPNNlPuVw2E0RFR5YXCN+xWr+Vv8PllBRCAvbMFgt738N7L/r0VTNFkQP2Tq5Zxq/tQZ0Jltvl58fIAzna2qHZrVC7xI733W6e",
+              "5": "pVg6Pw/Gnm/v70EF5nDonGeIzqKKsxC5vqu18P8bwEgPEYnE4EnHnXH03rexDWhVCyDK1pHOJmyokTCOJ6XOZAD0LnSGlzoUdpW9NumXzLNnSvPsDp10BD0iEAf1oD9b",
+              "6": "oNaaDqB/KKJFvd1awRVq93rFBTFwQHL6DlawVeVAr3Rtx2HD4HsnmWdGWOJRS4S3FHItEORd12htmBjy2QGCr6Yr7eKG0BayaadEpZl9xn+sqtUZcO7KQgMZtKnuTnJm"
             }
           }
         },
@@ -26,7 +26,7 @@
       "ValidatorDuty": {
         "Type": 2,
         "PubKey": "0x8e80066551a81b318258709edaf7dd1f63cd686a0e4db8b29bbb7acfe65608677af5a527d9448ee47835485e02b50bc0",
-        "Slot": "7413760",
+        "Slot": "8000012",
         "ValidatorIndex": "1",
         "CommitteeIndex": 3,
         "CommitteeLength": 128,

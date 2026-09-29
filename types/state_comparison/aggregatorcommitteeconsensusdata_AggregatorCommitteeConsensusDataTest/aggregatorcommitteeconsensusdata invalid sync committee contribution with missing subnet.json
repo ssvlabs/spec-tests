@@ -3,7 +3,7 @@
   "Type": "Aggregator committee consensus data: validation of aggregator committee consensus data",
   "Documentation": "Test validation error for invalid agg committee consensus data with missing subnet",
   "AggCommConsensusData": {
-    "Version": "phase0",
+    "Version": "gloas",
     "Aggregators": [],
     "AggregatorsCommitteeIndexes": [],
     "AggregatedAttestations": [],
