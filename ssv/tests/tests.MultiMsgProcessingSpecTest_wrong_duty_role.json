@@ -148,7 +148,7 @@
       }
     },
     {
-      "Name": "aggregator (unknown)",
+      "Name": "aggregator (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": null,
@@ -276,7 +276,7 @@
       }
     },
     {
-      "Name": "proposer (unknown)",
+      "Name": "proposer (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": null,

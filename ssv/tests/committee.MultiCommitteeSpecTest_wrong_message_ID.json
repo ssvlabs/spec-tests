@@ -4,7 +4,7 @@
   "Documentation": "Tests committee behavior when processing messages with incorrect message IDs that don't match the committee ID",
   "Tests": [
     {
-      "Name": "sync committees (unknown)",
+      "Name": "sync committees (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -114,7 +114,7 @@
       "ExpectedErrorCode": 28
     },
     {
-      "Name": "attestation (unknown)",
+      "Name": "attestation (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
