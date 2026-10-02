@@ -1,0 +1,19 @@
+{
+  "Name": "valid",
+  "Type": "Beacon vote validation: validation of beacon vote checkpoints",
+  "Documentation": "Test that a beacon vote with source epoch below target epoch is accepted",
+  "BeaconVotes": [
+    {
+      "BlockRoot": "0x0102030405060708090a0102030405060708090a0102030405060708090a0102",
+      "Source": {
+        "epoch": "0",
+        "root": "0x0102030405060708090a0102030405060708090a0102030405060708090a0102"
+      },
+      "Target": {
+        "epoch": "1",
+        "root": "0x0102030405060708090a0102030405060708090a0102030405060708090a0102"
+      }
+    }
+  ],
+  "ExpectedErrorCode": 0
+}

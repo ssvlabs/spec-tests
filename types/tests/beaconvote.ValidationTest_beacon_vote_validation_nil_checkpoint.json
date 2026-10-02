@@ -1,0 +1,30 @@
+{
+  "Name": "nil checkpoint",
+  "Type": "Beacon vote validation: validation of beacon vote checkpoints",
+  "Documentation": "Test validation error for a nil beacon vote and beacon votes with a nil source and/or target checkpoint",
+  "BeaconVotes": [
+    null,
+    {
+      "BlockRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "Source": null,
+      "Target": null
+    },
+    {
+      "BlockRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "Source": null,
+      "Target": {
+        "epoch": "1",
+        "root": "0x0000000000000000000000000000000000000000000000000000000000000000"
+      }
+    },
+    {
+      "BlockRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "Source": {
+        "epoch": "0",
+        "root": "0x0000000000000000000000000000000000000000000000000000000000000000"
+      },
+      "Target": null
+    }
+  ],
+  "ExpectedErrorCode": 92
+}
