@@ -1,0 +1,30 @@
+{
+  "Name": "source not less than target",
+  "Type": "Beacon vote validation: validation of beacon vote checkpoints",
+  "Documentation": "Test validation error for beacon votes whose source epoch is greater than or equal to the target epoch",
+  "BeaconVotes": [
+    {
+      "BlockRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "Source": {
+        "epoch": "2",
+        "root": "0x0000000000000000000000000000000000000000000000000000000000000000"
+      },
+      "Target": {
+        "epoch": "1",
+        "root": "0x0000000000000000000000000000000000000000000000000000000000000000"
+      }
+    },
+    {
+      "BlockRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "Source": {
+        "epoch": "1",
+        "root": "0x0000000000000000000000000000000000000000000000000000000000000000"
+      },
+      "Target": {
+        "epoch": "1",
+        "root": "0x0000000000000000000000000000000000000000000000000000000000000000"
+      }
+    }
+  ],
+  "ExpectedErrorCode": 26
+}
