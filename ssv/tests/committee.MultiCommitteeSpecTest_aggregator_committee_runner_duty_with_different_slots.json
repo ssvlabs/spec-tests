@@ -4,7 +4,7 @@
   "Documentation": "Testing aggregator committee runner with duties that have different slots",
   "Tests": [
     {
-      "Name": "aggregator committee mixed (unknown)",
+      "Name": "aggregator committee mixed (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},

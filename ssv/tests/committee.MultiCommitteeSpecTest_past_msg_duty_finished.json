@@ -4,7 +4,7 @@
   "Documentation": "Tests committee behavior when processing past messages for a duty that has finished",
   "Tests": [
     {
-      "Name": "30 attestation (unknown)",
+      "Name": "30 attestation (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {
@@ -3384,7 +3384,7 @@
       "ExpectedErrorCode": 21
     },
     {
-      "Name": "30 sync committee (unknown)",
+      "Name": "30 sync committee (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {
@@ -7004,7 +7004,7 @@
       "ExpectedErrorCode": 21
     },
     {
-      "Name": "30 attestation 30 sync committee (unknown)",
+      "Name": "30 attestation 30 sync committee (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {
