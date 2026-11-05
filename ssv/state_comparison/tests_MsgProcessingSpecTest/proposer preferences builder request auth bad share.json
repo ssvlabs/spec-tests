@@ -1,0 +1,222 @@
+{
+  "BaseRunner": {
+    "State": null,
+    "Share": {
+      "1": {
+        "Committee": [
+          {
+            "SharePubKey": "l9lKgR1kSTYFKp0tSs1kcYl0z2eNvv0mcyTI6fjnA0pKa32HeeJ6AZU4w8Qlw+Xn",
+            "Signer": 1
+          },
+          {
+            "SharePubKey": "przr4wl9dBcbQMcSoDHOsDcds9PEAs8s5pG5Eg87q3XU1W36DzdZFUSZm/GMU1Pt",
+            "Signer": 2
+          },
+          {
+            "SharePubKey": "gJDgt2ZqRezF1O90GKyZ8J5sskQCn+pqCn/Mvp7gi8U53g36Zr5rq8hJPdmd0amN",
+            "Signer": 3
+          },
+          {
+            "SharePubKey": "p8CidrcKXuM5XH1tJlXtYFKKolLU0h7KX8xSI+UMxCvRaLKAq3q1MXNU3d/PPfnk",
+            "Signer": 4
+          }
+        ],
+        "DomainType": [
+          0,
+          0,
+          3,
+          1
+        ],
+        "FeeRecipientAddress": "535953b5a6040074948cf185eaa7d2abbd66808f",
+        "Graffiti": "AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "SharePubKey": "l9lKgR1kSTYFKp0tSs1kcYl0z2eNvv0mcyTI6fjnA0pKa32HeeJ6AZU4w8Qlw+Xn",
+        "ValidatorIndex": "1",
+        "ValidatorPubKey": "8e80066551a81b318258709edaf7dd1f63cd686a0e4db8b29bbb7acfe65608677af5a527d9448ee47835485e02b50bc0"
+      }
+    },
+    "QBFTController": null,
+    "BeaconNetwork": "now_test_network",
+    "RunnerRoleType": 8
+  },
+  "BySlot": {
+    "8000012": {
+      "BaseRunner": {
+        "State": {
+          "PreConsensusContainer": {
+            "Signatures": {
+              "1": {
+                "ee9e6622e44c482d8a92b773a3c1556a7617b7574e5ccacc815cbb6297ee0988": {
+                  "1": "tsMmVA/sWiHRVmH1dSKFyCxJCBpifhZXKjyP2BKBNT5egFvYsIW3uXVQ/oFGathJDae5aERmPd2ECyU8wOElDeSN70naeSED418/MLsEgCLgosQBbF5Wl814e7vIYl36",
+                  "2": "kZclF6B44Sysd+ziXYWMjxt2zmd1YmlgDHtZotIRlsJH/CeqXjJ3ArS/uKWPFzL9AxFRcm7uQiUz2Svbv2WTikpsnpgPwjjpeKjO/yOa1F/yLrltydwPIQWTmIHei2CL",
+                  "3": "gtYDObVkTBD96WhDbv3vq3rqscZKeMlrrb61TrKjkkQJwNxt179srzP9A00kIfWQC31+2osV2KEQzZNHkj1N1tc77bvoEt8//9esA50adW0czdoc+j6CJVnXV/JXmFqL"
+                },
+                "f41b7282ce56b724e56e5b51a65ea59f3b1ae4c9dba24be7cd5ec6fcd5f04a33": {
+                  "1": "kflGBym5pZUL+4GZ+CAuECcdRqB8nkQbUwb//lo66tNFGwXkkxxOFgoegC3IgMf+AvKjkV+fXFN4e4rTbF8HSUo9sWQeIbubh/kv6vUzfyJLcuo5X1+rMCrovBDMSHoA",
+                  "2": "lrvyoi2MJI77tGIHWLFq/CWp8xNkWi9phikIHfpl4V7QXMbVPGjjETF/+aBy1l0zEM9Tuptwt6sF0c+nB9xR5JYLeWslGQf1gsIT73EoKLfghnVbJ9wKI3IfctGQDOqW"
+                }
+              }
+            },
+            "Quorum": 3
+          },
+          "PostConsensusContainer": {
+            "Signatures": {},
+            "Quorum": 3
+          },
+          "RunningInstance": null,
+          "DecidedValue": null,
+          "Finished": false,
+          "ValidatorDuty": {
+            "Type": 8,
+            "PubKey": "0x8e80066551a81b318258709edaf7dd1f63cd686a0e4db8b29bbb7acfe65608677af5a527d9448ee47835485e02b50bc0",
+            "Slot": "8000012",
+            "ValidatorIndex": "1",
+            "CommitteeIndex": 0,
+            "CommitteeLength": 0,
+            "CommitteesAtSlot": 0,
+            "ValidatorCommitteeIndex": 0,
+            "ValidatorSyncCommitteeIndices": null
+          }
+        },
+        "Share": {
+          "1": {
+            "Committee": [
+              {
+                "SharePubKey": "l9lKgR1kSTYFKp0tSs1kcYl0z2eNvv0mcyTI6fjnA0pKa32HeeJ6AZU4w8Qlw+Xn",
+                "Signer": 1
+              },
+              {
+                "SharePubKey": "przr4wl9dBcbQMcSoDHOsDcds9PEAs8s5pG5Eg87q3XU1W36DzdZFUSZm/GMU1Pt",
+                "Signer": 2
+              },
+              {
+                "SharePubKey": "gJDgt2ZqRezF1O90GKyZ8J5sskQCn+pqCn/Mvp7gi8U53g36Zr5rq8hJPdmd0amN",
+                "Signer": 3
+              },
+              {
+                "SharePubKey": "p8CidrcKXuM5XH1tJlXtYFKKolLU0h7KX8xSI+UMxCvRaLKAq3q1MXNU3d/PPfnk",
+                "Signer": 4
+              }
+            ],
+            "DomainType": [
+              0,
+              0,
+              3,
+              1
+            ],
+            "FeeRecipientAddress": "535953b5a6040074948cf185eaa7d2abbd66808f",
+            "Graffiti": "AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+            "SharePubKey": "l9lKgR1kSTYFKp0tSs1kcYl0z2eNvv0mcyTI6fjnA0pKa32HeeJ6AZU4w8Qlw+Xn",
+            "ValidatorIndex": "1",
+            "ValidatorPubKey": "8e80066551a81b318258709edaf7dd1f63cd686a0e4db8b29bbb7acfe65608677af5a527d9448ee47835485e02b50bc0"
+          }
+        },
+        "QBFTController": null,
+        "BeaconNetwork": "now_test_network",
+        "RunnerRoleType": 8
+      },
+      "ProposerPreferences": {
+        "dependent_root": "0xde9e4de100000000000000000000000000000000000000000000000000000000",
+        "proposal_slot": "8000012",
+        "validator_index": "1",
+        "fee_recipient": "0x535953b5a6040074948cf185eaa7d2abbd66808f",
+        "target_gas_limit": "30000000"
+      },
+      "BuilderRequestAuths": [
+        {
+          "data": "0x6275696c6465722d617574682d746f6b656e2d31",
+          "slot": "8000012"
+        },
+        {
+          "data": "0x6275696c6465722d617574682d746f6b656e2d32",
+          "slot": "8000012"
+        }
+      ]
+    }
+  },
+  "PendingPartials": {
+    "8000012": [
+      {
+        "Type": 9,
+        "Slot": "8000012",
+        "Messages": [
+          {
+            "PartialSignature": "91f9460729b9a5950bfb8199f8202e10271d46a07c9e441b5306fffe5a3aead3451b05e4931c4e160a1e802dc880c7fe02f2a3915f9f5c53787b8ad36c5f07494a3db1641e21bb9b87f92feaf5337f224b72ea395f5fab302ae8bc10cc487a00",
+            "Signer": 1,
+            "SigningRoot": "f41b7282ce56b724e56e5b51a65ea59f3b1ae4c9dba24be7cd5ec6fcd5f04a33",
+            "ValidatorIndex": "1"
+          }
+        ]
+      },
+      {
+        "Type": 9,
+        "Slot": "8000012",
+        "Messages": [
+          {
+            "PartialSignature": "b6c326540fec5a21d15661f5752285c82c49081a627e16572a3c8fd81281353e5e805bd8b085b7b97550fe81466ad8490da7b96844663ddd840b253cc0e1250de48def49da792103e35f3f30bb048022e0a2c4016c5e5697cd787bbbc8625dfa",
+            "Signer": 1,
+            "SigningRoot": "ee9e6622e44c482d8a92b773a3c1556a7617b7574e5ccacc815cbb6297ee0988",
+            "ValidatorIndex": "1"
+          }
+        ]
+      },
+      {
+        "Type": 9,
+        "Slot": "8000012",
+        "Messages": [
+          {
+            "PartialSignature": "96bbf2a22d8c248efbb4620758b16afc25a9f313645a2f698629081dfa65e15ed05cc6d53c68e311317ff9a072d65d3310cf53ba9b70b7ab05d1cfa707dc51e4960b796b251907f582c213ef712828b7e086755b27dc0a23721f72d1900cea96",
+            "Signer": 2,
+            "SigningRoot": "f41b7282ce56b724e56e5b51a65ea59f3b1ae4c9dba24be7cd5ec6fcd5f04a33",
+            "ValidatorIndex": "1"
+          }
+        ]
+      },
+      {
+        "Type": 9,
+        "Slot": "8000012",
+        "Messages": [
+          {
+            "PartialSignature": "91972517a078e12cac77ece25d858c8f1b76ce67756269600c7b59a2d21196c247fc27aa5e327702b4bfb8a58f1732fd031151726eee422533d92bdbbf65938a4a6c9e980fc238e978a8ceff239ad45ff22eb96dc9dc0f2105939881de8b608b",
+            "Signer": 2,
+            "SigningRoot": "ee9e6622e44c482d8a92b773a3c1556a7617b7574e5ccacc815cbb6297ee0988",
+            "ValidatorIndex": "1"
+          }
+        ]
+      },
+      {
+        "Type": 9,
+        "Slot": "8000012",
+        "Messages": [
+          {
+            "PartialSignature": "94a27fbd25de484c048c49e3e1f9dc62e43f452de9fcb77cda83c04582f478c7a2ffbbf58f124fb33060bc9073bac1081850bd9dcada863d69fe30193f92339516bc5448343fcf138805845dba8e89c98ba055351867eb9346835a58ee21f342",
+            "Signer": 3,
+            "SigningRoot": "f41b7282ce56b724e56e5b51a65ea59f3b1ae4c9dba24be7cd5ec6fcd5f04a33",
+            "ValidatorIndex": "1"
+          }
+        ]
+      },
+      {
+        "Type": 9,
+        "Slot": "8000012",
+        "Messages": [
+          {
+            "PartialSignature": "82d60339b5644c10fde968436efdefab7aeab1c64a78c96badbeb54eb2a3924409c0dc6dd7bf6caf33fd034d2421f5900b7d7eda8b15d8a110cd9347923d4dd6d73bedbbe812df3fffd7ac039d1a756d1ccdda1cfa3e822559d757f257985a8b",
+            "Signer": 3,
+            "SigningRoot": "ee9e6622e44c482d8a92b773a3c1556a7617b7574e5ccacc815cbb6297ee0988",
+            "ValidatorIndex": "1"
+          }
+        ]
+      }
+    ]
+  },
+  "BuilderEntries": [
+    {
+      "Data": "YnVpbGRlci1hdXRoLXRva2VuLTE=",
+      "URL": "https://builder-1.example"
+    },
+    {
+      "Data": "YnVpbGRlci1hdXRoLXRva2VuLTI=",
+      "URL": "https://builder-2.example"
+    }
+  ]
+}
