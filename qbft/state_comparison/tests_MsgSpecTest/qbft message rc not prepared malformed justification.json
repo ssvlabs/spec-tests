@@ -1,0 +1,24 @@
+{
+  "Name": "rc not prepared malformed justification",
+  "Type": "QBFT message validation: testing message encoding, decoding, and structural integrity",
+  "Documentation": "Test that a not prepared round change message carrying a round change justification that can't be decoded is rejected for carrying it, before it is decoded.",
+  "Messages": [
+    {
+      "Signatures": [
+        "LkdSBKt3u7/8kXXoROC3/c75N60WG1xYhnsXPgoUYjUJuB/7DBEjCRDPFiobGYULwHDggbusFeRuvD41r2J6rBSE1uE5pyxHNENAeNdZrWkDwvKDer3LMT3rolxqt+gVCCP/v65R5QRYGvxQaGi4POtY57iVyX03Xo3g7piEMklEVB9o2nysLcEBI2vAzHn1Thtqsz3kGC9QxAHK8LuUqYw2jqNQeNHFyWEvGe4lKNrLYuAGxMNPUKT+S8x2vArxHP7bc2rPCyyE8ePlr2UGGkBj/TjchuwXnmQxLUbOGuDlcpA7Mv+PW5leBGxKTuKzh0EL6TWN6a9mdfeLkVSUEA=="
+      ],
+      "OperatorIDs": [
+        1
+      ],
+      "SSVMessage": {
+        "MsgType": 0,
+        "MsgID": "0102030400000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "Data": "AwAAAAAAAAAAAAAAAAAAAAIAAAAAAAAATAAAAHO/vTMRyAd8WcEWytODvoodlYzGLGnYXcuGxHls6t+GAAAAAAAAAACEAAAAiQAAAAECAwQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAE="
+      },
+      "FullData": null
+    }
+  ],
+  "EncodedMessages": null,
+  "ExpectedRoots": null,
+  "ExpectedErrorCode": 93
+}
