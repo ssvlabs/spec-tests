@@ -1,0 +1,24 @@
+{
+  "Name": "prepare with malformed prepare justification",
+  "Type": "QBFT message validation: testing message encoding, decoding, and structural integrity",
+  "Documentation": "Test that a prepare message carrying a prepare justification that can't be decoded is rejected for carrying it, before it is decoded.",
+  "Messages": [
+    {
+      "Signatures": [
+        "fe9yCM78hEf2/ObnaraGvOqWomxlMPAwRnfSmf2FRLn2bLraHkR0TlmtconjSoG84PjQ5exbbLow4iXp7u7+Bd42okxjp0eR2+B4Y75ftyg8bTRh5hMY5n/IWvuO4Ly86z+HBvLqUpXExco9Qo5Ps6yU+nCyb19rFIQX6vqP6TzfEXFYVEtCrPZJ8wGWHbTjN8xb9u0MVg6uL8j0ZaVf3fsePAw5vFYPCVXcVkgaBiRgWyVHew4rmVx1XdqKezXBa1BhLEyTVMh7CoImIX+mz75Zi3UAB6xUb0UxSrPixyMj5wg0l4qgnmM52Tg73S7VVkY20l1ZtsvNFVow6JO9RQ=="
+      ],
+      "OperatorIDs": [
+        1
+      ],
+      "SSVMessage": {
+        "MsgType": 0,
+        "MsgID": "0102030400000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "Data": "AQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAATAAAAHO/vTMRyAd8WcEWytODvoodlYzGLGnYXcuGxHls6t+GAAAAAAAAAACEAAAAhAAAAAECAwQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAE="
+      },
+      "FullData": null
+    }
+  ],
+  "EncodedMessages": null,
+  "ExpectedRoots": null,
+  "ExpectedErrorCode": 93
+}
