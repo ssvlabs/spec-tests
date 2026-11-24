@@ -4,9 +4,9 @@
       "PreConsensusContainer": {
         "Signatures": {
           "1": {
-            "51c8dccedd34f6d37b3794a58fe6d9d966767797418dc2fd26dad30d1f550bfc": {
-              "2": "qOD0KGLoLQOcmogzDligwROuO43rjv6yPyjeFXkLMqc2aPEd8+tjukaZTr44bvVWAeOtZNsV0yNsMwZB6+Qd4co1PlxmWr1n+1QplvDVJJ6HvAN3n0zMmLCfi0lAZ2SA",
-              "3": "ruw19vIZn60bsy+LL9DURP3jowSvEpxSzdHLzwgXPCSkmQxlPDc4QfJ7l142xZ8lGR66nKCuJw/rqwON8+S8hi28Jk1Gt+bsHFkaw44JOqVbwM8OMrkzF887CM2WBgI+"
+            "6e9ef331a8e2bd9d44c09f692329a633b1390c2c0f3460a23ce42127462498f7": {
+              "2": "is21H2T5Kv/5Qzm1J/uBGqHGhekPCWaZayeSg9NfxA9gyNOYxLEjOVrhCJTq/5cTEHnXDLSBZxZBJsgdVJyVfqSVWw+dMIcC+6CHT+i7dvrCVunYLHKf0ts9QJp2nue+",
+              "3": "r2lzJe5XFgnZ5edKO6VUNwUA7qgJM/2vUpPFshuk9I6V0ndJAL5wskiIIv1uA/sZAzcVmw2BGX6cKLvHXfYPTEMOz4W3bc2sGq3Kvp5Cpv62a+OYz2VV7hqyiaiUP7+6"
             }
           }
         },
@@ -22,7 +22,7 @@
       "ValidatorDuty": {
         "Type": 2,
         "PubKey": "0x8e80066551a81b318258709edaf7dd1f63cd686a0e4db8b29bbb7acfe65608677af5a527d9448ee47835485e02b50bc0",
-        "Slot": "7413760",
+        "Slot": "8000012",
         "ValidatorIndex": "1",
         "CommitteeIndex": 3,
         "CommitteeLength": 128,

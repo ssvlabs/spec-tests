@@ -11,8 +11,9 @@
     "Target": {
       "epoch": "2",
       "root": "0x0100000000000000000000000000000000000000000000000000000000000000"
-    }
+    },
+    "AttestationDataIndex": 1
   },
-  "ExpectedEncodedLength": 112,
+  "ExpectedEncodedLength": 120,
   "IsMaxSize": true
 }

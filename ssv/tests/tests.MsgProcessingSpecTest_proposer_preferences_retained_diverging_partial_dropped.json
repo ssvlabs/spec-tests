@@ -1,0 +1,134 @@
+{
+  "Name": "proposer preferences retained diverging partial dropped",
+  "Runner": {
+    "BaseRunner": {
+      "State": null,
+      "Share": {
+        "1": {
+          "Committee": [
+            {
+              "SharePubKey": "l9lKgR1kSTYFKp0tSs1kcYl0z2eNvv0mcyTI6fjnA0pKa32HeeJ6AZU4w8Qlw+Xn",
+              "Signer": 1
+            },
+            {
+              "SharePubKey": "przr4wl9dBcbQMcSoDHOsDcds9PEAs8s5pG5Eg87q3XU1W36DzdZFUSZm/GMU1Pt",
+              "Signer": 2
+            },
+            {
+              "SharePubKey": "gJDgt2ZqRezF1O90GKyZ8J5sskQCn+pqCn/Mvp7gi8U53g36Zr5rq8hJPdmd0amN",
+              "Signer": 3
+            },
+            {
+              "SharePubKey": "p8CidrcKXuM5XH1tJlXtYFKKolLU0h7KX8xSI+UMxCvRaLKAq3q1MXNU3d/PPfnk",
+              "Signer": 4
+            }
+          ],
+          "DomainType": [
+            0,
+            0,
+            3,
+            1
+          ],
+          "FeeRecipientAddress": "535953b5a6040074948cf185eaa7d2abbd66808f",
+          "Graffiti": "AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+          "SharePubKey": "l9lKgR1kSTYFKp0tSs1kcYl0z2eNvv0mcyTI6fjnA0pKa32HeeJ6AZU4w8Qlw+Xn",
+          "ValidatorIndex": "1",
+          "ValidatorPubKey": "8e80066551a81b318258709edaf7dd1f63cd686a0e4db8b29bbb7acfe65608677af5a527d9448ee47835485e02b50bc0"
+        }
+      },
+      "QBFTController": null,
+      "BeaconNetwork": "now_test_network",
+      "RunnerRoleType": 8
+    },
+    "BySlot": {},
+    "PendingPartials": {
+      "8000012": [
+        {
+          "Type": 8,
+          "Slot": "8000012",
+          "Messages": [
+            {
+              "PartialSignature": "afd6e2a89595073a117b1dec44f7a49abd1145f8205d9ca83b6e6f32fa026ee62bdb82166f0f1f1ad302c38b88ea533f108d59388bd68ae4105721a03c6408c5b43bda00e0777f8291d9a61688aa6b9390fb4c230aebfb6c4f7ce747a76191ff",
+              "Signer": 2,
+              "SigningRoot": "0a7d49a262c47b503789ea52618f74583ce5b8f2299b21fb8e37b4d6117f0d14",
+              "ValidatorIndex": "1"
+            }
+          ]
+        },
+        {
+          "Type": 8,
+          "Slot": "8000012",
+          "Messages": [
+            {
+              "PartialSignature": "a281312c099b6cfb356f7c16744d719b3ace6749308eed79cb407d0d8fe0162700c6a5e7319265e81579bff4d443910403044022f0b9cd91cc2a8dea0a3099554a305bd769b025df176a3146e0c362ce4b6f5f8a39d541c217815b7ca1f3b4db",
+              "Signer": 3,
+              "SigningRoot": "0a19775f5b9bb14c79bfc448f051d411654f0554d6fb3375ba548d20f743b40f",
+              "ValidatorIndex": "1"
+            }
+          ]
+        },
+        {
+          "Type": 8,
+          "Slot": "8000012",
+          "Messages": [
+            {
+              "PartialSignature": "afec5c76677f3e0d967b0580d552bc9192b71eca641664c1642bff3ce15f123179411b96362b5f160147ab733193239602a16cdee077efc9f12da12fe3ed4a3caea257ea76127ee216561e9dea8ffb28d8bcc18a75ed29939b716b9106d5342a",
+              "Signer": 4,
+              "SigningRoot": "0a19775f5b9bb14c79bfc448f051d411654f0554d6fb3375ba548d20f743b40f",
+              "ValidatorIndex": "1"
+            }
+          ]
+        }
+      ]
+    },
+    "BuilderEntries": null
+  },
+  "Messages": [
+    {
+      "Signatures": [
+        "p/Prygudyiw5T7Z8lXoTtokhg0PGe7b+eGjfsO6xCn2kU1P/WB49PmBoEWHtegTmAcR2ZRON5KVEMRfzeyxzKq1KhUJPogxE/WpFgzxFZYgispBGfFXzxVJD0OLM4AQ11mKd1R9e87vJpm9PSSazh0v/yRDpokaZ4zHV1m++El4GwN5Z5CKRY3D/qu9uv624agesGHBbHp1TiMjV5Kg2jiAbgGXIjAPE6fY30JtsXXHzD/y1g6T7C0ygS1U5MDY5YYflNJNGgG4Cs9qb/dcIby4nIwLkJi+6hbRoVi9BFhK47vFpTQzlSs8LtR2keqw7i2Gfn5tSSiOJ9jAWFT+uLA=="
+      ],
+      "OperatorIDs": [
+        1
+      ],
+      "SSVMessage": {
+        "MsgType": 1,
+        "MsgID": "00000301080000008e80066551a81b318258709edaf7dd1f63cd686a0e4db8b29bbb7acfe65608677af5a527d9448ee47835485e02b50bc0",
+        "Data": "CAAAAAAAAAAMEnoAAAAAABQAAAC29Fg4f8+xxpefEhFPiwvuLmTBWqFgoXsQwjy9AxCPStEEnN4odcDWoWOEChlgS9sOCCz3rqdPm8PUuZ/xER6ZxkBfK5j3gbFORrpfVWeDZyUq8Gd4gpBQ4Av1KBAr7UwKGXdfW5uxTHm/xEjwUdQRZU8FVNb7M3W6VI0g90O0DwEAAAAAAAAAAQAAAAAAAAA="
+      },
+      "FullData": null
+    }
+  ],
+  "DecidedSlashable": false,
+  "PostDutyRunnerStateRoot": "",
+  "OutputMessages": [
+    {
+      "Type": 8,
+      "Slot": "8000012",
+      "Messages": [
+        {
+          "PartialSignature": "b6f458387fcfb1c6979f12114f8b0bee2e64c15aa160a17b10c23cbd03108f4ad1049cde2875c0d6a163840a19604bdb0e082cf7aea74f9bc3d4b99ff1111e99c6405f2b98f781b14e46ba5f55678367252af06778829050e00bf528102bed4c",
+          "Signer": 1,
+          "SigningRoot": "0a19775f5b9bb14c79bfc448f051d411654f0554d6fb3375ba548d20f743b40f",
+          "ValidatorIndex": "1"
+        }
+      ]
+    }
+  ],
+  "BeaconBroadcastedRoots": [
+    "36bbe9107f1e9b45d6c50234864d11555858e7db8478de9e0763c87f262efc43"
+  ],
+  "DontStartDuty": false,
+  "ExpectedErrorCode": 0,
+  "ValidatorDuty": {
+    "Type": 8,
+    "PubKey": "0x8e80066551a81b318258709edaf7dd1f63cd686a0e4db8b29bbb7acfe65608677af5a527d9448ee47835485e02b50bc0",
+    "Slot": "8000012",
+    "ValidatorIndex": "1",
+    "CommitteeIndex": 0,
+    "CommitteeLength": 0,
+    "CommitteesAtSlot": 0,
+    "ValidatorCommitteeIndex": 0,
+    "ValidatorSyncCommitteeIndices": null
+  }
+}
