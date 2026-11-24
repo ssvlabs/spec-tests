@@ -4,7 +4,7 @@
   "Documentation": "Tests pre-consensus message processing for the aggregator committee runner that receives a quorum of pre-consensus messages (starting consensus), and then receives the last pre-consensus message that could add more aggregators, but should be dropped because consensus already started.",
   "Tests": [
     {
-      "Name": "ignores message if consensus already started (unknown)",
+      "Name": "ignores message if consensus already started (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": null,

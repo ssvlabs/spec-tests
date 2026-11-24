@@ -4,7 +4,7 @@
   "Documentation": "Tests decided value with duty validator pubkey != the duty runner's pubkey",
   "Tests": [
     {
-      "Name": "proposer (unknown)",
+      "Name": "proposer (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": null,
