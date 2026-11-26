@@ -1,0 +1,119 @@
+{
+  "Name": "proposer preferences builder request auth exceeds max",
+  "Runner": {
+    "BaseRunner": {
+      "State": null,
+      "Share": {
+        "1": {
+          "Committee": [
+            {
+              "SharePubKey": "l9lKgR1kSTYFKp0tSs1kcYl0z2eNvv0mcyTI6fjnA0pKa32HeeJ6AZU4w8Qlw+Xn",
+              "Signer": 1
+            },
+            {
+              "SharePubKey": "przr4wl9dBcbQMcSoDHOsDcds9PEAs8s5pG5Eg87q3XU1W36DzdZFUSZm/GMU1Pt",
+              "Signer": 2
+            },
+            {
+              "SharePubKey": "gJDgt2ZqRezF1O90GKyZ8J5sskQCn+pqCn/Mvp7gi8U53g36Zr5rq8hJPdmd0amN",
+              "Signer": 3
+            },
+            {
+              "SharePubKey": "p8CidrcKXuM5XH1tJlXtYFKKolLU0h7KX8xSI+UMxCvRaLKAq3q1MXNU3d/PPfnk",
+              "Signer": 4
+            }
+          ],
+          "DomainType": [
+            0,
+            0,
+            3,
+            1
+          ],
+          "FeeRecipientAddress": "535953b5a6040074948cf185eaa7d2abbd66808f",
+          "Graffiti": "AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+          "SharePubKey": "l9lKgR1kSTYFKp0tSs1kcYl0z2eNvv0mcyTI6fjnA0pKa32HeeJ6AZU4w8Qlw+Xn",
+          "ValidatorIndex": "1",
+          "ValidatorPubKey": "8e80066551a81b318258709edaf7dd1f63cd686a0e4db8b29bbb7acfe65608677af5a527d9448ee47835485e02b50bc0"
+        }
+      },
+      "QBFTController": null,
+      "BeaconNetwork": "now_test_network",
+      "RunnerRoleType": 8
+    },
+    "BySlot": {},
+    "BuilderEntries": [
+      {
+        "Data": "YnVpbGRlci1hdXRoLXRva2VuLTE=",
+        "URL": "https://builder-1.example"
+      },
+      {
+        "Data": "YnVpbGRlci1hdXRoLXRva2VuLTI=",
+        "URL": "https://builder-2.example"
+      }
+    ]
+  },
+  "Messages": [
+    {
+      "Signatures": [
+        "Wtoz8fVDD9wDdXXJvbl4ZpAl9X0hZzu0X9WoBrlmuzjOnyI0rN3Zel2zDwHcarv25oM7I0iCpmJJnyLaGEXuLNSjXFyrXwjDXYR/XVyvdS4PYk1U/7dzJsmkzhKbc7mrlOFRrn1FCtlKHSpTJCwt99AadUs3S0ULMLLdiqd6a+nsyfas2TP0PSL+hgdWfR2gx6KDAfqLIxOGjwczA2iWaYAeYdSRQ7MRxMRWb4iyLo8/TsyydFc33H8EkLg/LbavLUPMagYi4IW9MVXtAetC6cHnOgAZFWjj4qWnVJhJVzpWQ/9j1R1PyTwKhMNZHo/Pe6IJJHbKgvz2Gm8uToeBbA=="
+      ],
+      "OperatorIDs": [
+        2
+      ],
+      "SSVMessage": {
+        "MsgType": 1,
+        "MsgID": "00000301080000008e80066551a81b318258709edaf7dd1f63cd686a0e4db8b29bbb7acfe65608677af5a527d9448ee47835485e02b50bc0",
+        "Data": "CQAAAAAAAAAMEnoAAAAAABQAAACho629NyHUHwuMyKDLQH85Y89KXVu6n84BPX0rxrakRpoDNg3yw+2g9A4GxciT7cESB8kTSvXmkdHoDSliDZ7VEtdsltFrlpktm4bp0xNHVZvDHdu5IHq4rUqM9IYTuJeM9t5NxM/cvLNTPX3DxtNAYvSiNKw45Pfu2uiH2tbUWAIAAAAAAAAAAQAAAAAAAACt5hHvnATkXMqyd+380oWi0I3ejqNhhN+3bK4JMqx6d+xATIntpFcXLgFvzPX5wjQVuTpnKqVjsSyR855Pe6LBktFdk+Q5RtMgVi5szugu2HZEvr/JZlr0mAEK4fvLAlmPLy88O7eawCgA/FSaCQNZWVUXUlZeZvu7c5Q38X/1SwIAAAAAAAAAAQAAAAAAAACSC6sYEidRWJvGC03ClgTcgW8qjDW4rZWTuYlEHyLWtTKPTDKj8diyZQDbMBEn7wsCA8xf5426OZqzmOoCdh6YBzrva0Cs4J3ELj+G/c3mLyyX5hGJduiqGj3LUmVLsh9mAnKRvKS5XdyPD4lpnbxDMD0Eo+Jio+MbT/fU8GLrhgIAAAAAAAAAAQAAAAAAAACBHW0ywN6jj3n8FpELdcsm2dpYhgxLohdPBTTDfjYtoOzqfhR71cuo4AZbLpX6disZDWOZFcewg5csEs57aXcIaZGrXgTb6CDbxXhGJjstWOQZwsC3yge1QP+4M62+gN8tQ3jrtUEkqV0qg7tDwCzLq2WEGJ6y5Z7ez8uTgaYFUQIAAAAAAAAAAQAAAAAAAACDuJm7GPSHVrvZSoYvWXOQYr8i3D86gR1PpEPRUjD+n0ZO2WiAqoaUlKjPy3/lV3wQIzs6MBueq6T0PPd52U8rFI6r8UrUe1psGuNUXagFit17Jmj2He6D0VzPbH3Kz8d+HpEbeZ6dzrYhxVizS6V4ZC6bE7OQ4FubM8+yPtz7uAIAAAAAAAAAAQAAAAAAAACovkMXa7GK2M8gn/0TSYVi1GpmT6VtBsuTOKXFeOn56XPwftL4JrK1rN3XAe1RVIARy8XFo3F/IEbRWjuylp2e4jB/Mnizs59zEUpsejEN6mnjV6W7Xwf4o9fKpo+WN+buUwd5Y0tFWaST9YgKBsRbmJJpJlhXILh75h5XgXE8ZgIAAAAAAAAAAQAAAAAAAACTCsMkcGFMl05o9aooH+zEJ/h7rwEbPY4gT6fHbCHjUYXlq3VecCEAiRcIerv9U08BooDx74ViYTqvQJd165W0RIiDehfKbnRtY26Zzp5qHVlZM5Q2AnWkUeen09DzRzEMerHaKcTyigLkHLQn/y0mSFcDKs+3U6k+h0S1GPJtAQIAAAAAAAAAAQAAAAAAAACKsR1mor69vwwBxSgdLM9RElnkCylOQLQLcfbUmq3LMZi7gO0MEzw/Dri3BOIAKKgW1RRNcm8jglRqaYmu7loa265KIFVlX/1AEmBthmMk5YYqSeZGZ3znrSWCnb4zcNweb93vHM4/SUm+9MdS+QtCJOe6Pc0Z08p6LkukJ1EPpwIAAAAAAAAAAQAAAAAAAACMoY0bfyv6RFSgxtqD3MrBxPrdp/01gcnN68K5WyJA8c3YSkaK1apwkbyeSpdjohsK/n5pRQCLFLv2URAbEhwbj0zOH0E1N8kSGRL7jd0QRhse4PSk6UVQkAAXTTBi1csEw2EJarZPEdl6/gF3mRstcdNNGqXHOffz8+o3+VfFiQIAAAAAAAAAAQAAAAAAAAA="
+      },
+      "FullData": null
+    }
+  ],
+  "DecidedSlashable": false,
+  "PostDutyRunnerStateRoot": "",
+  "OutputMessages": [
+    {
+      "Type": 8,
+      "Slot": "8000012",
+      "Messages": [
+        {
+          "PartialSignature": "b6f458387fcfb1c6979f12114f8b0bee2e64c15aa160a17b10c23cbd03108f4ad1049cde2875c0d6a163840a19604bdb0e082cf7aea74f9bc3d4b99ff1111e99c6405f2b98f781b14e46ba5f55678367252af06778829050e00bf528102bed4c",
+          "Signer": 1,
+          "SigningRoot": "0a19775f5b9bb14c79bfc448f051d411654f0554d6fb3375ba548d20f743b40f",
+          "ValidatorIndex": "1"
+        }
+      ]
+    },
+    {
+      "Type": 9,
+      "Slot": "8000012",
+      "Messages": [
+        {
+          "PartialSignature": "91f9460729b9a5950bfb8199f8202e10271d46a07c9e441b5306fffe5a3aead3451b05e4931c4e160a1e802dc880c7fe02f2a3915f9f5c53787b8ad36c5f07494a3db1641e21bb9b87f92feaf5337f224b72ea395f5fab302ae8bc10cc487a00",
+          "Signer": 1,
+          "SigningRoot": "f41b7282ce56b724e56e5b51a65ea59f3b1ae4c9dba24be7cd5ec6fcd5f04a33",
+          "ValidatorIndex": "1"
+        },
+        {
+          "PartialSignature": "b6c326540fec5a21d15661f5752285c82c49081a627e16572a3c8fd81281353e5e805bd8b085b7b97550fe81466ad8490da7b96844663ddd840b253cc0e1250de48def49da792103e35f3f30bb048022e0a2c4016c5e5697cd787bbbc8625dfa",
+          "Signer": 1,
+          "SigningRoot": "ee9e6622e44c482d8a92b773a3c1556a7617b7574e5ccacc815cbb6297ee0988",
+          "ValidatorIndex": "1"
+        }
+      ]
+    }
+  ],
+  "BeaconBroadcastedRoots": null,
+  "DontStartDuty": false,
+  "ExpectedErrorCode": 107,
+  "ValidatorDuty": {
+    "Type": 8,
+    "PubKey": "0x8e80066551a81b318258709edaf7dd1f63cd686a0e4db8b29bbb7acfe65608677af5a527d9448ee47835485e02b50bc0",
+    "Slot": "8000012",
+    "ValidatorIndex": "1",
+    "CommitteeIndex": 0,
+    "CommitteeLength": 0,
+    "CommitteesAtSlot": 0,
+    "ValidatorCommitteeIndex": 0,
+    "ValidatorSyncCommitteeIndices": null
+  }
+}

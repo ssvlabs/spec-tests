@@ -1,0 +1,58 @@
+{
+  "BaseRunner": {
+    "State": null,
+    "Share": {
+      "1": {
+        "Committee": [
+          {
+            "SharePubKey": "l9lKgR1kSTYFKp0tSs1kcYl0z2eNvv0mcyTI6fjnA0pKa32HeeJ6AZU4w8Qlw+Xn",
+            "Signer": 1
+          },
+          {
+            "SharePubKey": "przr4wl9dBcbQMcSoDHOsDcds9PEAs8s5pG5Eg87q3XU1W36DzdZFUSZm/GMU1Pt",
+            "Signer": 2
+          },
+          {
+            "SharePubKey": "gJDgt2ZqRezF1O90GKyZ8J5sskQCn+pqCn/Mvp7gi8U53g36Zr5rq8hJPdmd0amN",
+            "Signer": 3
+          },
+          {
+            "SharePubKey": "p8CidrcKXuM5XH1tJlXtYFKKolLU0h7KX8xSI+UMxCvRaLKAq3q1MXNU3d/PPfnk",
+            "Signer": 4
+          }
+        ],
+        "DomainType": [
+          0,
+          0,
+          3,
+          1
+        ],
+        "FeeRecipientAddress": "535953b5a6040074948cf185eaa7d2abbd66808f",
+        "Graffiti": "AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "SharePubKey": "l9lKgR1kSTYFKp0tSs1kcYl0z2eNvv0mcyTI6fjnA0pKa32HeeJ6AZU4w8Qlw+Xn",
+        "ValidatorIndex": "1",
+        "ValidatorPubKey": "8e80066551a81b318258709edaf7dd1f63cd686a0e4db8b29bbb7acfe65608677af5a527d9448ee47835485e02b50bc0"
+      }
+    },
+    "QBFTController": null,
+    "BeaconNetwork": "now_test_network",
+    "RunnerRoleType": 7
+  },
+  "PayloadAttestationData": null,
+  "PendingPartials": {
+    "8000012": [
+      {
+        "Type": 7,
+        "Slot": "8000012",
+        "Messages": [
+          {
+            "PartialSignature": "935afc0b563f15ff4c1e2b12fac7c9712c1cdc869430f1ecd513592b7a79d01b3bb0ee9608face030e6ed19e8e50d5f8135f5d36cffce06d8b7b47d5b851fbe171efc1ec0e6dc0058db8f085435f3c0f23ef78cff6b227fb901f0b455625a499",
+            "Signer": 1,
+            "SigningRoot": "9a1aca28dff375e7c0003f906d5144a0f3a746f75ee357a51f475cd0d6ce80da",
+            "ValidatorIndex": "1"
+          }
+        ]
+      }
+    ]
+  }
+}

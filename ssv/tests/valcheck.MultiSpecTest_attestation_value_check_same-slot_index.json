@@ -1,0 +1,96 @@
+{
+  "Name": "attestation value check same-slot index",
+  "Type": "Multi value check: multiple value check tests",
+  "Documentation": "Tests the same-slot rule of the attestation value check (SIP #94 §2): an operator whose own view establishes that the voted block was proposed in the duty's slot rejects index 1 for it, and accepts index 0 for it, index 1 for another block, and index 1 when it has no such view",
+  "Tests": [
+    {
+      "Name": "index 1 for the block of the slot",
+      "Type": "",
+      "Documentation": "",
+      "Network": "now_test_network",
+      "RunnerRole": 0,
+      "DutySlot": "12",
+      "Input": "AQIDBAUGBwgJCgECAwQFBgcICQoBAgMEBQYHCAkKAQIAAAAAAAAAAAECAwQFBgcICQoBAgMEBQYHCAkKAQIDBAUGBwgJCgECAQAAAAAAAAABAgMEBQYHCAkKAQIDBAUGBwgJCgECAwQFBgcICQoBAgEAAAAAAAAA",
+      "ExpectedSource": {
+        "epoch": "0",
+        "root": "0x0102030405060708090a0102030405060708090a0102030405060708090a0102"
+      },
+      "ExpectedTarget": {
+        "epoch": "1",
+        "root": "0x0102030405060708090a0102030405060708090a0102030405060708090a0102"
+      },
+      "SlashableSlots": null,
+      "SameSlotBlockRoots": [
+        "0x0102030405060708090a0102030405060708090a0102030405060708090a0102"
+      ],
+      "ExpectedErrorCode": 115,
+      "AnyError": false
+    },
+    {
+      "Name": "index 0 for the block of the slot",
+      "Type": "",
+      "Documentation": "",
+      "Network": "now_test_network",
+      "RunnerRole": 0,
+      "DutySlot": "12",
+      "Input": "AQIDBAUGBwgJCgECAwQFBgcICQoBAgMEBQYHCAkKAQIAAAAAAAAAAAECAwQFBgcICQoBAgMEBQYHCAkKAQIDBAUGBwgJCgECAQAAAAAAAAABAgMEBQYHCAkKAQIDBAUGBwgJCgECAwQFBgcICQoBAgAAAAAAAAAA",
+      "ExpectedSource": {
+        "epoch": "0",
+        "root": "0x0102030405060708090a0102030405060708090a0102030405060708090a0102"
+      },
+      "ExpectedTarget": {
+        "epoch": "1",
+        "root": "0x0102030405060708090a0102030405060708090a0102030405060708090a0102"
+      },
+      "SlashableSlots": null,
+      "SameSlotBlockRoots": [
+        "0x0102030405060708090a0102030405060708090a0102030405060708090a0102"
+      ],
+      "ExpectedErrorCode": 0,
+      "AnyError": false
+    },
+    {
+      "Name": "index 1 for another block",
+      "Type": "",
+      "Documentation": "",
+      "Network": "now_test_network",
+      "RunnerRole": 0,
+      "DutySlot": "12",
+      "Input": "AQIDBAUGBwgJCgECAwQFBgcICQoBAgMEBQYHCAkKAQIAAAAAAAAAAAECAwQFBgcICQoBAgMEBQYHCAkKAQIDBAUGBwgJCgECAQAAAAAAAAABAgMEBQYHCAkKAQIDBAUGBwgJCgECAwQFBgcICQoBAgEAAAAAAAAA",
+      "ExpectedSource": {
+        "epoch": "0",
+        "root": "0x0102030405060708090a0102030405060708090a0102030405060708090a0102"
+      },
+      "ExpectedTarget": {
+        "epoch": "1",
+        "root": "0x0102030405060708090a0102030405060708090a0102030405060708090a0102"
+      },
+      "SlashableSlots": null,
+      "SameSlotBlockRoots": [
+        "0x0b10c80000000000000000000000000000000000000000000000000000000000"
+      ],
+      "ExpectedErrorCode": 0,
+      "AnyError": false
+    },
+    {
+      "Name": "index 1 without a view",
+      "Type": "",
+      "Documentation": "",
+      "Network": "now_test_network",
+      "RunnerRole": 0,
+      "DutySlot": "12",
+      "Input": "AQIDBAUGBwgJCgECAwQFBgcICQoBAgMEBQYHCAkKAQIAAAAAAAAAAAECAwQFBgcICQoBAgMEBQYHCAkKAQIDBAUGBwgJCgECAQAAAAAAAAABAgMEBQYHCAkKAQIDBAUGBwgJCgECAwQFBgcICQoBAgEAAAAAAAAA",
+      "ExpectedSource": {
+        "epoch": "0",
+        "root": "0x0102030405060708090a0102030405060708090a0102030405060708090a0102"
+      },
+      "ExpectedTarget": {
+        "epoch": "1",
+        "root": "0x0102030405060708090a0102030405060708090a0102030405060708090a0102"
+      },
+      "SlashableSlots": null,
+      "ExpectedErrorCode": 0,
+      "AnyError": false
+    }
+  ]
+}

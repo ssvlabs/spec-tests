@@ -3,7 +3,7 @@
   "Type": "Structure size: validation of structure size",
   "Documentation": "Test the maximum size of an aggregator committee consensus data with maximum SSZ data",
   "Object": {
-    "Version": "phase0",
+    "Version": "gloas",
     "Aggregators": [
       {
         "ValidatorIndex": "0",
