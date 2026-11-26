@@ -14,7 +14,7 @@
       "ValidatorCommitteeIndex": 0,
       "ValidatorSyncCommitteeIndices": null
     },
-    "Version": "capella",
+    "Version": "gloas",
     "DataSSZ": "AAAAAAAAAAABAAAAAAAAAA=="
   },
   "ExpectedErrorCode": 10
