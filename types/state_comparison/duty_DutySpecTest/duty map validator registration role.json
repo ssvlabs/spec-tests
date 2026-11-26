@@ -1,0 +1,7 @@
+{
+  "Name": "map validator registration role",
+  "Type": "Duty: validation of beacon role to runner role conversion",
+  "Documentation": "Test that the validator-registration duty, deprecated at Gloas (SIP #94 §5), maps to no runner",
+  "BeaconRole": 5,
+  "RunnerRole": -1
+}

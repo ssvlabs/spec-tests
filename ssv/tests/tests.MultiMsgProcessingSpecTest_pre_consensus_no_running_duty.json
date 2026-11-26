@@ -1,7 +1,7 @@
 {
   "Name": "pre consensus no running duty",
   "Type": "SSV multi message processing: multiple message processing tests",
-  "Documentation": "Tests pre-consensus message processing when there is no running duty, expecting error",
+  "Documentation": "Tests pre-consensus message processing when there is no running duty: an error, except for the PTC and proposer-preferences runners, which retain the partial for its slot's duty (SIP #94 §3/§5)",
   "Tests": [
     {
       "Name": "voluntary exit",
@@ -145,7 +145,7 @@
       "OutputMessages": null,
       "BeaconBroadcastedRoots": null,
       "DontStartDuty": true,
-      "ExpectedErrorCode": 4,
+      "ExpectedErrorCode": 0,
       "ValidatorDuty": {
         "Type": 7,
         "PubKey": "0x8e80066551a81b318258709edaf7dd1f63cd686a0e4db8b29bbb7acfe65608677af5a527d9448ee47835485e02b50bc0",
@@ -353,7 +353,7 @@
       }
     },
     {
-      "Name": "aggregator (unknown)",
+      "Name": "aggregator (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": null,
@@ -464,7 +464,7 @@
       }
     },
     {
-      "Name": "aggregator committee mixed (unknown)",
+      "Name": "aggregator committee mixed (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": null,
@@ -590,7 +590,7 @@
       }
     },
     {
-      "Name": "proposer (unknown)",
+      "Name": "proposer (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": null,

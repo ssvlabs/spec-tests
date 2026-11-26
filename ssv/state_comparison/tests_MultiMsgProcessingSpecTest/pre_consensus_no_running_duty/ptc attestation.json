@@ -38,5 +38,21 @@
     "BeaconNetwork": "now_test_network",
     "RunnerRoleType": 7
   },
-  "PayloadAttestationData": null
+  "PayloadAttestationData": null,
+  "PendingPartials": {
+    "8000012": [
+      {
+        "Type": 7,
+        "Slot": "8000012",
+        "Messages": [
+          {
+            "PartialSignature": "935afc0b563f15ff4c1e2b12fac7c9712c1cdc869430f1ecd513592b7a79d01b3bb0ee9608face030e6ed19e8e50d5f8135f5d36cffce06d8b7b47d5b851fbe171efc1ec0e6dc0058db8f085435f3c0f23ef78cff6b227fb901f0b455625a499",
+            "Signer": 1,
+            "SigningRoot": "9a1aca28dff375e7c0003f906d5144a0f3a746f75ee357a51f475cd0d6ce80da",
+            "ValidatorIndex": "1"
+          }
+        ]
+      }
+    ]
+  }
 }

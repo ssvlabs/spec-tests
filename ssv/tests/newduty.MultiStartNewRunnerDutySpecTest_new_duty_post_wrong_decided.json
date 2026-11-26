@@ -258,32 +258,7 @@
         }
       },
       "PostDutyRunnerStateRoot": "4fce8afe24a8f812c9daccfb54c8247771c88b48d161b06901669d1e23ce7a0d",
-      "OutputMessages": [
-        {
-          "Type": 6,
-          "Slot": "12",
-          "Messages": [
-            {
-              "PartialSignature": "831b8437cab11389d19df9adb77bf8afc33d9f15b2da91533b1f265c6ad3c4ae440d2b964344a45211acd6e3f5361bc40fe397581cede2c03f9422a17d41482cb41872762f1c0fb754c395cd3845a50427e8fa0ede4b8c40912af57cda8d2e67",
-              "Signer": 1,
-              "SigningRoot": "a96747766942745b4a6447e3f414fcba5fede9727ee021a9576c9a670a986e53",
-              "ValidatorIndex": "1"
-            },
-            {
-              "PartialSignature": "8ea233eb70fc9b3da15f2cc8a6859c1b0836b7d96453c606914e4b71ce6802fc1e2d2e7da5d32df8c2231652fc01158a194b95e44da3e26dbb737516f25aca7c3ee713721274fddbc829c3c526bfb3838682f6bb8a87f83b9be5e94e790e42ab",
-              "Signer": 1,
-              "SigningRoot": "9989d3ab6c75aa22aef5d56898a930c3f67de00e241103071ecf84523c73fc1c",
-              "ValidatorIndex": "1"
-            },
-            {
-              "PartialSignature": "b42736ed260adcb7efec7b89763b8e25bb59239c26eddf8e82aab85b9ba54a0689951dbeb03c79a129dbfd9b36e0615e198861405c5e06f2c53dcfd1fe8ca35799452c06368feb73a4c5c3d2d1a37534bf734656da4d8dea319438a6c6120c5b",
-              "Signer": 1,
-              "SigningRoot": "f0f373fcb0097430b0915b34dc000a1ff0a2e993bc1c4bf90f0086749f3d269f",
-              "ValidatorIndex": "1"
-            }
-          ]
-        }
-      ],
+      "OutputMessages": null,
       "ExpectedErrorCode": 40,
       "AggregatorCommitteeDuty": {
         "Slot": "12",
@@ -552,20 +527,7 @@
         }
       },
       "PostDutyRunnerStateRoot": "fd8de7873c9cf83ec9366f856f4b8d81d77c215f935185d90cea8be8dcb44089",
-      "OutputMessages": [
-        {
-          "Type": 1,
-          "Slot": "8000012",
-          "Messages": [
-            {
-              "PartialSignature": "908216085a6bf4855537511504407d25f4050d3f9073e7f7f1deac486b8f37a22b730dc00adc5ab48f0776617d0d2c4901d76af196a7d056f3a21cda8d78d86d0f87742af3fd1dfa570af54b4f9fa0e40bd8e6540cf13ef35aed8c90e10e35eb",
-              "Signer": 1,
-              "SigningRoot": "6e9ef331a8e2bd9d44c09f692329a633b1390c2c0f3460a23ce42127462498f7",
-              "ValidatorIndex": "1"
-            }
-          ]
-        }
-      ],
+      "OutputMessages": null,
       "ExpectedErrorCode": 40,
       "ValidatorDuty": {
         "Type": 2,
@@ -580,7 +542,7 @@
       }
     },
     {
-      "Name": "aggregator (unknown)",
+      "Name": "aggregator (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": {
@@ -830,20 +792,7 @@
         }
       },
       "PostDutyRunnerStateRoot": "533fa28f89164dc4a26bdd4e2cd55cca8c17375d3e88251f2480ae727ced1ee1",
-      "OutputMessages": [
-        {
-          "Type": 6,
-          "Slot": "8000012",
-          "Messages": [
-            {
-              "PartialSignature": "8bd47f7c5c2a497e16102caaff17a21239ec31ab561c1b178a148db24c643e6d67f519895c10c2793f688d3be5cf99d3157400975b0af5de06894661ed671a21aca428a4f2642528d2bffdf7f6a3b6d509ab53e43613130790eb3f0bb6e45dcd",
-              "Signer": 1,
-              "SigningRoot": "79f8e519e2d96511746b7fa27d65e26dbb1cdf14dab0317a132ceda9c6fabd81",
-              "ValidatorIndex": "1"
-            }
-          ]
-        }
-      ],
+      "OutputMessages": null,
       "ExpectedErrorCode": 40,
       "AggregatorCommitteeDuty": {
         "Slot": "8000012",
@@ -863,7 +812,7 @@
       }
     },
     {
-      "Name": "attester (unknown)",
+      "Name": "attester (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": {
@@ -1133,7 +1082,7 @@
       }
     },
     {
-      "Name": "sync committee (unknown)",
+      "Name": "sync committee (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": {
@@ -1411,7 +1360,7 @@
       }
     },
     {
-      "Name": "attester and sync committee (unknown)",
+      "Name": "attester and sync committee (gloas)",
       "Runner": {
         "BaseRunner": {
           "State": {

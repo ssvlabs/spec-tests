@@ -4,7 +4,7 @@
   "Documentation": "Tests committee behavior when processing past proposal messages for a duty that doesn't exist",
   "Tests": [
     {
-      "Name": "30 attestation (unknown)",
+      "Name": "30 attestation (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -1324,7 +1324,7 @@
       "ExpectedErrorCode": 20
     },
     {
-      "Name": "30 sync committee (unknown)",
+      "Name": "30 sync committee (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
@@ -2764,7 +2764,7 @@
       "ExpectedErrorCode": 20
     },
     {
-      "Name": "30 attestation 30 sync committee (unknown)",
+      "Name": "30 attestation 30 sync committee (gloas)",
       "Documentation": "",
       "Committee": {
         "CommitteeRunners": {},
